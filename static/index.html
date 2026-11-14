@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AGRI-INTELLIGENCE | Smart Crop Management System</title>
+  
+  <!-- Modern Typography (Plus Jakarta Sans) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Chart.js for Visual Graphs -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+  <!-- Custom Stylesheet -->
+  <meta name="theme-color" content="#064e3b">
+  <link rel="stylesheet" href="/static/css/style.css?v=4.0">
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <header class="top-nav">
+    <div class="nav-container">
+      <div class="brand-wrapper">
+        <div class="brand-logo">🌱</div>
+        <div class="brand-text">
+          <h1 id="ui-brand-title" data-i18n="brand_title">AGRI-INTELLIGENCE</h1>
+          <p id="ui-brand-sub" data-i18n="brand_sub">Smart Crop Management System • 24/7 AI Farmer Assistant</p>
+        </div>
+      </div>
+      <div class="nav-badges">
+        <!-- Language Switcher -->
+        <div style="display:flex; align-items:center; gap:6px; background:#f1f5f9; padding:5px 12px; border-radius:20px; border:1px solid #e2e8f0;">
+          <span style="font-size:0.9rem; font-weight:700;">🌐</span>
+          <select id="global-lang-select" style="background:transparent; border:none; font-weight:700; font-size:0.88rem; color:#064e3b; cursor:pointer; outline:none;">
+            <option value="en">English</option>
+            <option value="te">తెలుగు (Telugu)</option>
+            <option value="hi">हिंदी (Hindi)</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Application Container -->
+  <main class="app-container">
+    
+    <!-- Fixed Bottom Icon Navigation Bar -->
+    <nav class="tab-nav" role="tablist" aria-label="Main Navigation">
+      <button class="tab-btn active" data-tab="tab-overview" role="tab" aria-selected="true" aria-controls="tab-overview" aria-label="Home" data-i18n-title="nav_home" data-i18n-aria="nav_home" title="Home">🏡</button>
+      <button class="tab-btn" data-tab="tab-crop" role="tab" aria-selected="false" aria-controls="tab-crop" aria-label="Crop Selection" data-i18n-title="nav_crop" data-i18n-aria="nav_crop" title="Crop Selection">🌱</button>
+      <button class="tab-btn" data-tab="tab-disease" role="tab" aria-selected="false" aria-controls="tab-disease" aria-label="Plant Doctor" data-i18n-title="nav_doctor" data-i18n-aria="nav_doctor" title="Plant Doctor">📸</button>
+      <button class="tab-btn" data-tab="tab-yield" role="tab" aria-selected="false" aria-controls="tab-yield" aria-label="Harvest and Income" data-i18n-title="nav_yield" data-i18n-aria="nav_yield" title="Harvest & Income">💰</button>
+      <button class="tab-btn" data-tab="tab-advice" role="tab" aria-selected="false" aria-controls="tab-advice" aria-label="Farm Advice" data-i18n-title="nav_advice" data-i18n-aria="nav_advice" title="Farm Advice">💬</button>
+    </nav>
+
+    <!-- ==========================================
+         TAB 1: HOME DASHBOARD (ICONS FIRST)
+         ========================================== -->
+    <section id="tab-overview" class="tab-pane active" role="tabpanel" aria-label="Home">
+
+      <!-- Friendly Hero Banner (Visual & Audio Prompt) - Only shown on Home -->
+      <div class="hero-section" id="hero-welcome-banner" style="width:100%; margin:0.8rem 0 1.5rem 0;">
+        <div class="hero-content">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+            <div>
+              <h2 id="ui-hero-greeting" data-i18n="hero_greeting" style="font-size:1.8rem; font-weight:800; color:white; margin:0;">
+                🌾 Welcome Farmer Friend!
+              </h2>
+              <div style="display:flex; gap:10px; margin-top:8px; flex-wrap:wrap;">
+                <span class="pill-badge pill-gold" style="font-size:0.9rem;" data-i18n="hero_tap_pill">👆 Tap Any Icon Below</span>
+                <span class="pill-badge pill-status" style="font-size:0.9rem;" data-i18n="hero_audio_pill">🔊 Tap Speaker to Listen</span>
+              </div>
+            </div>
+            <button class="audio-btn" id="btn-hero-help" style="font-size:1rem; padding:8px 18px;" data-i18n="hero_help_btn">
+              🔊 Help Guide
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card card-blue">
+          <div class="card-title" data-i18n="weather_title">🌦️ Today's Weather Forecast</div>
+          <div class="stat-value" id="dash-weather-temp">--</div>
+          <div class="stat-label" id="dash-weather-cond" data-i18n="weather_loading">Loading weather...</div>
+          <div class="assumption-note" id="dash-weather-meta"></div>
+        </div>
+
+        <div class="card card-amber">
+          <div class="card-title" data-i18n="spray_alert_title">⚠️ Weather Advisory & Spray Alert</div>
+          <div class="advisory-heading" id="dash-advice-heading" data-i18n="spray_rain_heading">🌧️ Rain Expected This Week</div>
+          <div class="stat-label advisory-text" id="dash-advice-desc" data-i18n="spray_rain_desc">🚫 Stop pesticide and fertilizer spray before rain to avoid nutrient runoff</div>
+        </div>
+      </div>
+
+      <!-- Quick action tool cards (icon-first navigation) -->
+      <div class="tool-grid">
+        <div class="tool-card" data-tab="tab-crop" role="button" tabindex="0">
+          <div class="icon-symbol">🌱</div>
+          <div class="icon-title" data-i18n="tool_crop_title">Choose My Crop</div>
+          <div class="icon-sub" data-i18n="tool_crop_sub">Best crop for your soil</div>
+        </div>
+        <div class="tool-card" data-tab="tab-disease" role="button" tabindex="0">
+          <div class="icon-symbol">📸</div>
+          <div class="icon-title" data-i18n="tool_doctor_title">Plant Doctor</div>
+          <div class="icon-sub" data-i18n="tool_doctor_sub">Photo disease check</div>
+        </div>
+        <div class="tool-card" data-tab="tab-yield" role="button" tabindex="0">
+          <div class="icon-symbol">💰</div>
+          <div class="icon-title" data-i18n="tool_yield_title">Harvest & Income</div>
+          <div class="icon-sub" data-i18n="tool_yield_sub">Yield and mandi value</div>
+        </div>
+        <div class="tool-card" data-tab="tab-advice" role="button" tabindex="0">
+          <div class="icon-symbol">💬</div>
+          <div class="icon-title" data-i18n="tool_advice_title">Ask Expert</div>
+          <div class="icon-sub" data-i18n="tool_advice_sub">Chat and fertilizer plan</div>
+        </div>
+      </div>
+
+      <div class="helpline-card">
+        <div class="helpline-icon">📞</div>
+        <div>
+          <div class="helpline-title" data-i18n="helpline_title">Kisan Call Centre (Toll-Free)</div>
+          <a class="helpline-number" href="tel:9855655653">9855655653</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================
+         TAB 2: CROP SELECTOR (ALL ICONS INSTEAD OF MATTER)
+         ========================================== -->
+    <section id="tab-crop" class="tab-pane" role="tabpanel" aria-label="Crop Selection">
+      <div class="card" style="margin-bottom:1.5rem;">
+        <h3 style="color:#064e3b; margin-bottom:4px;" data-i18n="crop_heading">🌱 What Crop Should I Grow on My Land?</h3>
+        <p style="font-size:0.9rem; color:#64748b; margin-bottom:1.2rem;" data-i18n="crop_sub">
+          Tap the icons that match your field. No complex reading or numbers needed!
+        </p>
+
+        <!-- 1. Soil Type Icons -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_soil">1. Tap Your Soil Type:</span>
+        </div>
+        <div class="icon-grid" id="grid-soil-types">
+          <div class="icon-select-card selected" data-group="soil" data-value="black_cotton">
+            <div class="icon-symbol">🌑</div>
+            <div class="icon-title" data-i18n="soil_black_title">Black Soil</div>
+            <div class="icon-sub" data-i18n="soil_black_sub">Heavy clay soil</div>
+          </div>
+          <div class="icon-select-card" data-group="soil" data-value="red_loam">
+            <div class="icon-symbol">🔴</div>
+            <div class="icon-title" data-i18n="soil_red_title">Red Soil</div>
+            <div class="icon-sub" data-i18n="soil_red_sub">Porous sandy loam</div>
+          </div>
+          <div class="icon-select-card" data-group="soil" data-value="alluvial">
+            <div class="icon-symbol">🌾</div>
+            <div class="icon-title" data-i18n="soil_alluvial_title">Alluvial Soil</div>
+            <div class="icon-sub" data-i18n="soil_alluvial_sub">Fertile river delta</div>
+          </div>
+          <div class="icon-select-card" data-group="soil" data-value="sandy">
+            <div class="icon-symbol">🏜️</div>
+            <div class="icon-title" data-i18n="soil_sandy_title">Sandy Soil</div>
+            <div class="icon-sub" data-i18n="soil_sandy_sub">Rapid drainage soil</div>
+          </div>
+          <div class="icon-select-card" data-group="soil" data-value="clay">
+            <div class="icon-symbol">🪨</div>
+            <div class="icon-title" data-i18n="soil_clay_title">Clayey Soil</div>
+            <div class="icon-sub" data-i18n="soil_clay_sub">Dense puddle soil</div>
+          </div>
+        </div>
+
+        <!-- 2. Sowing Season Icons -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_season">2. Tap Sowing Season:</span>
+        </div>
+        <div class="icon-grid" id="grid-seasons">
+          <div class="icon-select-card selected" data-group="season" data-value="kharif">
+            <div class="icon-symbol">🌧️</div>
+            <div class="icon-title" data-i18n="seas_kharif_title">Monsoon (Kharif)</div>
+            <div class="icon-sub" data-i18n="seas_kharif_sub">June - October</div>
+          </div>
+          <div class="icon-select-card" data-group="season" data-value="rabi">
+            <div class="icon-symbol">❄️</div>
+            <div class="icon-title" data-i18n="seas_rabi_title">Winter (Rabi)</div>
+            <div class="icon-sub" data-i18n="seas_rabi_sub">November - March</div>
+          </div>
+          <div class="icon-select-card" data-group="season" data-value="zaid">
+            <div class="icon-symbol">☀️</div>
+            <div class="icon-title" data-i18n="seas_zaid_title">Summer (Zaid)</div>
+            <div class="icon-sub" data-i18n="seas_zaid_sub">April - June</div>
+          </div>
+        </div>
+
+        <!-- 3. Water Availability Icons -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_water">3. Tap Water Availability:</span>
+        </div>
+        <div class="icon-grid" id="grid-waters">
+          <div class="icon-select-card selected" data-group="water" data-value="moderate">
+            <div class="icon-symbol">🚰</div>
+            <div class="icon-title" data-i18n="water_mod_title">Borewell / Drip</div>
+            <div class="icon-sub" data-i18n="water_mod_sub">Moderate water</div>
+          </div>
+          <div class="icon-select-card" data-group="water" data-value="abundant">
+            <div class="icon-symbol">💧</div>
+            <div class="icon-title" data-i18n="water_abun_title">Canal / Heavy Water</div>
+            <div class="icon-sub" data-i18n="water_abun_sub">Canal or heavy bore</div>
+          </div>
+          <div class="icon-select-card" data-group="water" data-value="rainfed">
+            <div class="icon-symbol">🌧️</div>
+            <div class="icon-title" data-i18n="water_rain_title">Rain-fed Only</div>
+            <div class="icon-sub" data-i18n="water_rain_sub">No borewell</div>
+          </div>
+        </div>
+
+        <!-- 4. Land Slope Icons -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_terrain">4. Tap Land Slope:</span>
+        </div>
+        <div class="icon-grid" id="grid-terrains">
+          <div class="icon-select-card selected" data-group="terrain" data-value="upland">
+            <div class="icon-symbol">⛰️</div>
+            <div class="icon-title" data-i18n="terr_up_title">Upland / Sloping</div>
+            <div class="icon-sub" data-i18n="terr_up_sub">Water drains quickly</div>
+          </div>
+          <div class="icon-select-card" data-group="terrain" data-value="lowland">
+            <div class="icon-symbol">🏞️</div>
+            <div class="icon-title" data-i18n="terr_low_title">Lowland / Flat</div>
+            <div class="icon-sub" data-i18n="terr_low_sub">Water stands in field</div>
+          </div>
+        </div>
+
+        <!-- 5. Farming Goal Icons -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_goal">5. Tap Your Farming Goal:</span>
+        </div>
+        <div class="icon-grid" id="grid-goals">
+          <div class="icon-select-card selected" data-group="goal" data-value="commercial">
+            <div class="icon-symbol">💰</div>
+            <div class="icon-title" data-i18n="goal_comm_title">Cash Crop</div>
+            <div class="icon-sub" data-i18n="goal_comm_sub">Maximum market profit</div>
+          </div>
+          <div class="icon-select-card" data-group="goal" data-value="food_safe">
+            <div class="icon-symbol">🌾</div>
+            <div class="icon-title" data-i18n="goal_food_title">Food Grain</div>
+            <div class="icon-sub" data-i18n="goal_food_sub">Household food security</div>
+          </div>
+          <div class="icon-select-card" data-group="goal" data-value="quick_cash">
+            <div class="icon-symbol">⚡</div>
+            <div class="icon-title" data-i18n="goal_fast_title">Fast 60-Day Crop</div>
+            <div class="icon-sub" data-i18n="goal_fast_sub">Quick cash return</div>
+          </div>
+          <div class="icon-select-card" data-group="goal" data-value="horticulture">
+            <div class="icon-symbol">🌳</div>
+            <div class="icon-title" data-i18n="goal_orch_title">Fruit Orchard</div>
+            <div class="icon-sub" data-i18n="goal_orch_sub">Long term orchard</div>
+          </div>
+        </div>
+
+        <!-- 6. State Selection (drives mandi + agro-climatic context) -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_state">6. Tap Your State:</span>
+        </div>
+        <div class="icon-grid" id="grid-states">
+          <div class="icon-select-card selected" data-group="state" data-value="Telangana">
+            <div class="icon-symbol">🌾</div>
+            <div class="icon-title">Telangana</div>
+            <div class="icon-sub" data-i18n="state_tg_sub">Warangal, Khammam</div>
+          </div>
+          <div class="icon-select-card" data-group="state" data-value="Andhra Pradesh">
+            <div class="icon-symbol">🌊</div>
+            <div class="icon-title">Andhra Pradesh</div>
+            <div class="icon-sub" data-i18n="state_ap_sub">Guntur, Kurnool</div>
+          </div>
+          <div class="icon-select-card" data-group="state" data-value="Maharashtra">
+            <div class="icon-symbol">🥭</div>
+            <div class="icon-title">Maharashtra</div>
+            <div class="icon-sub" data-i18n="state_mh_sub">Nashik, Nagpur</div>
+          </div>
+          <div class="icon-select-card" data-group="state" data-value="Punjab">
+            <div class="icon-symbol">🌾</div>
+            <div class="icon-title">Punjab</div>
+            <div class="icon-sub" data-i18n="state_pb_sub">Khanna, Ludhiana</div>
+          </div>
+          <div class="icon-select-card" data-group="state" data-value="Madhya Pradesh">
+            <div class="icon-symbol">🫘</div>
+            <div class="icon-title">Madhya Pradesh</div>
+            <div class="icon-sub" data-i18n="state_mp_sub">Indore, Bhopal</div>
+          </div>
+        </div>
+
+        <!-- 7. Crop Rotation: Previous Crop (Last Season) -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_prev_crop_1">7. Tap Previous Crop (Last Season):</span>
+        </div>
+        <div class="icon-grid" id="grid-prev-crop-1">
+          <div class="icon-select-card selected" data-group="prev-crop-1" data-value="rice">
+            <div class="icon-symbol">🌾</div>
+            <div class="icon-title" data-i18n="pcrop_rice_title">Paddy / Rice</div>
+            <div class="icon-sub" data-i18n="pcrop_rice_sub">Last season</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-1" data-value="cotton">
+            <div class="icon-symbol">☁️</div>
+            <div class="icon-title" data-i18n="pcrop_cotton_title">Cotton</div>
+            <div class="icon-sub" data-i18n="pcrop_cotton_sub">Last season</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-1" data-value="maize">
+            <div class="icon-symbol">🌽</div>
+            <div class="icon-title" data-i18n="pcrop_maize_title">Maize (Corn)</div>
+            <div class="icon-sub" data-i18n="pcrop_maize_sub">Last season</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-1" data-value="pulses">
+            <div class="icon-symbol">🫘</div>
+            <div class="icon-title" data-i18n="pcrop_pulses_title">Pulses / Dal</div>
+            <div class="icon-sub" data-i18n="pcrop_pulses_sub">Gram, tur, moong</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-1" data-value="groundnut">
+            <div class="icon-symbol">🥜</div>
+            <div class="icon-title" data-i18n="pcrop_groundnut_title">Groundnut</div>
+            <div class="icon-sub" data-i18n="pcrop_groundnut_sub">Last season</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-1" data-value="soybean">
+            <div class="icon-symbol">🌱</div>
+            <div class="icon-title" data-i18n="pcrop_soybean_title">Soybean</div>
+            <div class="icon-sub" data-i18n="pcrop_soybean_sub">Last season</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-1" data-value="chilli">
+            <div class="icon-symbol">🌶️</div>
+            <div class="icon-title" data-i18n="pcrop_chilli_title">Chilli / Veg</div>
+            <div class="icon-sub" data-i18n="pcrop_chilli_sub">Last season</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-1" data-value="none">
+            <div class="icon-symbol">🍂</div>
+            <div class="icon-title" data-i18n="pcrop_none_title">Fallow / None</div>
+            <div class="icon-sub" data-i18n="pcrop_none_sub">Left uncultivated</div>
+          </div>
+        </div>
+
+        <!-- 8. Crop Rotation: Season Before That (2 Seasons Ago) -->
+        <div class="icon-section-title">
+          <span data-i18n="sec_prev_crop_2">8. Tap Crop Before That (2 Seasons Ago):</span>
+        </div>
+        <div class="icon-grid" id="grid-prev-crop-2">
+          <div class="icon-select-card" data-group="prev-crop-2" data-value="rice">
+            <div class="icon-symbol">🌾</div>
+            <div class="icon-title" data-i18n="pcrop_rice_title">Paddy / Rice</div>
+            <div class="icon-sub" data-i18n="pcrop_rice_sub">2 seasons ago</div>
+          </div>
+          <div class="icon-select-card selected" data-group="prev-crop-2" data-value="cotton">
+            <div class="icon-symbol">☁️</div>
+            <div class="icon-title" data-i18n="pcrop_cotton_title">Cotton</div>
+            <div class="icon-sub" data-i18n="pcrop_cotton_sub">2 seasons ago</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-2" data-value="maize">
+            <div class="icon-symbol">🌽</div>
+            <div class="icon-title" data-i18n="pcrop_maize_title">Maize (Corn)</div>
+            <div class="icon-sub" data-i18n="pcrop_maize_sub">2 seasons ago</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-2" data-value="pulses">
+            <div class="icon-symbol">🫘</div>
+            <div class="icon-title" data-i18n="pcrop_pulses_title">Pulses / Dal</div>
+            <div class="icon-sub" data-i18n="pcrop_pulses_sub">Gram, tur, moong</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-2" data-value="groundnut">
+            <div class="icon-symbol">🥜</div>
+            <div class="icon-title" data-i18n="pcrop_groundnut_title">Groundnut</div>
+            <div class="icon-sub" data-i18n="pcrop_groundnut_sub">2 seasons ago</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-2" data-value="soybean">
+            <div class="icon-symbol">🌱</div>
+            <div class="icon-title" data-i18n="pcrop_soybean_title">Soybean</div>
+            <div class="icon-sub" data-i18n="pcrop_soybean_sub">2 seasons ago</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-2" data-value="chilli">
+            <div class="icon-symbol">🌶️</div>
+            <div class="icon-title" data-i18n="pcrop_chilli_title">Chilli / Veg</div>
+            <div class="icon-sub" data-i18n="pcrop_chilli_sub">2 seasons ago</div>
+          </div>
+          <div class="icon-select-card" data-group="prev-crop-2" data-value="none">
+            <div class="icon-symbol">🍂</div>
+            <div class="icon-title" data-i18n="pcrop_none_title">Fallow / None</div>
+            <div class="icon-sub" data-i18n="pcrop_none_sub">Left uncultivated</div>
+          </div>
+        </div>
+
+        <!-- Optional Advanced: Soil Health Card Test Values (N, P, K, pH) -->
+        <details style="margin:14px 0 10px 0; background:#f8fafc; border:1px solid #cbd5e1; border-radius:12px; padding:10px 14px;">
+          <summary style="font-weight:700; color:#064e3b; cursor:pointer; font-size:0.95rem; user-select:none;" data-i18n="lab_summary">
+            🧪 Optional: Enter Lab Soil Test / N-P-K Card
+          </summary>
+          <p style="font-size:0.82rem; color:#64748b; margin:6px 0 10px 0;" data-i18n="lab_desc">
+            If you have your government Soil Health Card report, enter your laboratory values. If not, leave blank and our AI model will estimate from your selected soil type.
+          </p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(130px, 1fr)); gap:10px;">
+            <div>
+              <label style="font-size:0.8rem; font-weight:700; color:#334155;" data-i18n="lab_n">Nitrogen (N) kg/ha:</label>
+              <input type="number" id="crop-opt-n" class="text-input" placeholder="e.g. 85" style="padding:6px 10px; font-size:0.9rem;">
+            </div>
+            <div>
+              <label style="font-size:0.8rem; font-weight:700; color:#334155;" data-i18n="lab_p">Phosphorus (P) kg/ha:</label>
+              <input type="number" id="crop-opt-p" class="text-input" placeholder="e.g. 45" style="padding:6px 10px; font-size:0.9rem;">
+            </div>
+            <div>
+              <label style="font-size:0.8rem; font-weight:700; color:#334155;" data-i18n="lab_k">Potassium (K) kg/ha:</label>
+              <input type="number" id="crop-opt-k" class="text-input" placeholder="e.g. 40" style="padding:6px 10px; font-size:0.9rem;">
+            </div>
+            <div>
+              <label style="font-size:0.8rem; font-weight:700; color:#334155;" data-i18n="lab_ph">Soil pH:</label>
+              <input type="number" step="0.1" id="crop-opt-ph" class="text-input" placeholder="e.g. 6.5" style="padding:6px 10px; font-size:0.9rem;">
+            </div>
+          </div>
+        </details>
+
+        <button class="btn btn-primary btn-block" id="btn-recommend-crop" style="font-size:1.15rem; padding:15px; margin-top:10px;" data-i18n="btn_find_crop">
+          🚀 Find My Best Crop
+        </button>
+      </div>
+
+      <!-- Results Container (Icon Cards) -->
+      <div id="crop-results-container" style="display:none;">
+        <div class="card card-emerald" style="margin-bottom:1.5rem;">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+            <div>
+              <div style="font-size:0.85rem; color:#047857; font-weight:700;" data-i18n="res_best_crop_tag">#1 BEST CROP FOR YOUR LAND</div>
+              <h2 id="crop-primary-name" style="font-size:2rem; font-weight:800; color:#064e3b; margin:4px 0;"></h2>
+            </div>
+            <div style="display:flex; gap:8px; align-items:center;">
+              <button class="audio-btn" id="btn-speak-crop" data-i18n="res_listen_btn">🔊 Listen</button>
+              <span class="pill-badge pill-gold" id="crop-primary-conf" style="font-size:1rem; padding:6px 14px;"></span>
+            </div>
+          </div>
+          <p id="crop-suitability-summary" style="margin-top:10px; font-size:0.95rem; color:#065f46; font-weight:600;"></p>
+        </div>
+
+        <h3 style="color:#064e3b; margin-bottom:1rem;" data-i18n="res_top3_heading">🏆 Top 3 Profitable Crops:</h3>
+        <div id="crop-top3-list"></div>
+
+        <div class="card" style="margin-top:1.5rem;">
+          <h4 style="color:#064e3b; margin-bottom:10px;" data-i18n="chart_comp_title">📊 Crop Suitability Comparison</h4>
+          <div class="chart-box chart-box-240">
+            <canvas id="chart-crop-confidence"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================
+         TAB 3: PLANT DOCTOR (DISEASE AI)
+         ========================================== -->
+    <section id="tab-disease" class="tab-pane" role="tabpanel" aria-label="Plant Doctor">
+      <div class="card" style="margin-bottom:1.5rem;">
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; margin-bottom:12px;">
+          <div>
+            <h3 style="color:#064e3b; margin:0;" data-i18n="doc_title">📸 Plant Doctor: Instant Crop Disease & Damage Diagnosis</h3>
+            <p style="font-size:0.88rem; color:#64748b; margin-top:2px;" data-i18n="doc_sub">
+              ⚡ Specialized for 8 Crops: Banana, Blackgram, Chilli, Cotton, Groundnut, Maize, Mango, Rice • Detects leaves, fruits, stems, bolls & pods!
+            </p>
+          </div>
+          <button class="audio-btn" id="btn-speak-disease" style="display:none;" data-i18n="btn_listen_cure">🔊 Listen to Cure</button>
+        </div>
+
+        <div class="grid-2" style="align-items:stretch;">
+          <!-- Left: Upload/Camera Controls -->
+          <div>
+            <!-- Curated sample photos so a demo never needs a manual upload -->
+            <div class="icon-section-title"><span data-i18n="sample_title">📂 Or Tap a Sample Photo:</span></div>
+            <div class="sample-leaf-grid" id="sample-leaf-grid">
+              <div class="sample-leaf-card" data-sample="/sample_images/rice_blast_leaf.jpg" role="button" tabindex="0">
+                <img src="/sample_images/rice_blast_leaf.jpg" alt="Rice leaf blast sample">
+                <strong data-i18n="sample_rice">Rice Blast</strong>
+              </div>
+              <div class="sample-leaf-card" data-sample="/sample_images/cotton_boll_damage.jpg" role="button" tabindex="0">
+                <img src="/sample_images/cotton_boll_damage.jpg" alt="Cotton boll damage sample">
+                <strong data-i18n="sample_cotton">Cotton Boll</strong>
+              </div>
+              <div class="sample-leaf-card" data-sample="/sample_images/chilli_fruit_rot.jpg" role="button" tabindex="0">
+                <img src="/sample_images/chilli_fruit_rot.jpg" alt="Chilli fruit rot sample">
+                <strong data-i18n="sample_chilli">Chilli Rot</strong>
+              </div>
+              <div class="sample-leaf-card" data-sample="/sample_images/banana_leaf_spot.jpg" role="button" tabindex="0">
+                <img src="/sample_images/banana_leaf_spot.jpg" alt="Banana leaf spot sample">
+                <strong data-i18n="sample_banana">Banana Spot</strong>
+              </div>
+              <div class="sample-leaf-card" data-sample="/sample_images/yellow_mosaic_leaf.jpg" role="button" tabindex="0">
+                <img src="/sample_images/yellow_mosaic_leaf.jpg" alt="Yellow mosaic virus sample">
+                <strong data-i18n="sample_mosaic">Yellow Mosaic</strong>
+              </div>
+              <div class="sample-leaf-card" data-sample="/sample_images/early_blight_leaf.jpg" role="button" tabindex="0">
+                <img src="/sample_images/early_blight_leaf.jpg" alt="Early blight sample">
+                <strong data-i18n="sample_blight">Early Blight</strong>
+              </div>
+              <div class="sample-leaf-card" data-sample="/sample_images/healthy_leaf.jpg" role="button" tabindex="0">
+                <img src="/sample_images/healthy_leaf.jpg" alt="Healthy leaf sample">
+                <strong data-i18n="sample_healthy">Healthy Leaf</strong>
+              </div>
+            </div>
+
+            <div class="dropzone" id="leaf-dropzone" style="padding:2.2rem 1.5rem;">
+              <div class="dropzone-icon">📷</div>
+              <h4 data-i18n="drop_title">Tap to Upload Leaf, Fruit or Plant Photo</h4>
+              <p style="font-size:0.85rem; color:#64748b; margin-top:4px;" data-i18n="drop_sub">Select photo from phone gallery or drag & drop</p>
+              <p class="assumption-note" data-i18n="drop_limit">Maximum 5 MB • JPG or PNG</p>
+              <input type="file" id="leaf-file-input" accept="image/*" style="display:none;">
+            </div>
+
+            <div style="margin-top:12px;">
+              <button class="btn btn-primary btn-block" id="btn-open-camera" style="font-size:1.05rem; padding:13px;" data-i18n="btn_camera">
+                📸 Snap with Camera
+              </button>
+            </div>
+
+            <div class="preview-container" id="leaf-preview-container" style="display:none;">
+              <img id="leaf-preview-img" class="preview-img" alt="Plant Preview" data-i18n-alt="preview_alt">
+              <button class="btn btn-primary btn-block" id="btn-analyze-disease" style="margin-top:10px;" disabled data-i18n="btn_check_disease">
+                🔍 Check Plant Disease Now
+              </button>
+            </div>
+          </div>
+
+          <!-- Right: Visual Diagnosis Output & Guidance -->
+          <div>
+            <!-- Initial Guidance Card (shown before diagnosis) -->
+            <div id="disease-guide-box" class="card card-blue" style="padding:22px; border-radius:12px; height:100%; display:flex; flex-direction:column; justify-content:center; box-sizing:border-box;">
+              <h4 style="color:#1e40af; font-size:1.15rem; margin:0 0 14px 0; display:flex; align-items:center; gap:8px;">
+                <span>🔬</span> <span data-i18n="doc_guide_heading">AI Plant Doctor Guidance</span>
+              </h4>
+              <div style="display:flex; flex-direction:column; gap:14px; font-size:0.92rem; color:#334155;">
+                <div style="display:flex; align-items:flex-start; gap:10px;">
+                  <span style="font-size:1.3rem;">🌿</span>
+                  <div>
+                    <strong data-i18n="guide_supported_title">8 Supported Crops:</strong>
+                    <div style="font-size:0.85rem; color:#64748b; margin-top:2px;" data-i18n="guide_supported_desc">Rice, Cotton, Chilli, Banana, Maize, Groundnut, Blackgram, Mango.</div>
+                  </div>
+                </div>
+                <div style="display:flex; align-items:flex-start; gap:10px;">
+                  <span style="font-size:1.3rem;">☀️</span>
+                  <div>
+                    <strong data-i18n="guide_lighting_title">Clear Daylight Lighting:</strong>
+                    <div style="font-size:0.85rem; color:#64748b; margin-top:2px;" data-i18n="guide_lighting_desc">Take a clear close-up photo of the infected leaf, fruit rot, or stem under natural light.</div>
+                  </div>
+                </div>
+                <div style="display:flex; align-items:flex-start; gap:10px;">
+                  <span style="font-size:1.3rem;">💊</span>
+                  <div>
+                    <strong data-i18n="guide_cure_title">Dual Remedy Prescription:</strong>
+                    <div style="font-size:0.85rem; color:#64748b; margin-top:2px;" data-i18n="guide_cure_desc">Instant organic solutions plus chemical spray doses (per 15L water pump).</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Visual Diagnosis Output (shown after analysis) -->
+            <div id="disease-results-box" class="card card-emerald" style="display:none;">
+
+              <!-- Which engine produced this diagnosis (honesty disclosure) -->
+              <div class="engine-badge" id="diag-engine"></div>
+
+              <!-- Not Detected Banner (for non-plants or unsupported crops) -->
+              <div id="diag-not-detected-box" style="display:none; background:#fff7ed; border:2px solid #fdba74; border-radius:12px; padding:16px; margin-bottom:14px;">
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span style="font-size:2rem;">⚠️</span>
+                  <div>
+                    <h3 id="diag-not-detected-title" style="color:#c2410c; margin:0; font-size:1.25rem; font-weight:800;">The model is not trained in that image</h3>
+                    <p id="diag-not-detected-msg" style="color:#9a3412; font-size:0.92rem; margin-top:4px; line-height:1.4;"></p>
+                  </div>
+                </div>
+                <div style="margin-top:10px; padding:8px 12px; background:#ffedd5; border-radius:8px; font-size:0.85rem; color:#7c2d12; font-weight:700;" data-i18n="supported_crops_msg">
+                  Supported Crops: Banana, Blackgram, Chilli, Cotton, Groundnut, Maize, Mango, Rice.
+                </div>
+              </div>
+
+              <!-- Detected Diagnosis Container -->
+              <div id="diag-detected-content">
+                <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px;">
+                  <div>
+                    <h3 id="diag-condition" style="color:#064e3b; font-size:1.5rem; font-weight:800;">Condition</h3>
+                    <div style="font-size:0.95rem; color:#047857; margin-top:2px;">
+                      <strong data-i18n="diag_lbl_crop">Crop:</strong> <span id="diag-crop"></span> | <strong data-i18n="diag_lbl_part">Part:</strong> <span id="diag-plant-part"></span> | <strong data-i18n="diag_lbl_pathogen">Pathogen:</strong> <span id="diag-pathogen"></span>
+                    </div>
+                  </div>
+                  <span class="pill-badge pill-gold" id="diag-severity-badge">Normal</span>
+                </div>
+
+                <div id="diag-summary" style="margin:12px 0; font-size:0.95rem; color:#1e293b; background:white; padding:12px; border-radius:8px; border:1px solid #bbf7d0;">
+                </div>
+
+                <!-- Practical Farmer Remedies -->
+                <div style="display:grid; grid-template-columns: 1fr; gap:10px;">
+                  <div class="card" style="padding:12px;">
+                    <strong style="color:#047857; font-size:1rem;" data-i18n="diag_remedy_organic">🌿 Home / Organic Remedy:</strong>
+                    <ul id="diag-organic-list" style="margin-left:18px; margin-top:6px; font-size:0.9rem; color:#334155;"></ul>
+                  </div>
+                  <div class="card" style="padding:12px; border-left:4px solid #dc2626;">
+                    <strong style="color:#b91c1c; font-size:1rem;" data-i18n="diag_remedy_chemical">🧪 Market Spray & Mixing Dose:</strong>
+                    <div style="font-size:0.82rem; color:#7f1d1d; margin-top:2px; font-weight:700;" data-i18n="diag_spray_pump">
+                      🚜 Standard 1 Spray Pump = 15 to 16 Liters of water
+                    </div>
+                    <ul id="diag-chemical-list" style="margin-left:18px; margin-top:6px; font-size:0.9rem; color:#334155;"></ul>
+                  </div>
+                  <div class="card" style="padding:12px;">
+                    <strong style="color:#047857; font-size:1rem;" data-i18n="diag_prevention">🛡️ Prevention for Next Season:</strong>
+                    <ul id="diag-prevent-list" style="margin-left:18px; margin-top:6px; font-size:0.9rem; color:#334155;"></ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Camera Modal -->
+    <div class="modal-overlay" id="camera-modal">
+      <div class="modal-content">
+        <h4 style="margin-bottom:10px; color:#064e3b;" data-i18n="cam_modal_title">📸 Capture Leaf Image</h4>
+        <video id="camera-video" autoplay playsinline style="width:100%; border-radius:8px; background:#000;"></video>
+        <canvas id="camera-canvas" style="display:none;"></canvas>
+        <div style="display:flex; justify-content:flex-end; gap:10px; margin-top:12px;">
+          <button class="btn btn-outline" id="btn-close-camera" data-i18n="cam_cancel">Cancel</button>
+          <button class="btn btn-primary" id="btn-capture-photo" data-i18n="cam_snap">Take Photo</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==========================================
+         TAB 4: HARVEST & INCOME ESTIMATOR
+         ========================================== -->
+    <section id="tab-yield" class="tab-pane" role="tabpanel" aria-label="Harvest and Income">
+      <div class="card">
+        <h3 style="color:#064e3b; margin-bottom:4px;" data-i18n="yield_heading">💰 Expected Harvest & Cash Income Estimator</h3>
+        <p style="font-size:0.9rem; color:#64748b; margin-bottom:1.2rem;" data-i18n="yield_sub">
+          Enter your acres and crop to see how many Quintals you will harvest and your estimated earnings in Rupees (₹).
+        </p>
+
+        <!-- Crop selector icons with live rates -->
+        <div class="icon-section-title"><span data-i18n="yield_select_crop">Select Crop:</span></div>
+        <div class="icon-grid" id="grid-yield-crops">
+          <div class="icon-select-card selected" data-group="yield-crop" data-value="Rice">
+            <div class="icon-symbol">🌾</div>
+            <div class="icon-title" data-i18n="ycrop_rice">Rice (Paddy)</div>
+            <div class="icon-sub" style="font-weight:700; color:#047857; margin-top:2px;">₹2,580 / Q</div>
+          </div>
+          <div class="icon-select-card" data-group="yield-crop" data-value="Cotton">
+            <div class="icon-symbol">☁️</div>
+            <div class="icon-title" data-i18n="ycrop_cotton">Cotton</div>
+            <div class="icon-sub" style="font-weight:700; color:#047857; margin-top:2px;">₹7,450 / Q</div>
+          </div>
+          <div class="icon-select-card" data-group="yield-crop" data-value="Maize">
+            <div class="icon-symbol">🌽</div>
+            <div class="icon-title" data-i18n="ycrop_maize">Maize (Corn)</div>
+            <div class="icon-sub" style="font-weight:700; color:#047857; margin-top:2px;">₹2,340 / Q</div>
+          </div>
+          <div class="icon-select-card" data-group="yield-crop" data-value="Pulses">
+            <div class="icon-symbol">🫘</div>
+            <div class="icon-title" data-i18n="ycrop_pulses">Pulses (Dal)</div>
+            <div class="icon-sub" style="font-weight:700; color:#047857; margin-top:2px;">₹7,650 / Q</div>
+          </div>
+          <div class="icon-select-card" data-group="yield-crop" data-value="Groundnut">
+            <div class="icon-symbol">🥜</div>
+            <div class="icon-title" data-i18n="ycrop_groundnut">Groundnut</div>
+            <div class="icon-sub" style="font-weight:700; color:#047857; margin-top:2px;">₹6,950 / Q</div>
+          </div>
+          <div class="icon-select-card" data-group="yield-crop" data-value="Soybean">
+            <div class="icon-symbol">🌱</div>
+            <div class="icon-title" data-i18n="ycrop_soybean">Soybean</div>
+            <div class="icon-sub" style="font-weight:700; color:#047857; margin-top:2px;">₹4,750 / Q</div>
+          </div>
+        </div>
+
+        <!-- Live APMC Mandi Market Price Card for Selected Crop -->
+        <div id="yield-live-market-card" class="card card-emerald" style="margin-top:1.1rem; padding:15px 18px; border-radius:14px; border:1.5px solid #86efac; box-shadow:0 3px 10px rgba(16, 185, 129, 0.08);">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+            <div style="display:flex; align-items:center; gap:9px;">
+              <span class="live-pulse-dot" style="display:inline-block; width:10px; height:10px; border-radius:50%; background:#10b981; animation:pulseDot 1.8s infinite;"></span>
+              <strong id="yield-live-market-title" style="color:#064e3b; font-size:1.02rem;" data-i18n="yield_live_market_title">📡 Live APMC Mandi Market Price:</strong>
+              <span id="yield-live-crop-badge" style="background:#065f46; color:#ffffff; padding:2px 10px; border-radius:20px; font-size:0.86rem; font-weight:700;">Rice (Paddy)</span>
+            </div>
+            <span id="yield-live-trend-pill" class="pill-badge" style="background:#dcfce7; color:#15803d; border:1px solid #86efac; font-weight:700; font-size:0.82rem; padding:4px 10px;">
+              🟢 Stable (+0.5%)
+            </span>
+          </div>
+
+          <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(190px, 1fr)); gap:14px; margin-top:12px; padding-top:12px; border-top:1px dashed #86efac;">
+            <div style="background:white; padding:10px 14px; border-radius:10px; border:1px solid #bbf7d0;">
+              <div class="stat-label" style="color:#047857; font-weight:700;" data-i18n="yield_live_modal_label">Today's Modal Market Price</div>
+              <div style="font-size:1.8rem; font-weight:800; color:#064e3b; margin:2px 0;" id="yield-live-price-disp">₹ 2,580 <span style="font-size:0.92rem; font-weight:600; color:#64748b;" data-i18n="mkt_per_quintal">/ Quintal</span></div>
+              <div style="font-size:0.82rem; color:#475569;" id="yield-live-mandi-disp">📍 Warangal APMC, Telangana</div>
+              <a id="yield-live-map-link" href="#" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:5px; font-size:0.82rem; font-weight:700; color:#047857;" hidden>View market location on map</a>
+              <div id="yield-live-source-disp" aria-live="polite" style="font-size:0.76rem; color:#64748b; margin-top:4px;"></div>
+              <button type="button" id="btn-yield-location" class="btn btn-outline" style="margin-top:8px; padding:7px 11px; font-size:0.82rem;" data-i18n="btn_use_location">Use my location</button>
+              <div id="yield-location-status" aria-live="polite" style="font-size:0.78rem; color:#475569; margin-top:5px;"></div>
+            </div>
+
+            <div style="background:white; padding:10px 14px; border-radius:10px; border:1px solid #bbf7d0;">
+              <div class="stat-label" style="color:#047857; font-weight:700;" data-i18n="yield_today_range_label">Today's Mandi Range</div>
+              <div style="font-size:1.25rem; font-weight:700; color:#1e293b; margin:4px 0;" id="yield-live-range-disp">₹ 2,400 - ₹ 2,750 <span style="font-size:0.82rem; font-weight:500; color:#64748b;">/ Q</span></div>
+              <div style="font-size:0.82rem; color:#059669; font-weight:700;" id="yield-live-msp-status">Trading ₹280 ABOVE Central MSP (₹2,300)</div>
+            </div>
+
+            <div style="background:white; padding:10px 14px; border-radius:10px; border:1px solid #bbf7d0;">
+              <div class="stat-label" style="color:#047857; font-weight:700;" data-i18n="yield_variety_label">Traded Variety</div>
+              <div style="font-size:1.05rem; font-weight:700; color:#1e293b; margin:4px 0;" id="yield-live-variety-disp">BPT 5204 (Sona Masoori)</div>
+              <div style="font-size:0.82rem; color:#64748b;" id="yield-live-arrival-disp">Daily Market Arrivals: 650 Tonnes</div>
+            </div>
+          </div>
+
+          <div id="yield-nearby-wrap" style="margin-top:12px; padding-top:12px; border-top:1px dashed #86efac;" hidden>
+            <strong id="yield-market-list-title" style="color:#064e3b; font-size:0.92rem;" data-i18n="nearby_markets_title">Nearby markets and modal prices:</strong>
+            <div id="yield-nearby-list" style="display:grid; gap:6px; margin-top:7px; max-height:260px; overflow-y:auto; padding-right:4px;"></div>
+          </div>
+        </div>
+
+        <!-- Area Stepper and Water Source Icon Cards -->
+        <div class="grid-2" style="margin-top:1.2rem; align-items:start;">
+          <div>
+            <div class="icon-section-title"><span data-i18n="yield_land_area">🌱 Land Area in Acres:</span></div>
+            <div class="stepper-container">
+              <button type="button" class="stepper-btn" id="btn-yield-minus">-</button>
+              <div class="stepper-display" id="disp-yield-acres">2.5</div>
+              <button type="button" class="stepper-btn" id="btn-yield-plus">+</button>
+              <span id="disp-yield-unit" style="font-weight:700; color:#064e3b; font-size:0.95rem;" data-i18n="yield_acre_unit">Acres</span>
+            </div>
+            <input type="hidden" id="yield-area-acres" value="2.5">
+
+            <div class="quick-acre-row">
+              <button type="button" class="quick-acre-btn" data-target="yield" data-val="1.0">🌱 1 <span data-i18n="unit_single_acre">Acre</span></button>
+              <button type="button" class="quick-acre-btn" data-target="yield" data-val="2.0">🌱 2 <span data-i18n="unit_multi_acres">Acres</span></button>
+              <button type="button" class="quick-acre-btn active" data-target="yield" data-val="2.5">🌱 2.5 <span data-i18n="unit_multi_acres">Acres</span></button>
+              <button type="button" class="quick-acre-btn" data-target="yield" data-val="5.0">🌱 5 <span data-i18n="unit_multi_acres">Acres</span></button>
+              <button type="button" class="quick-acre-btn" data-target="yield" data-val="10.0">🌱 10 <span data-i18n="unit_multi_acres">Acres</span></button>
+            </div>
+          </div>
+
+          <div>
+            <div class="icon-section-title"><span data-i18n="yield_water_title">💧 Water Availability:</span></div>
+            <div class="icon-grid" id="grid-yield-water" style="grid-template-columns: 1fr 1fr;">
+              <div class="icon-select-card selected" data-group="yield-water" data-value="good">
+                <div class="icon-symbol">💧</div>
+                <div class="icon-title" data-i18n="yield_water_good_title">Borewell / Canal</div>
+                <div class="icon-sub" data-i18n="yield_water_good_sub">Good irrigation</div>
+              </div>
+              <div class="icon-select-card" data-group="yield-water" data-value="rainfed">
+                <div class="icon-symbol">🌧️</div>
+                <div class="icon-title" data-i18n="yield_water_rain_title">Rainfed Only</div>
+                <div class="icon-sub" data-i18n="yield_water_rain_sub">Rain dependent</div>
+              </div>
+            </div>
+            <input type="hidden" id="yield-water-type" value="good">
+          </div>
+        </div>
+
+        <button class="btn btn-primary btn-block" id="btn-predict-yield" style="font-size:1.15rem; padding:15px; margin-top:14px;" data-i18n="btn_calc_yield">
+          💰 Estimate Harvest & Income
+        </button>
+
+        <!-- Visual Yield Output Box with Live Market Price & Real Cash Income -->
+        <div id="yield-results-box" class="card card-emerald" style="display:none; margin-top:1.5rem;">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; margin-bottom:14px; gap:8px;">
+            <h4 style="color:#064e3b; font-size:1.25rem; margin:0;" data-i18n="yield_res_heading">🌾 Estimated Harvest & Gross Cash Revenue:</h4>
+            <button type="button" class="btn btn-secondary btn-sm" id="btn-speak-yield" style="display:inline-flex; align-items:center; gap:6px; font-weight:700; border:1px solid #86efac; background:white; color:#065f46; cursor:pointer;">
+              🔊 <span data-i18n="btn_listen_advice">Listen in Audio</span>
+            </button>
+          </div>
+
+          <div class="assumption-note" id="yield-assumption-note"></div>
+
+          <div class="grid-2" style="gap:14px;">
+            <!-- Card 1: Production Output -->
+            <div class="card" style="padding:16px; background:white; border:1.5px solid #86efac;">
+              <div class="stat-label" data-i18n="yield_tot_prod_label">Total Expected Harvest Output</div>
+              <div class="stat-value" id="yield-total-prod-val" style="font-size:1.85rem; color:#065f46;">0 Quintals</div>
+              <p style="font-size:0.85rem; color:#64748b; margin-top:4px;" id="yield-prod-sub" data-i18n="yield_tot_prod_sub">Machine learning prediction based on historical agro-climatic yields</p>
+            </div>
+
+            <!-- Card 2: Live APMC Market Price of Selected Crop -->
+            <div class="card" style="padding:16px; background:white; border:1.5px solid #38bdf8;">
+              <div style="display:flex; justify-content:space-between; align-items:center;">
+                <div class="stat-label" style="font-weight:700; color:#0284c7;" data-i18n="yield_live_mkt_stat_label">Live APMC Market Price</div>
+                <span id="yield-res-trend-badge" style="font-size:0.75rem; font-weight:700; padding:2px 8px; border-radius:10px; background:#e0f2fe; color:#0369a1;">Stable</span>
+              </div>
+              <div class="stat-value" id="yield-res-market-price" style="font-size:1.85rem; color:#0284c7;">₹ 0 <span style="font-size:0.95rem; font-weight:600; color:#64748b;" data-i18n="mkt_per_quintal">/ Quintal</span></div>
+              <p style="font-size:0.85rem; color:#64748b; margin-top:4px;" id="yield-res-market-sub">Warangal APMC • Today's Modal Rate</p>
+            </div>
+
+            <!-- Card 3: Estimated Cash Income at Live Market Price (Primary highlight) -->
+            <div class="card" style="padding:16px; background:linear-gradient(135deg, #ffffff 0%, #ecfdf5 100%); border:2px solid #10b981; box-shadow:0 4px 10px rgba(16, 185, 129, 0.12);">
+              <div style="display:flex; justify-content:space-between; align-items:center;">
+                <div class="stat-label" style="font-weight:800; color:#065f46;" data-i18n="yield_live_income_label">💰 Cash Income (Live Market Price)</div>
+                <span class="pill-badge" style="background:#10b981; color:white; font-size:0.75rem; font-weight:700; padding:2px 8px;">Mandi Rate</span>
+              </div>
+              <div class="stat-value" id="yield-live-income-val" style="font-size:2rem; color:#047857;">₹ 0</div>
+              <p style="font-size:0.85rem; color:#065f46; font-weight:600; margin-top:4px;" id="yield-live-income-sub">Calculated at live market rate</p>
+            </div>
+
+            <!-- Card 4: Govt MSP Benchmark Revenue (Safety floor) -->
+            <div class="card" style="padding:16px; background:white; border:1.5px solid #cbd5e1;">
+              <div style="display:flex; justify-content:space-between; align-items:center;">
+                <div class="stat-label" data-i18n="yield_rev_label">Govt Minimum Support Price (MSP) Revenue</div>
+                <span class="pill-badge" style="background:#f1f5f9; color:#475569; font-size:0.75rem; font-weight:700; padding:2px 8px;">Safety Floor</span>
+              </div>
+              <div class="stat-value" id="yield-est-revenue" style="font-size:1.85rem; color:#334155;">₹ 0</div>
+              <p style="font-size:0.85rem; color:#64748b; margin-top:4px;" id="yield-msp-sub" data-i18n="yield_rev_sub">Central Government Minimum Support Price (MSP)</p>
+            </div>
+          </div>
+
+          <!-- Live Market vs MSP Advantage Callout -->
+          <div id="yield-market-advantage-banner" style="margin-top:1rem; padding:12px 16px; border-radius:10px; background:white; border-left:5px solid #10b981; display:flex; align-items:center; gap:12px;">
+            <div style="font-size:1.6rem;" id="yield-advantage-icon">📈</div>
+            <div style="flex:1;">
+              <div style="font-weight:700; font-size:0.95rem; color:#065f46;" id="yield-advantage-title">Market Premium Advantage</div>
+              <div style="font-size:0.88rem; color:#334155; margin-top:2px;" id="yield-advantage-desc">
+                Selling in open Mandi yields higher earnings than Govt MSP benchmark.
+              </div>
+            </div>
+          </div>
+
+          <!-- Smart Selling Recommendation Advice -->
+          <div id="yield-selling-advice-card" style="margin-top:0.8rem; padding:12px 16px; border-radius:10px; background:white; border-left:5px solid #3b82f6; display:flex; align-items:start; gap:12px;">
+            <div style="font-size:1.6rem;">💡</div>
+            <div style="flex:1;">
+              <div style="font-weight:700; font-size:0.92rem; color:#1e40af;" data-i18n="yield_selling_advice_title">Agri-Expert Selling Advice & Market Timing:</div>
+              <div style="font-size:0.88rem; color:#334155; margin-top:2px; line-height:1.4;" id="yield-selling-advice-desc">
+                Market arrivals are steady and mill demand is strong.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================
+         TAB 5: FARM ADVICE (AI AGRONOMIST CHAT + FERTILIZER/IRRIGATION PLANNER)
+         ========================================== -->
+    <section id="tab-advice" class="tab-pane" role="tabpanel" aria-label="Farm Advice">
+      <div class="card" style="margin-bottom:1.5rem;">
+        <h3 style="color:#064e3b; margin:0 0 4px 0;" data-i18n="advice_chat_title">💬 Ask the AI Agronomist</h3>
+        <p style="font-size:0.9rem; color:#64748b; margin-bottom:12px;" data-i18n="advice_chat_sub">
+          Ask about pests, fertilizer, schemes or mandi timing. Answers follow the language selected above.
+        </p>
+
+        <div class="chat-container">
+          <div class="chat-messages" id="chat-messages" role="log" aria-live="polite" aria-relevant="additions"></div>
+          <div class="chat-input-bar">
+            <label class="sr-only" for="chat-input" data-i18n="chat_placeholder">Type your farming question</label>
+            <input type="text" id="chat-input" class="text-input" autocomplete="off"
+                   placeholder="Type your farming question..." data-i18n-placeholder="chat_placeholder">
+            <button class="btn btn-primary" id="btn-chat-send" data-i18n="chat_send">Send</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3 style="color:#064e3b; margin:0 0 4px 0;" data-i18n="resource_title">🧪 Fertilizer Bags & Irrigation Planner</h3>
+        <p style="font-size:0.9rem; color:#64748b; margin-bottom:12px;" data-i18n="resource_sub">
+          Get exact urea, DAP and potash bag counts plus motor run-time for your field.
+        </p>
+
+        <div class="resource-form">
+          <div>
+            <label class="res-label" for="res-crop" data-i18n="res_crop_label">Crop</label>
+            <select id="res-crop" class="select-input">
+              <option value="rice">Rice</option>
+              <option value="wheat">Wheat</option>
+              <option value="maize">Maize</option>
+              <option value="cotton">Cotton</option>
+              <option value="groundnut">Groundnut</option>
+              <option value="soybean">Soybean</option>
+              <option value="chickpea">Chickpea</option>
+              <option value="sugarcane">Sugarcane</option>
+            </select>
+          </div>
+          <div>
+            <label class="res-label" for="res-soil" data-i18n="res_soil_label">Soil type</label>
+            <select id="res-soil" class="select-input">
+              <option value="Black Cotton Soil">Black Cotton Soil</option>
+              <option value="Red Sandy Loam">Red Sandy Loam</option>
+              <option value="Alluvial Soil">Alluvial Soil</option>
+              <option value="Sandy Loam">Sandy Loam</option>
+              <option value="Clay Loam">Clay Loam</option>
+            </select>
+          </div>
+          <div>
+            <label class="res-label" for="res-stage" data-i18n="res_stage_label">Growth stage</label>
+            <select id="res-stage" class="select-input">
+              <option value="Initial / Germination">Initial / Germination</option>
+              <option value="Vegetative / Tillering" selected>Vegetative / Tillering</option>
+              <option value="Flowering / Grain Fill">Flowering / Grain Fill</option>
+              <option value="Ripening / Maturity">Ripening / Maturity</option>
+            </select>
+          </div>
+          <div>
+            <label class="res-label" for="res-area" data-i18n="res_area_label">Area (acres)</label>
+            <input type="number" id="res-area" class="text-input" min="0.1" max="100" step="0.1" value="2.0">
+          </div>
+          <div>
+            <label class="res-label" for="res-n" data-i18n="res_n_label">Soil N (kg/ha)</label>
+            <input type="number" id="res-n" class="text-input" min="0" max="400" step="1" value="80">
+          </div>
+          <div>
+            <label class="res-label" for="res-p" data-i18n="res_p_label">Soil P (kg/ha)</label>
+            <input type="number" id="res-p" class="text-input" min="0" max="400" step="1" value="35">
+          </div>
+          <div>
+            <label class="res-label" for="res-k" data-i18n="res_k_label">Soil K (kg/ha)</label>
+            <input type="number" id="res-k" class="text-input" min="0" max="400" step="1" value="40">
+          </div>
+          <div>
+            <label class="res-label" for="res-moisture" data-i18n="res_moisture_label">Soil moisture (%)</label>
+            <input type="number" id="res-moisture" class="text-input" min="0" max="100" step="1" value="45">
+          </div>
+          <div>
+            <label class="res-label" for="res-temp" data-i18n="res_temp_label">Day temperature (C)</label>
+            <input type="number" id="res-temp" class="text-input" min="0" max="55" step="0.5" value="31">
+          </div>
+        </div>
+
+        <button class="btn btn-primary btn-block" id="btn-plan-resources" style="margin-top:14px; font-size:1.05rem; padding:14px;" data-i18n="btn_plan_resources">
+          🧪 Plan My Fertilizer & Water
+        </button>
+
+        <div id="resource-results" style="display:none; margin-top:1.2rem;">
+          <div class="assumption-note" id="resource-assumption-note"></div>
+          <div class="grid-2" style="gap:14px;">
+            <div class="card" style="padding:16px; background:#f0fdf4; border:1.5px solid #86efac;">
+              <h4 style="color:#065f46; margin:0 0 10px 0; font-size:1.05rem;" data-i18n="fert_result_title">Fertilizer Bags to Buy</h4>
+              <div id="fert-result-body" style="font-size:0.95rem; color:#1e293b;"></div>
+            </div>
+            <div class="card" style="padding:16px; background:#eff6ff; border:1.5px solid #bfdbfe;">
+              <h4 style="color:#1e40af; margin:0 0 10px 0; font-size:1.05rem;" data-i18n="irrig_result_title">Irrigation Plan</h4>
+              <div id="irrig-result-body" style="font-size:0.95rem; color:#1e293b;"></div>
+            </div>
+          </div>
+          <div class="card" style="margin-top:14px; padding:16px;">
+            <h4 style="color:#064e3b; margin:0 0 10px 0; font-size:1.05rem;" data-i18n="fert_schedule_title">Split Application Schedule</h4>
+            <ol id="fert-schedule-list" style="margin-left:18px; font-size:0.92rem; color:#334155;"></ol>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Non-blocking toast host for client-side errors -->
+  <div class="toast-host" id="toast-host" role="status" aria-live="polite"></div>
+
+  <!-- Application Controller -->
+  <script src="/static/js/app.js?v=4.4"></script>
+</body>
+</html>

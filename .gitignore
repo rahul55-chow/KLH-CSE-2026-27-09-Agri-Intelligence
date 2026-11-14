@@ -1,0 +1,44 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Presentations & Reports
+*.docx
+*.pptx
+*.ppt
+*.doc
+
+# Temporary & Lock Files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS Generated Files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & Editor Config
+.vscode/
+.idea/

@@ -1,0 +1,2501 @@
+Crop,State,Season,Area_ha,Annual_Rainfall_mm,Fertilizer_kg_ha,Pesticide_kg_ha,Yield_tonnes_ha,Production_tonnes
+Rice,Andhra Pradesh,Rabi,16.31,1330.2,84.2,1.85,3.63,59.19
+Rice,Andhra Pradesh,Kharif,13.57,1975.6,142.3,5.91,2.126,28.84
+Rice,Madhya Pradesh,Zaid,7.82,768.3,152.5,2.98,5.226,40.89
+Rice,Tamil Nadu,Whole Year,16.17,498.5,127.0,5.95,4.601,74.41
+Rice,Andhra Pradesh,Whole Year,7.85,763.0,121.3,1.92,3.354,26.32
+Rice,Andhra Pradesh,Zaid,22.75,920.2,78.4,6.28,3.46,78.72
+Rice,Maharashtra,Zaid,13.27,488.2,108.8,1.09,4.472,59.35
+Rice,Maharashtra,Rabi,6.74,1104.6,123.1,1.88,1.809,12.2
+Rice,Punjab,Kharif,18.26,550.3,194.1,5.75,3.749,68.45
+Rice,Maharashtra,Kharif,17.19,1143.4,31.1,6.4,1.583,27.21
+Rice,Telangana,Zaid,18.26,514.3,185.9,3.6,3.601,65.75
+Rice,Telangana,Rabi,5.45,1687.1,148.8,7.91,5.07,27.62
+Rice,Punjab,Zaid,17.3,1358.8,166.6,6.03,3.588,62.07
+Rice,Maharashtra,Zaid,8.89,1041.5,139.3,2.91,1.95,17.34
+Rice,Andhra Pradesh,Kharif,18.59,413.8,92.0,5.4,3.558,66.14
+Rice,Madhya Pradesh,Zaid,21.16,895.0,72.8,4.48,1.45,30.69
+Rice,Andhra Pradesh,Whole Year,20.04,1456.0,197.2,3.49,3.14,62.93
+Rice,Telangana,Rabi,5.99,1508.8,226.2,1.21,4.624,27.69
+Rice,Punjab,Zaid,20.08,906.2,178.5,1.9,4.01,80.52
+Rice,Uttar Pradesh,Whole Year,21.68,536.7,214.5,0.68,4.279,92.78
+Rice,Andhra Pradesh,Rabi,14.55,1484.4,114.8,6.98,1.917,27.89
+Rice,Maharashtra,Rabi,19.47,1142.0,143.5,6.74,2.199,42.82
+Rice,Karnataka,Kharif,4.46,1234.6,49.0,7.01,3.591,16.03
+Rice,Uttar Pradesh,Kharif,11.94,988.0,110.9,1.0,3.794,45.29
+Rice,Telangana,Rabi,11.53,1881.2,222.2,6.71,1.554,17.92
+Rice,Uttar Pradesh,Rabi,15.29,322.9,29.8,5.58,2.955,45.18
+Rice,Andhra Pradesh,Whole Year,21.45,585.8,229.6,5.72,1.386,29.72
+Rice,Andhra Pradesh,Zaid,17.89,1310.9,102.2,6.58,4.956,88.66
+Rice,Andhra Pradesh,Rabi,21.81,713.1,122.5,3.07,4.499,98.12
+Rice,Madhya Pradesh,Whole Year,23.71,1451.5,70.2,3.28,4.058,96.21
+Rice,Telangana,Whole Year,15.13,587.6,179.4,6.03,1.877,28.4
+Rice,Tamil Nadu,Rabi,9.62,1914.4,138.0,1.04,3.113,29.94
+Rice,Uttar Pradesh,Zaid,19.59,572.9,123.3,6.07,4.857,95.18
+Rice,Telangana,Zaid,10.29,962.6,147.0,6.18,4.685,48.21
+Rice,Madhya Pradesh,Whole Year,8.52,889.1,195.5,4.51,1.689,14.39
+Rice,Telangana,Whole Year,6.27,1021.9,85.4,5.76,1.277,8.01
+Rice,Karnataka,Zaid,20.65,1531.7,49.5,1.43,1.716,35.42
+Rice,Maharashtra,Kharif,6.15,360.4,232.6,6.57,2.403,14.78
+Rice,Maharashtra,Kharif,1.33,1198.3,170.3,6.2,4.218,5.63
+Rice,Karnataka,Whole Year,2.21,865.7,172.2,6.03,3.248,7.17
+Rice,Andhra Pradesh,Kharif,3.21,1804.7,84.6,2.07,1.473,4.73
+Rice,Tamil Nadu,Whole Year,10.47,694.5,87.2,3.71,3.989,41.77
+Rice,Punjab,Zaid,9.85,1550.2,58.7,5.21,4.642,45.72
+Rice,Punjab,Zaid,4.39,535.0,161.4,6.18,3.977,17.45
+Rice,Madhya Pradesh,Zaid,13.38,1612.8,196.5,5.4,2.679,35.85
+Rice,Maharashtra,Rabi,0.99,350.3,58.0,5.2,2.794,2.78
+Rice,Maharashtra,Rabi,16.66,1819.0,124.6,0.83,4.201,69.98
+Rice,Maharashtra,Whole Year,6.45,1610.0,106.5,4.04,4.179,26.95
+Rice,Madhya Pradesh,Whole Year,2.82,1451.4,69.4,0.97,2.239,6.31
+Rice,Andhra Pradesh,Whole Year,5.47,382.5,42.8,6.81,3.31,18.09
+Rice,Punjab,Whole Year,7.91,1135.0,165.6,0.78,1.039,8.21
+Rice,Punjab,Zaid,11.02,1755.5,26.5,4.17,0.679,7.48
+Rice,Telangana,Kharif,6.69,752.5,164.9,7.45,4.446,29.76
+Rice,Madhya Pradesh,Whole Year,4.79,1908.2,58.1,0.69,4.663,22.34
+Rice,Telangana,Whole Year,5.02,1589.9,202.9,2.28,3.085,15.49
+Rice,Maharashtra,Rabi,21.26,499.0,241.9,2.48,1.354,28.78
+Rice,Tamil Nadu,Zaid,4.15,942.3,166.2,4.3,3.983,16.54
+Rice,Telangana,Whole Year,14.16,409.1,153.6,3.42,4.522,64.02
+Rice,Maharashtra,Kharif,8.03,1826.7,154.8,7.27,3.638,29.22
+Rice,Tamil Nadu,Kharif,19.04,819.2,44.4,6.75,3.061,58.28
+Rice,Andhra Pradesh,Kharif,20.61,809.5,181.8,2.15,3.713,76.5
+Rice,Maharashtra,Zaid,23.94,1345.6,137.8,2.77,3.495,83.69
+Rice,Uttar Pradesh,Whole Year,20.81,1008.8,187.3,3.85,4.3,89.46
+Rice,Tamil Nadu,Whole Year,13.94,1786.1,99.9,1.04,1.429,19.91
+Rice,Karnataka,Zaid,14.1,1064.0,62.2,1.2,4.644,65.47
+Rice,Punjab,Kharif,14.47,439.5,48.3,0.58,1.593,23.05
+Rice,Madhya Pradesh,Kharif,6.98,1943.8,90.9,3.23,0.441,3.08
+Rice,Madhya Pradesh,Kharif,21.97,318.8,170.6,5.65,2.467,54.2
+Rice,Maharashtra,Zaid,9.57,632.0,139.7,3.86,3.415,32.7
+Rice,Tamil Nadu,Kharif,21.24,1845.3,232.6,6.23,2.769,58.81
+Rice,Punjab,Kharif,0.86,1864.3,100.8,0.81,5.345,4.62
+Rice,Tamil Nadu,Whole Year,19.07,1166.0,88.9,2.02,2.656,50.66
+Rice,Tamil Nadu,Whole Year,1.38,1018.3,35.8,7.08,5.686,7.83
+Rice,Tamil Nadu,Kharif,6.03,1503.4,174.5,1.42,4.619,27.87
+Rice,Andhra Pradesh,Whole Year,23.69,817.1,25.9,0.98,3.979,94.26
+Rice,Uttar Pradesh,Rabi,4.25,1146.8,96.3,3.3,4.528,19.26
+Rice,Telangana,Kharif,2.04,1645.0,162.2,6.76,3.771,7.69
+Rice,Telangana,Whole Year,7.16,957.9,193.1,6.32,3.21,22.98
+Rice,Punjab,Zaid,16.49,1107.7,106.9,3.64,3.633,59.91
+Rice,Punjab,Kharif,9.72,1747.7,152.4,2.85,2.449,23.79
+Rice,Karnataka,Kharif,9.24,1031.1,36.4,1.34,5.18,47.87
+Rice,Punjab,Kharif,19.2,1904.0,217.9,3.64,4.141,79.48
+Rice,Madhya Pradesh,Rabi,8.14,1299.2,216.9,5.76,6.116,49.79
+Rice,Uttar Pradesh,Kharif,24.3,1687.4,199.7,4.38,4.359,105.95
+Rice,Punjab,Zaid,0.98,373.8,27.0,7.85,0.2,0.2
+Rice,Maharashtra,Whole Year,2.3,1927.3,69.8,7.78,0.2,0.46
+Rice,Telangana,Zaid,16.47,836.7,160.7,5.83,3.305,54.44
+Rice,Maharashtra,Zaid,18.38,934.0,54.7,7.84,3.669,67.44
+Rice,Tamil Nadu,Whole Year,5.21,1458.8,41.2,7.01,2.926,15.25
+Rice,Telangana,Zaid,3.04,1190.5,178.0,6.41,2.971,9.04
+Rice,Telangana,Kharif,9.41,1247.4,233.4,3.41,3.051,28.7
+Rice,Andhra Pradesh,Zaid,6.91,1624.0,224.9,4.27,0.604,4.18
+Rice,Karnataka,Kharif,5.08,1231.0,166.3,4.18,3.86,19.62
+Rice,Karnataka,Kharif,16.06,587.6,37.1,2.76,2.199,35.32
+Rice,Maharashtra,Rabi,21.06,1495.2,149.6,7.17,3.852,81.14
+Rice,Andhra Pradesh,Kharif,1.99,525.9,238.7,3.8,1.779,3.55
+Rice,Telangana,Kharif,14.8,639.5,21.6,6.19,1.781,26.36
+Rice,Tamil Nadu,Zaid,15.47,874.8,142.4,6.5,3.655,56.53
+Rice,Andhra Pradesh,Whole Year,17.6,1806.3,65.9,1.83,2.305,40.57
+Rice,Madhya Pradesh,Rabi,18.73,973.1,49.9,5.6,4.633,86.76
+Rice,Punjab,Rabi,0.81,1256.3,128.0,2.45,2.968,2.41
+Rice,Andhra Pradesh,Rabi,13.64,1968.0,75.9,7.68,2.484,33.88
+Rice,Maharashtra,Whole Year,4.08,551.9,160.0,6.74,4.232,17.26
+Rice,Madhya Pradesh,Kharif,3.15,300.4,43.4,6.25,4.449,14.03
+Rice,Punjab,Kharif,6.39,1651.3,65.7,2.37,2.571,16.42
+Rice,Karnataka,Zaid,8.08,1175.0,106.9,7.78,1.877,15.17
+Rice,Punjab,Kharif,23.31,1247.6,176.0,1.75,2.246,52.36
+Rice,Telangana,Kharif,1.53,1102.8,86.0,7.9,4.491,6.85
+Rice,Tamil Nadu,Rabi,21.73,837.9,192.3,5.45,0.433,9.4
+Rice,Uttar Pradesh,Rabi,10.48,1231.8,155.7,2.51,5.472,57.34
+Rice,Tamil Nadu,Zaid,0.94,1748.7,193.9,1.88,1.62,1.53
+Rice,Andhra Pradesh,Whole Year,20.06,1533.2,196.4,7.28,0.626,12.56
+Rice,Maharashtra,Zaid,15.56,1527.3,176.7,7.02,2.693,41.89
+Rice,Karnataka,Rabi,17.24,516.1,197.6,3.19,3.366,58.02
+Rice,Andhra Pradesh,Kharif,23.91,733.9,217.2,6.3,1.498,35.82
+Rice,Andhra Pradesh,Whole Year,12.36,479.6,135.0,6.65,5.299,65.47
+Rice,Uttar Pradesh,Rabi,5.35,653.4,206.5,4.02,3.118,16.69
+Rice,Uttar Pradesh,Kharif,3.0,361.0,92.9,2.13,3.264,9.79
+Rice,Punjab,Rabi,11.54,1189.3,207.2,4.09,4.772,55.08
+Rice,Punjab,Whole Year,2.54,1186.9,153.3,4.34,3.662,9.29
+Rice,Karnataka,Whole Year,5.98,928.6,58.2,5.5,5.378,32.16
+Rice,Telangana,Whole Year,6.54,1638.6,178.7,7.06,5.045,32.99
+Rice,Uttar Pradesh,Kharif,13.91,1555.9,244.1,7.92,1.292,17.97
+Rice,Telangana,Whole Year,17.58,1585.2,171.7,3.24,4.352,76.51
+Rice,Punjab,Kharif,23.41,1540.3,136.1,4.95,3.184,74.53
+Rice,Uttar Pradesh,Rabi,8.48,1005.8,82.8,4.47,4.348,36.89
+Rice,Andhra Pradesh,Rabi,3.03,619.7,231.2,5.22,1.327,4.02
+Rice,Andhra Pradesh,Kharif,16.99,1289.7,234.5,5.19,0.902,15.32
+Rice,Karnataka,Rabi,0.63,1814.0,185.9,1.79,3.487,2.21
+Rice,Andhra Pradesh,Whole Year,19.74,1645.0,89.2,1.02,1.047,20.67
+Rice,Karnataka,Whole Year,6.64,414.8,95.9,7.77,2.967,19.71
+Rice,Karnataka,Whole Year,10.87,329.5,185.2,1.25,4.84,52.62
+Rice,Telangana,Rabi,14.36,302.9,245.4,2.77,0.862,12.38
+Rice,Karnataka,Kharif,0.76,387.0,211.7,2.3,2.715,2.05
+Rice,Karnataka,Rabi,8.12,418.6,22.4,2.62,2.646,21.49
+Rice,Maharashtra,Zaid,8.67,963.3,80.1,4.47,3.386,29.37
+Rice,Madhya Pradesh,Zaid,3.8,1814.1,109.8,1.08,2.256,8.58
+Rice,Punjab,Rabi,1.05,1113.0,113.8,7.76,2.06,2.15
+Rice,Maharashtra,Rabi,15.88,643.7,146.1,4.66,3.17,50.35
+Rice,Punjab,Zaid,8.32,771.2,71.6,0.54,2.202,18.32
+Rice,Uttar Pradesh,Zaid,14.95,795.5,58.6,5.64,4.387,65.58
+Rice,Punjab,Rabi,18.3,515.2,173.2,5.7,3.17,58.02
+Rice,Andhra Pradesh,Rabi,6.95,1388.5,162.2,3.39,2.525,17.54
+Rice,Andhra Pradesh,Zaid,15.35,658.1,208.2,7.06,3.306,50.74
+Rice,Punjab,Zaid,2.36,1326.1,130.4,3.71,3.195,7.54
+Rice,Tamil Nadu,Whole Year,16.52,1707.6,65.9,4.43,3.194,52.78
+Rice,Madhya Pradesh,Zaid,16.78,408.7,223.3,4.33,2.183,36.62
+Rice,Madhya Pradesh,Zaid,23.94,1903.7,237.1,0.82,3.708,88.78
+Rice,Maharashtra,Zaid,1.99,826.1,60.2,5.15,3.343,6.65
+Rice,Tamil Nadu,Zaid,0.81,1694.8,61.0,3.96,5.251,4.27
+Rice,Karnataka,Whole Year,21.89,1942.2,78.7,1.01,3.146,68.88
+Rice,Telangana,Rabi,1.63,1618.0,73.4,3.01,6.271,10.24
+Rice,Andhra Pradesh,Whole Year,23.68,586.8,188.4,2.34,3.23,76.47
+Rice,Madhya Pradesh,Whole Year,20.61,1799.9,245.6,6.79,2.948,60.75
+Rice,Karnataka,Zaid,17.37,1124.7,101.2,5.2,4.348,75.53
+Rice,Uttar Pradesh,Zaid,4.82,935.3,91.9,1.96,5.144,24.8
+Rice,Madhya Pradesh,Kharif,23.72,1214.6,85.9,3.16,1.296,30.74
+Rice,Madhya Pradesh,Zaid,7.22,888.1,182.3,4.88,4.904,35.39
+Rice,Punjab,Whole Year,24.34,383.9,39.1,5.76,2.41,58.66
+Rice,Tamil Nadu,Zaid,17.56,617.2,56.4,4.77,3.232,56.74
+Rice,Madhya Pradesh,Whole Year,20.87,1835.6,110.3,6.83,0.913,19.04
+Rice,Madhya Pradesh,Rabi,3.03,751.2,207.9,4.28,6.383,19.33
+Rice,Madhya Pradesh,Zaid,2.67,832.8,101.8,3.67,7.229,19.32
+Rice,Karnataka,Zaid,13.19,1329.8,193.3,1.26,5.212,68.73
+Rice,Punjab,Rabi,21.23,960.9,187.5,6.22,2.787,59.18
+Rice,Maharashtra,Zaid,1.32,496.5,198.5,6.6,3.441,4.53
+Rice,Uttar Pradesh,Zaid,14.75,1574.2,228.4,3.66,1.672,24.66
+Rice,Uttar Pradesh,Whole Year,14.66,1106.2,217.8,2.54,2.518,36.92
+Rice,Maharashtra,Zaid,8.42,316.5,145.0,3.34,3.712,31.27
+Rice,Punjab,Kharif,5.8,1018.1,167.5,1.93,4.122,23.92
+Rice,Madhya Pradesh,Zaid,8.6,1884.7,137.7,6.85,4.554,39.16
+Rice,Karnataka,Rabi,20.38,1395.7,203.4,1.93,6.012,122.54
+Rice,Karnataka,Rabi,6.13,1657.1,39.8,6.47,2.089,12.8
+Rice,Andhra Pradesh,Whole Year,7.86,1306.3,128.7,2.73,3.23,25.4
+Rice,Tamil Nadu,Whole Year,10.47,1100.2,214.7,1.17,1.067,11.16
+Rice,Punjab,Zaid,3.1,474.5,115.8,0.75,0.922,2.86
+Rice,Tamil Nadu,Zaid,5.43,1132.0,22.6,5.57,3.64,19.76
+Rice,Punjab,Rabi,16.26,1162.5,70.4,2.6,4.418,71.85
+Rice,Karnataka,Whole Year,1.43,1852.3,227.1,1.31,0.802,1.15
+Rice,Uttar Pradesh,Whole Year,15.27,511.3,171.8,5.07,6.463,98.71
+Rice,Madhya Pradesh,Zaid,10.36,1923.4,215.4,4.89,2.758,28.57
+Rice,Tamil Nadu,Kharif,3.37,991.1,64.1,3.04,3.164,10.67
+Rice,Karnataka,Zaid,3.6,1073.1,226.6,4.18,4.912,17.71
+Rice,Uttar Pradesh,Kharif,2.83,656.3,202.0,5.58,2.688,7.61
+Rice,Uttar Pradesh,Zaid,16.84,1883.6,30.3,5.12,2.885,48.59
+Rice,Karnataka,Zaid,19.39,1246.9,156.4,3.0,0.2,3.88
+Rice,Punjab,Kharif,17.23,300.8,95.6,2.14,0.857,14.76
+Rice,Punjab,Whole Year,6.88,1253.3,124.8,6.51,2.241,15.41
+Rice,Tamil Nadu,Whole Year,21.66,300.2,159.1,0.57,1.633,35.38
+Rice,Telangana,Kharif,9.82,1738.9,43.5,5.5,4.112,40.38
+Rice,Maharashtra,Rabi,1.05,1942.0,24.2,6.81,4.251,4.46
+Rice,Andhra Pradesh,Kharif,10.92,823.6,110.9,5.76,3.244,35.43
+Rice,Tamil Nadu,Zaid,24.96,1379.6,220.9,6.72,0.2,4.99
+Rice,Tamil Nadu,Zaid,8.9,1396.2,73.0,3.83,3.638,32.39
+Rice,Telangana,Whole Year,1.79,1367.7,162.3,7.75,2.472,4.41
+Rice,Uttar Pradesh,Kharif,23.03,994.7,121.8,2.39,1.172,27.0
+Rice,Uttar Pradesh,Whole Year,3.21,1496.6,177.0,2.92,0.741,2.38
+Rice,Uttar Pradesh,Zaid,21.14,1828.5,60.0,5.71,2.757,58.29
+Rice,Uttar Pradesh,Rabi,16.44,896.7,166.3,5.66,2.163,35.56
+Rice,Uttar Pradesh,Zaid,20.15,1995.9,71.3,5.75,2.706,54.53
+Rice,Telangana,Rabi,24.26,321.4,102.5,1.07,0.944,22.91
+Rice,Andhra Pradesh,Kharif,12.42,1013.0,100.2,1.15,5.023,62.36
+Rice,Telangana,Zaid,16.16,1144.5,36.1,4.58,3.18,51.39
+Rice,Maharashtra,Rabi,8.03,1530.0,191.5,3.54,2.271,18.24
+Rice,Karnataka,Rabi,12.07,781.7,193.6,5.77,3.465,41.8
+Rice,Madhya Pradesh,Rabi,17.99,1352.4,161.8,6.87,4.508,81.12
+Rice,Telangana,Rabi,4.92,833.9,169.6,4.68,2.153,10.59
+Rice,Punjab,Zaid,3.38,1360.2,60.4,5.53,5.924,20.04
+Rice,Punjab,Whole Year,6.78,541.7,25.6,3.34,2.778,18.84
+Rice,Uttar Pradesh,Whole Year,9.06,1574.8,228.1,2.09,0.825,7.47
+Rice,Punjab,Rabi,3.71,688.8,149.1,2.8,4.37,16.23
+Rice,Uttar Pradesh,Rabi,8.57,621.9,25.3,1.8,4.154,35.6
+Rice,Maharashtra,Rabi,4.57,454.9,141.1,2.92,4.291,19.59
+Rice,Madhya Pradesh,Zaid,13.15,1066.1,233.6,5.48,3.158,41.53
+Rice,Karnataka,Zaid,17.93,1290.5,99.8,6.39,3.088,55.37
+Rice,Uttar Pradesh,Rabi,10.22,1798.3,169.7,4.85,4.546,46.46
+Rice,Andhra Pradesh,Whole Year,7.38,410.9,138.7,3.68,6.07,44.77
+Rice,Telangana,Whole Year,10.11,1766.9,169.8,7.17,2.063,20.86
+Rice,Maharashtra,Kharif,4.6,1457.0,93.0,6.77,2.302,10.59
+Rice,Maharashtra,Kharif,17.25,1912.7,66.4,7.02,3.932,67.82
+Rice,Karnataka,Zaid,14.03,1694.9,165.6,5.52,4.261,59.78
+Rice,Andhra Pradesh,Whole Year,21.19,897.6,96.3,0.68,2.636,55.85
+Rice,Karnataka,Rabi,8.59,856.3,178.4,2.4,3.378,29.02
+Rice,Telangana,Kharif,2.38,872.6,107.7,5.98,4.628,11.01
+Rice,Madhya Pradesh,Whole Year,9.7,1848.1,46.3,6.09,2.013,19.52
+Rice,Karnataka,Zaid,14.46,788.8,91.6,6.75,3.9,56.39
+Rice,Uttar Pradesh,Whole Year,13.06,1458.0,49.9,7.49,2.051,26.79
+Rice,Tamil Nadu,Rabi,2.42,1366.9,230.7,2.37,1.341,3.24
+Rice,Uttar Pradesh,Whole Year,6.19,1691.9,58.5,3.1,1.063,6.59
+Rice,Tamil Nadu,Zaid,23.72,874.4,122.5,1.76,5.672,134.54
+Rice,Madhya Pradesh,Rabi,7.64,333.7,92.8,7.88,0.466,3.56
+Rice,Andhra Pradesh,Whole Year,18.43,615.2,149.9,0.74,4.803,88.52
+Rice,Tamil Nadu,Whole Year,17.99,1005.4,47.1,0.96,1.872,33.69
+Rice,Andhra Pradesh,Rabi,13.87,1110.3,190.6,1.77,2.623,36.4
+Rice,Karnataka,Rabi,22.31,339.2,174.8,4.64,2.341,52.23
+Rice,Andhra Pradesh,Whole Year,5.73,1768.1,64.9,6.94,4.257,24.37
+Rice,Madhya Pradesh,Rabi,20.96,749.6,50.5,4.66,0.2,4.19
+Rice,Tamil Nadu,Whole Year,2.83,1357.4,68.7,1.47,3.557,10.07
+Rice,Karnataka,Zaid,11.76,1597.8,40.5,0.93,0.39,4.59
+Rice,Telangana,Zaid,4.99,671.9,86.4,7.08,3.202,15.98
+Rice,Madhya Pradesh,Rabi,17.15,331.3,207.2,2.3,2.427,41.61
+Rice,Tamil Nadu,Kharif,21.39,943.8,229.0,7.01,2.766,59.16
+Rice,Tamil Nadu,Kharif,7.98,1847.7,26.9,6.24,3.087,24.63
+Rice,Maharashtra,Rabi,21.16,1431.8,117.3,0.97,3.817,80.77
+Rice,Maharashtra,Whole Year,22.68,1169.7,142.5,3.52,4.516,102.41
+Rice,Madhya Pradesh,Whole Year,24.0,1945.1,233.9,3.97,2.912,69.87
+Rice,Telangana,Rabi,17.8,841.8,35.7,7.26,1.448,25.77
+Rice,Andhra Pradesh,Kharif,18.23,1749.8,113.3,1.11,4.068,74.14
+Rice,Andhra Pradesh,Whole Year,7.77,544.7,137.4,4.11,5.012,38.97
+Rice,Telangana,Kharif,22.56,1731.1,169.8,0.93,3.307,74.61
+Wheat,Andhra Pradesh,Kharif,22.69,937.6,141.0,2.61,3.426,77.74
+Wheat,Punjab,Rabi,4.99,1117.2,219.4,6.83,2.077,10.37
+Wheat,Madhya Pradesh,Whole Year,12.33,1238.4,209.1,5.75,1.819,22.42
+Wheat,Maharashtra,Kharif,4.08,655.9,112.2,7.55,2.347,9.58
+Wheat,Tamil Nadu,Rabi,16.99,524.6,140.6,4.52,3.003,51.01
+Wheat,Punjab,Zaid,8.97,1820.3,50.5,3.12,2.914,26.13
+Wheat,Andhra Pradesh,Kharif,1.31,755.7,157.0,2.93,5.223,6.82
+Wheat,Telangana,Kharif,16.78,407.5,32.3,6.99,0.37,6.21
+Wheat,Uttar Pradesh,Zaid,14.81,1361.9,57.8,6.21,1.678,24.85
+Wheat,Maharashtra,Whole Year,2.49,1660.8,167.2,4.87,2.629,6.53
+Wheat,Punjab,Rabi,9.37,1847.5,127.1,4.96,1.824,17.08
+Wheat,Karnataka,Rabi,22.38,1848.5,101.6,4.94,2.768,61.95
+Wheat,Madhya Pradesh,Whole Year,1.86,367.7,138.8,2.68,5.53,10.28
+Wheat,Karnataka,Kharif,22.12,770.7,107.7,3.03,4.424,97.85
+Wheat,Punjab,Whole Year,4.68,348.7,243.5,7.85,4.152,19.43
+Wheat,Andhra Pradesh,Whole Year,7.81,622.2,161.8,4.73,5.192,40.56
+Wheat,Madhya Pradesh,Whole Year,22.19,1251.6,54.5,4.99,1.585,35.16
+Wheat,Karnataka,Whole Year,14.1,554.4,121.9,2.21,1.232,17.37
+Wheat,Maharashtra,Rabi,17.95,1368.6,134.5,3.67,1.5,26.93
+Wheat,Andhra Pradesh,Kharif,21.04,1632.2,243.6,5.42,1.029,21.65
+Wheat,Karnataka,Rabi,7.75,430.7,162.1,4.16,2.962,22.96
+Wheat,Maharashtra,Whole Year,10.24,866.2,220.3,3.47,4.635,47.47
+Wheat,Madhya Pradesh,Zaid,1.17,1477.4,36.5,1.61,0.459,0.54
+Wheat,Andhra Pradesh,Zaid,20.14,1908.6,73.4,2.88,3.068,61.78
+Wheat,Karnataka,Rabi,20.47,1998.6,82.9,4.67,1.414,28.94
+Wheat,Telangana,Rabi,5.67,1161.1,57.7,7.17,1.832,10.38
+Wheat,Tamil Nadu,Rabi,1.18,1790.4,244.8,4.26,0.2,0.24
+Wheat,Telangana,Zaid,12.54,385.2,135.9,2.39,2.59,32.49
+Wheat,Tamil Nadu,Whole Year,10.75,818.7,123.2,4.06,4.237,45.55
+Wheat,Uttar Pradesh,Zaid,22.68,1584.8,37.4,1.65,2.89,65.55
+Wheat,Uttar Pradesh,Kharif,8.31,1040.6,136.0,6.89,3.195,26.56
+Wheat,Telangana,Rabi,23.71,709.8,48.2,1.57,3.153,74.77
+Wheat,Madhya Pradesh,Rabi,10.08,1582.0,94.3,1.46,2.974,29.97
+Wheat,Karnataka,Whole Year,20.92,931.6,84.7,6.31,3.153,65.98
+Wheat,Uttar Pradesh,Zaid,6.18,384.7,63.2,3.34,1.822,11.26
+Wheat,Punjab,Kharif,14.51,622.0,161.2,3.02,1.455,21.11
+Wheat,Andhra Pradesh,Zaid,14.15,1242.3,177.7,3.0,4.74,67.08
+Wheat,Andhra Pradesh,Zaid,11.38,763.2,86.1,5.74,1.787,20.35
+Wheat,Maharashtra,Zaid,2.83,1913.0,63.0,3.64,2.654,7.52
+Wheat,Punjab,Whole Year,16.17,615.3,220.0,6.16,3.076,49.75
+Wheat,Madhya Pradesh,Rabi,20.22,1791.2,180.6,1.25,0.813,16.45
+Wheat,Karnataka,Whole Year,9.07,1169.6,61.1,4.6,3.197,29.01
+Wheat,Punjab,Zaid,22.59,408.6,107.0,2.51,5.211,117.71
+Wheat,Maharashtra,Kharif,8.93,950.5,170.5,1.96,3.181,28.4
+Wheat,Uttar Pradesh,Whole Year,6.44,510.9,101.0,7.53,3.92,25.26
+Wheat,Telangana,Rabi,16.01,589.1,54.8,1.72,3.435,54.98
+Wheat,Karnataka,Whole Year,18.82,1864.4,111.6,3.96,0.2,3.76
+Wheat,Uttar Pradesh,Whole Year,21.25,884.3,219.9,2.79,2.598,55.19
+Wheat,Maharashtra,Kharif,14.23,475.3,232.1,6.65,2.779,39.53
+Wheat,Maharashtra,Whole Year,11.11,308.9,56.3,3.76,3.111,34.55
+Wheat,Telangana,Zaid,4.49,1061.7,22.9,4.08,3.087,13.85
+Wheat,Punjab,Zaid,4.48,644.1,37.6,6.07,4.511,20.19
+Wheat,Madhya Pradesh,Zaid,9.91,1574.7,183.9,4.83,0.722,7.15
+Wheat,Karnataka,Zaid,13.6,891.7,24.4,6.49,3.317,45.12
+Wheat,Tamil Nadu,Kharif,8.48,466.9,156.0,3.11,4.652,39.46
+Wheat,Karnataka,Rabi,3.83,1118.8,210.5,6.87,1.436,5.5
+Wheat,Punjab,Kharif,10.81,1644.6,215.6,3.95,2.935,31.73
+Wheat,Karnataka,Rabi,24.32,793.4,239.9,4.24,1.426,34.68
+Wheat,Karnataka,Zaid,24.72,1792.3,179.3,7.21,1.021,25.23
+Wheat,Andhra Pradesh,Whole Year,24.1,834.1,101.5,3.37,5.869,141.44
+Wheat,Punjab,Whole Year,19.88,1971.3,127.0,6.03,1.429,28.41
+Wheat,Karnataka,Kharif,13.92,1562.8,179.9,6.6,2.337,32.53
+Wheat,Uttar Pradesh,Rabi,5.8,1668.8,102.9,2.66,1.284,7.45
+Wheat,Telangana,Rabi,18.02,1239.6,184.7,3.3,2.238,40.34
+Wheat,Andhra Pradesh,Rabi,21.63,1018.2,65.1,6.12,1.902,41.13
+Wheat,Tamil Nadu,Zaid,24.28,1094.4,57.2,6.18,2.255,54.75
+Wheat,Andhra Pradesh,Kharif,13.44,348.2,104.0,2.32,4.001,53.75
+Wheat,Maharashtra,Kharif,16.39,1293.5,228.5,4.98,4.621,75.73
+Wheat,Telangana,Zaid,20.68,644.1,76.0,6.38,1.232,25.47
+Wheat,Madhya Pradesh,Rabi,15.45,1664.9,206.3,1.4,0.2,3.09
+Wheat,Punjab,Kharif,23.84,1116.0,188.4,4.75,2.09,49.81
+Wheat,Punjab,Whole Year,12.33,1155.3,239.7,1.25,1.486,18.32
+Wheat,Tamil Nadu,Kharif,13.11,1937.3,136.0,6.31,2.377,31.16
+Wheat,Madhya Pradesh,Rabi,5.86,708.2,28.9,3.34,5.23,30.65
+Wheat,Telangana,Zaid,4.03,597.6,182.6,1.77,2.79,11.26
+Wheat,Tamil Nadu,Whole Year,3.52,1142.7,174.0,1.61,2.944,10.35
+Wheat,Madhya Pradesh,Zaid,11.71,1856.8,249.0,5.41,1.761,20.61
+Wheat,Punjab,Kharif,11.12,1333.6,214.4,7.39,3.081,34.24
+Wheat,Karnataka,Zaid,3.05,1883.0,150.8,7.93,2.516,7.67
+Wheat,Madhya Pradesh,Kharif,6.81,1317.0,222.2,5.94,2.55,17.36
+Wheat,Andhra Pradesh,Kharif,18.95,1473.7,230.0,2.48,1.351,25.6
+Wheat,Punjab,Whole Year,24.38,312.8,234.7,7.66,1.43,34.87
+Wheat,Uttar Pradesh,Rabi,22.29,1100.3,196.2,1.09,2.895,64.54
+Wheat,Andhra Pradesh,Kharif,16.99,1212.6,59.7,1.83,3.29,55.89
+Wheat,Punjab,Whole Year,21.83,495.9,249.6,7.07,0.839,18.31
+Wheat,Madhya Pradesh,Kharif,3.52,890.4,39.3,7.65,2.535,8.92
+Wheat,Andhra Pradesh,Zaid,8.74,768.3,122.1,1.19,3.75,32.76
+Wheat,Uttar Pradesh,Zaid,6.23,1156.4,68.5,6.62,4.087,25.45
+Wheat,Andhra Pradesh,Zaid,4.13,426.7,209.6,1.32,5.124,21.17
+Wheat,Punjab,Zaid,14.99,1154.7,137.1,3.2,5.781,86.65
+Wheat,Punjab,Kharif,2.57,1045.7,79.8,6.86,4.081,10.48
+Wheat,Andhra Pradesh,Zaid,21.93,1309.4,148.0,6.51,1.532,33.61
+Wheat,Telangana,Rabi,21.19,383.8,133.9,6.6,3.952,83.74
+Wheat,Andhra Pradesh,Whole Year,24.85,608.4,60.1,0.75,3.966,98.57
+Wheat,Andhra Pradesh,Rabi,9.03,1595.5,33.7,2.74,2.265,20.45
+Wheat,Tamil Nadu,Kharif,11.81,484.9,144.8,1.23,6.427,75.9
+Wheat,Andhra Pradesh,Zaid,4.31,1230.0,49.7,3.51,4.078,17.56
+Wheat,Punjab,Zaid,23.46,1867.2,186.7,6.28,0.853,20.02
+Wheat,Uttar Pradesh,Rabi,17.45,1349.3,91.7,3.13,4.278,74.63
+Wheat,Uttar Pradesh,Rabi,4.0,1081.0,241.5,2.11,2.947,11.77
+Wheat,Telangana,Kharif,24.57,939.6,224.2,6.98,1.901,46.71
+Wheat,Uttar Pradesh,Whole Year,9.46,1930.5,83.1,7.45,1.54,14.57
+Wheat,Telangana,Zaid,24.26,799.1,165.6,1.02,2.347,56.93
+Wheat,Andhra Pradesh,Zaid,4.34,1308.3,109.7,5.92,1.673,7.26
+Wheat,Uttar Pradesh,Whole Year,20.08,1773.9,208.6,3.86,1.623,32.59
+Wheat,Telangana,Whole Year,8.17,1218.0,44.3,2.23,0.26,2.13
+Wheat,Madhya Pradesh,Kharif,4.98,536.4,86.1,3.28,2.454,12.22
+Wheat,Telangana,Rabi,4.55,700.9,112.5,3.02,1.995,9.08
+Wheat,Andhra Pradesh,Rabi,13.38,1278.7,148.9,3.49,1.684,22.52
+Wheat,Punjab,Zaid,23.01,1738.4,115.9,7.36,0.796,18.31
+Wheat,Madhya Pradesh,Whole Year,16.48,1893.3,193.6,2.58,0.509,8.4
+Wheat,Andhra Pradesh,Kharif,18.07,604.7,45.5,4.64,4.78,86.38
+Wheat,Maharashtra,Rabi,1.75,307.6,222.9,1.36,3.486,6.1
+Wheat,Telangana,Kharif,3.93,968.9,163.5,6.22,3.401,13.35
+Wheat,Punjab,Zaid,1.34,543.3,105.5,5.79,3.142,4.21
+Wheat,Andhra Pradesh,Zaid,15.33,1808.2,116.1,4.18,2.019,30.94
+Wheat,Uttar Pradesh,Rabi,18.2,1578.6,186.3,2.69,0.2,3.64
+Wheat,Punjab,Whole Year,1.85,364.1,43.4,2.02,4.809,8.9
+Wheat,Tamil Nadu,Rabi,2.25,820.3,43.0,6.52,3.044,6.86
+Wheat,Madhya Pradesh,Kharif,3.09,1250.5,158.2,2.87,3.031,9.35
+Wheat,Madhya Pradesh,Zaid,13.52,819.6,234.9,3.37,2.13,28.8
+Wheat,Andhra Pradesh,Rabi,8.5,621.0,83.4,2.81,3.283,27.91
+Wheat,Andhra Pradesh,Zaid,4.78,1545.8,90.1,4.16,2.575,12.31
+Wheat,Uttar Pradesh,Rabi,8.4,1937.9,125.6,2.91,4.332,36.4
+Wheat,Punjab,Whole Year,1.55,1464.2,80.4,7.69,2.05,3.17
+Wheat,Maharashtra,Rabi,21.82,566.0,246.6,7.3,0.883,19.27
+Wheat,Maharashtra,Rabi,21.39,1792.0,157.7,6.84,4.513,96.53
+Wheat,Punjab,Whole Year,24.91,477.5,205.3,2.55,5.585,139.12
+Wheat,Andhra Pradesh,Zaid,2.47,897.7,247.9,3.48,1.511,3.74
+Wheat,Andhra Pradesh,Kharif,20.78,956.7,100.1,3.74,3.877,80.56
+Wheat,Karnataka,Whole Year,6.82,1984.4,206.4,2.51,3.908,26.66
+Wheat,Maharashtra,Rabi,4.45,738.8,185.7,7.55,1.339,5.95
+Wheat,Andhra Pradesh,Whole Year,14.29,1212.5,100.7,6.71,0.975,13.93
+Wheat,Punjab,Whole Year,24.65,329.7,234.7,2.14,2.957,72.87
+Wheat,Maharashtra,Whole Year,7.89,1761.7,145.0,1.56,0.787,6.21
+Wheat,Tamil Nadu,Kharif,19.29,1710.3,32.0,4.84,0.333,6.42
+Wheat,Karnataka,Kharif,19.74,505.2,176.1,6.09,2.52,49.74
+Wheat,Punjab,Kharif,23.48,737.8,107.2,6.46,3.783,88.8
+Wheat,Punjab,Rabi,24.23,457.8,182.6,1.12,5.261,127.48
+Wheat,Madhya Pradesh,Kharif,1.63,1377.9,39.7,1.56,3.243,5.28
+Wheat,Maharashtra,Rabi,8.84,1090.1,166.1,1.7,3.172,28.04
+Wheat,Uttar Pradesh,Zaid,15.9,1087.4,181.4,6.38,4.033,64.11
+Wheat,Tamil Nadu,Whole Year,24.96,1234.3,149.1,0.67,1.743,43.51
+Wheat,Andhra Pradesh,Kharif,3.94,533.6,37.2,2.88,3.762,14.82
+Wheat,Andhra Pradesh,Zaid,11.88,1047.5,140.4,6.95,2.65,31.48
+Wheat,Andhra Pradesh,Kharif,2.41,1507.2,27.6,3.22,0.45,1.09
+Wheat,Andhra Pradesh,Zaid,8.93,1031.5,228.2,1.0,0.2,1.79
+Wheat,Karnataka,Kharif,19.95,507.5,233.3,2.08,3.377,67.36
+Wheat,Tamil Nadu,Zaid,13.77,1552.3,184.7,4.51,2.321,31.96
+Wheat,Telangana,Whole Year,17.62,631.9,208.5,6.12,3.179,56.0
+Wheat,Tamil Nadu,Kharif,3.76,1516.0,245.2,3.97,3.514,13.21
+Wheat,Uttar Pradesh,Whole Year,13.23,734.9,50.2,5.81,4.052,53.62
+Wheat,Madhya Pradesh,Kharif,22.67,1180.2,169.1,2.4,2.071,46.95
+Wheat,Karnataka,Kharif,21.68,1638.5,216.1,6.01,0.712,15.44
+Wheat,Telangana,Kharif,13.43,751.3,182.2,1.52,1.744,23.43
+Wheat,Punjab,Rabi,7.7,390.9,135.9,1.86,3.705,28.53
+Wheat,Tamil Nadu,Zaid,9.92,915.0,219.4,4.73,3.774,37.43
+Wheat,Karnataka,Kharif,3.64,1424.4,170.4,2.26,0.2,0.73
+Wheat,Telangana,Whole Year,18.76,498.9,232.4,7.58,2.478,46.5
+Wheat,Tamil Nadu,Zaid,23.45,884.8,91.4,2.46,4.029,94.47
+Wheat,Andhra Pradesh,Whole Year,18.5,1843.4,200.8,5.56,2.11,39.04
+Wheat,Telangana,Whole Year,3.23,504.5,158.9,0.79,1.506,4.87
+Wheat,Uttar Pradesh,Kharif,24.89,554.0,118.3,6.26,3.396,84.53
+Wheat,Telangana,Rabi,11.21,911.9,198.0,2.43,2.857,32.04
+Wheat,Uttar Pradesh,Whole Year,6.03,914.3,123.0,2.68,2.949,17.78
+Wheat,Uttar Pradesh,Whole Year,24.11,1761.7,140.2,4.32,3.58,86.32
+Wheat,Maharashtra,Rabi,15.01,1919.6,38.5,6.14,0.318,4.78
+Wheat,Andhra Pradesh,Kharif,19.83,538.1,81.6,2.71,2.113,41.91
+Wheat,Karnataka,Whole Year,10.83,1250.3,238.1,2.35,2.774,30.05
+Wheat,Telangana,Zaid,20.35,454.0,190.0,5.87,4.644,94.52
+Wheat,Andhra Pradesh,Rabi,7.28,1274.7,195.2,5.28,3.011,21.92
+Wheat,Uttar Pradesh,Zaid,4.25,1374.4,194.7,1.57,3.127,13.29
+Wheat,Andhra Pradesh,Rabi,0.8,1204.0,144.7,4.25,1.943,1.55
+Wheat,Andhra Pradesh,Rabi,4.95,642.6,173.4,7.0,1.409,6.98
+Wheat,Uttar Pradesh,Rabi,23.35,398.0,47.3,3.95,2.484,58.0
+Wheat,Karnataka,Rabi,1.2,1085.1,75.8,4.37,4.793,5.75
+Wheat,Tamil Nadu,Whole Year,18.95,1217.7,161.3,4.47,3.465,65.68
+Wheat,Tamil Nadu,Kharif,8.95,1632.7,63.6,0.77,3.427,30.66
+Wheat,Uttar Pradesh,Kharif,4.05,1836.5,197.3,5.02,2.904,11.76
+Wheat,Madhya Pradesh,Whole Year,7.63,1906.6,57.2,6.15,0.2,1.53
+Wheat,Karnataka,Zaid,23.82,1234.0,143.0,7.4,3.43,81.69
+Wheat,Punjab,Whole Year,12.58,370.4,65.6,5.32,4.387,55.2
+Wheat,Madhya Pradesh,Zaid,15.37,1237.9,120.9,2.26,3.295,50.63
+Wheat,Maharashtra,Zaid,3.44,1214.5,212.1,4.93,2.627,9.04
+Wheat,Maharashtra,Zaid,7.47,861.7,75.7,1.97,3.877,28.97
+Wheat,Andhra Pradesh,Whole Year,8.04,1083.4,176.5,7.72,6.057,48.72
+Wheat,Karnataka,Whole Year,7.81,1063.8,186.5,7.71,4.529,35.35
+Wheat,Punjab,Rabi,1.48,1820.2,86.7,1.54,2.071,3.06
+Wheat,Tamil Nadu,Rabi,9.01,532.1,91.7,4.35,3.474,31.31
+Wheat,Punjab,Zaid,22.94,975.6,149.8,5.27,2.52,57.8
+Wheat,Telangana,Whole Year,8.88,1463.2,189.2,3.17,4.445,39.49
+Wheat,Punjab,Kharif,18.18,1866.2,247.7,5.76,3.334,60.63
+Wheat,Andhra Pradesh,Kharif,3.95,953.1,151.7,8.0,3.709,14.67
+Wheat,Punjab,Kharif,20.23,1604.1,79.5,0.53,1.442,29.16
+Wheat,Andhra Pradesh,Kharif,19.85,482.4,88.1,4.72,5.209,103.39
+Wheat,Andhra Pradesh,Kharif,0.8,1128.9,136.0,2.7,5.766,4.62
+Wheat,Karnataka,Zaid,17.0,1443.7,40.2,6.52,2.21,37.57
+Wheat,Telangana,Zaid,12.83,651.7,235.1,3.86,0.2,2.57
+Wheat,Karnataka,Rabi,1.64,516.9,121.9,7.06,5.763,9.45
+Wheat,Maharashtra,Zaid,1.49,1401.3,165.8,1.04,2.47,3.69
+Wheat,Telangana,Zaid,12.17,1059.3,193.1,3.41,4.37,53.16
+Wheat,Telangana,Zaid,15.11,1669.7,171.1,6.76,2.978,44.98
+Wheat,Madhya Pradesh,Zaid,4.39,826.1,96.0,1.2,4.624,20.32
+Wheat,Telangana,Zaid,12.22,1223.3,21.9,1.22,4.381,53.55
+Wheat,Punjab,Zaid,6.91,483.4,95.6,2.41,3.659,25.27
+Wheat,Punjab,Whole Year,0.51,1647.2,92.4,4.76,1.407,0.72
+Wheat,Uttar Pradesh,Whole Year,23.29,1539.6,104.9,2.08,2.365,55.08
+Wheat,Madhya Pradesh,Rabi,6.18,1863.4,109.7,4.58,1.257,7.77
+Wheat,Andhra Pradesh,Zaid,20.92,1384.5,224.4,7.64,1.482,30.99
+Wheat,Karnataka,Rabi,6.39,1722.6,48.0,3.16,2.424,15.49
+Wheat,Maharashtra,Rabi,15.07,1419.3,77.3,6.03,0.2,3.01
+Wheat,Tamil Nadu,Rabi,14.92,728.9,246.1,3.41,1.465,21.86
+Wheat,Andhra Pradesh,Kharif,18.23,1017.9,143.3,2.3,0.988,18.02
+Wheat,Maharashtra,Whole Year,16.91,1343.8,198.6,0.81,1.622,27.44
+Wheat,Maharashtra,Rabi,5.53,1975.9,204.1,7.43,2.251,12.45
+Wheat,Telangana,Rabi,14.45,1519.9,110.6,5.58,0.2,2.89
+Wheat,Karnataka,Zaid,7.58,1907.8,139.2,6.0,2.435,18.47
+Wheat,Madhya Pradesh,Zaid,16.84,448.4,245.7,1.88,4.573,77.0
+Wheat,Tamil Nadu,Kharif,23.88,617.1,59.1,6.53,3.182,76.0
+Wheat,Madhya Pradesh,Zaid,22.27,776.5,179.9,3.46,3.139,69.89
+Wheat,Maharashtra,Kharif,4.03,1952.7,139.9,1.36,1.396,5.63
+Wheat,Andhra Pradesh,Whole Year,4.95,772.1,200.3,3.63,1.675,8.3
+Wheat,Tamil Nadu,Rabi,1.82,1046.9,33.8,1.8,2.779,5.06
+Wheat,Madhya Pradesh,Whole Year,15.16,1640.5,56.5,1.8,3.907,59.22
+Wheat,Madhya Pradesh,Whole Year,23.45,1281.4,41.3,2.15,2.899,68.0
+Wheat,Tamil Nadu,Whole Year,5.07,304.0,45.1,5.13,3.608,18.28
+Wheat,Telangana,Kharif,10.93,1155.8,228.5,4.06,1.77,19.35
+Wheat,Karnataka,Kharif,3.25,694.0,249.0,0.54,1.685,5.47
+Wheat,Punjab,Rabi,21.17,472.3,27.7,1.41,2.163,45.78
+Wheat,Maharashtra,Kharif,13.67,1516.6,172.5,4.81,2.061,28.18
+Wheat,Telangana,Rabi,5.35,593.9,217.6,2.68,3.755,20.09
+Wheat,Karnataka,Rabi,7.55,1859.2,49.7,3.53,0.2,1.51
+Wheat,Andhra Pradesh,Whole Year,20.28,586.3,197.8,1.61,5.215,105.78
+Wheat,Maharashtra,Zaid,8.19,1434.4,63.2,7.64,1.198,9.81
+Wheat,Punjab,Zaid,18.87,1664.4,106.1,1.67,1.447,27.31
+Wheat,Tamil Nadu,Whole Year,0.96,1439.8,240.1,1.3,3.439,3.31
+Wheat,Maharashtra,Zaid,4.25,1646.6,105.2,5.84,2.124,9.04
+Wheat,Uttar Pradesh,Kharif,6.26,1962.8,220.8,1.31,2.313,14.47
+Wheat,Karnataka,Whole Year,23.21,432.8,124.4,5.93,2.16,50.13
+Wheat,Madhya Pradesh,Whole Year,13.84,1785.7,175.5,3.66,0.905,12.52
+Wheat,Maharashtra,Whole Year,18.88,1893.5,182.0,4.58,2.736,51.65
+Wheat,Maharashtra,Zaid,2.39,1489.2,143.9,1.28,1.54,3.68
+Wheat,Madhya Pradesh,Whole Year,5.22,1503.8,84.0,1.63,1.857,9.69
+Wheat,Tamil Nadu,Whole Year,21.45,305.1,214.0,4.41,1.926,41.3
+Wheat,Andhra Pradesh,Rabi,5.51,473.9,163.7,5.8,1.878,10.36
+Wheat,Karnataka,Kharif,12.92,1494.0,241.5,1.58,0.762,9.85
+Wheat,Punjab,Whole Year,6.21,675.2,165.7,6.32,3.055,18.98
+Wheat,Punjab,Whole Year,13.41,802.2,128.5,7.36,3.002,40.26
+Wheat,Andhra Pradesh,Zaid,11.54,1966.9,202.8,0.54,1.792,20.68
+Wheat,Maharashtra,Kharif,20.41,1822.7,75.3,6.22,0.696,14.2
+Maize,Madhya Pradesh,Rabi,10.1,1637.5,149.9,5.26,2.792,28.21
+Maize,Maharashtra,Kharif,12.59,677.4,161.3,1.61,2.861,36.0
+Maize,Andhra Pradesh,Whole Year,5.12,1689.7,27.7,5.97,2.48,12.69
+Maize,Madhya Pradesh,Rabi,6.16,633.1,86.5,5.75,3.217,19.82
+Maize,Telangana,Rabi,12.79,528.6,126.1,5.19,2.857,36.55
+Maize,Maharashtra,Whole Year,8.01,1766.0,99.8,6.87,3.936,31.54
+Maize,Tamil Nadu,Kharif,5.31,566.8,199.3,3.43,3.33,17.68
+Maize,Karnataka,Kharif,22.12,439.4,105.2,2.89,6.999,154.82
+Maize,Uttar Pradesh,Zaid,3.39,1813.3,125.0,0.86,1.308,4.44
+Maize,Karnataka,Kharif,20.09,563.0,94.9,3.21,4.572,91.86
+Maize,Maharashtra,Rabi,19.85,692.4,67.3,2.16,5.133,101.91
+Maize,Maharashtra,Rabi,19.62,1875.4,214.0,0.78,0.2,3.92
+Maize,Punjab,Kharif,20.44,885.0,226.3,7.15,2.805,57.35
+Maize,Madhya Pradesh,Rabi,7.41,1680.2,244.3,7.35,0.2,1.48
+Maize,Telangana,Kharif,23.2,1698.5,219.6,7.36,0.2,4.64
+Maize,Andhra Pradesh,Whole Year,1.08,1392.3,97.6,4.22,3.337,3.59
+Maize,Andhra Pradesh,Zaid,24.4,520.9,122.3,3.83,3.74,91.27
+Maize,Punjab,Zaid,6.41,1763.9,218.9,6.7,6.531,41.85
+Maize,Telangana,Whole Year,4.48,1107.8,79.8,0.89,3.547,15.9
+Maize,Tamil Nadu,Zaid,23.64,1415.4,51.4,6.59,0.488,11.55
+Maize,Andhra Pradesh,Kharif,6.94,543.5,94.2,6.74,4.901,34.01
+Maize,Maharashtra,Zaid,16.46,1036.6,104.4,1.14,3.133,51.57
+Maize,Telangana,Whole Year,15.25,1827.0,211.6,0.74,0.2,3.05
+Maize,Maharashtra,Whole Year,16.25,1677.4,83.2,5.79,4.749,77.15
+Maize,Maharashtra,Kharif,13.17,1324.1,24.2,0.53,5.126,67.53
+Maize,Andhra Pradesh,Rabi,12.55,1587.8,144.5,4.38,6.862,86.15
+Maize,Uttar Pradesh,Kharif,4.71,1077.7,54.1,4.43,2.343,11.04
+Maize,Karnataka,Rabi,4.58,1296.8,63.6,2.56,3.907,17.91
+Maize,Tamil Nadu,Zaid,6.58,975.8,233.6,6.69,3.547,23.36
+Maize,Uttar Pradesh,Whole Year,22.56,1230.7,149.1,7.16,1.311,29.57
+Maize,Madhya Pradesh,Whole Year,15.89,1008.3,229.2,7.7,1.896,30.12
+Maize,Andhra Pradesh,Whole Year,2.97,1121.0,138.0,4.8,2.595,7.69
+Maize,Andhra Pradesh,Rabi,2.04,1358.2,230.2,3.91,3.792,7.74
+Maize,Tamil Nadu,Zaid,20.45,1693.4,125.1,2.76,1.234,25.25
+Maize,Punjab,Kharif,20.36,409.8,239.3,5.34,2.666,54.27
+Maize,Andhra Pradesh,Rabi,10.61,1312.5,33.9,1.82,0.2,2.12
+Maize,Maharashtra,Zaid,10.48,930.8,186.1,2.44,4.185,43.87
+Maize,Telangana,Kharif,1.0,1743.3,180.1,5.3,3.255,3.25
+Maize,Maharashtra,Kharif,9.73,1737.5,184.1,5.53,1.962,19.09
+Maize,Punjab,Whole Year,10.04,1599.3,47.4,0.82,3.518,35.31
+Maize,Tamil Nadu,Rabi,15.0,850.3,184.7,4.22,5.443,81.62
+Maize,Andhra Pradesh,Zaid,23.47,1612.1,195.8,7.34,4.136,97.09
+Maize,Punjab,Whole Year,10.17,1117.2,198.8,6.27,1.156,11.76
+Maize,Tamil Nadu,Whole Year,16.36,676.1,130.5,7.98,4.898,80.11
+Maize,Karnataka,Kharif,3.36,336.8,62.5,1.9,3.593,12.06
+Maize,Tamil Nadu,Rabi,2.62,1841.3,79.0,5.09,2.268,5.95
+Maize,Punjab,Whole Year,10.06,445.8,153.3,3.09,3.33,33.49
+Maize,Karnataka,Kharif,4.84,1258.5,45.7,1.92,4.017,19.45
+Maize,Punjab,Whole Year,2.32,1563.4,44.0,4.89,3.491,8.11
+Maize,Andhra Pradesh,Rabi,12.57,1256.6,88.0,6.91,3.284,41.26
+Maize,Tamil Nadu,Whole Year,16.24,1884.0,153.0,4.34,1.719,27.91
+Maize,Andhra Pradesh,Whole Year,16.48,820.1,77.3,0.92,3.868,63.75
+Maize,Punjab,Rabi,22.75,1570.5,236.6,3.68,1.232,28.04
+Maize,Andhra Pradesh,Whole Year,24.79,1885.7,157.6,0.96,5.763,142.87
+Maize,Tamil Nadu,Rabi,2.88,536.0,64.0,3.23,1.373,3.95
+Maize,Andhra Pradesh,Whole Year,1.66,1353.6,171.1,1.25,4.617,7.66
+Maize,Andhra Pradesh,Rabi,16.36,1132.5,147.2,4.27,1.762,28.83
+Maize,Andhra Pradesh,Rabi,17.53,662.9,203.2,3.92,3.366,59.01
+Maize,Madhya Pradesh,Whole Year,16.61,1314.4,59.2,7.04,3.805,63.2
+Maize,Maharashtra,Kharif,20.7,1736.2,249.2,7.68,1.768,36.6
+Maize,Uttar Pradesh,Whole Year,5.36,797.2,133.8,6.54,5.463,29.26
+Maize,Madhya Pradesh,Kharif,6.55,341.0,164.0,6.46,4.625,30.29
+Maize,Punjab,Kharif,12.17,1877.0,66.6,4.36,1.133,13.79
+Maize,Punjab,Rabi,20.53,320.1,81.8,2.04,2.985,61.3
+Maize,Karnataka,Whole Year,17.59,1263.6,124.4,1.92,2.338,41.12
+Maize,Uttar Pradesh,Zaid,24.74,612.8,98.6,2.6,2.117,52.36
+Maize,Tamil Nadu,Rabi,5.87,1832.7,213.9,1.76,0.2,1.17
+Maize,Telangana,Whole Year,15.74,1247.4,118.2,6.92,2.164,34.07
+Maize,Maharashtra,Zaid,6.85,935.3,54.5,4.94,5.524,37.85
+Maize,Karnataka,Zaid,21.01,1233.2,170.0,6.32,3.761,78.99
+Maize,Telangana,Whole Year,7.86,587.5,137.6,6.78,5.2,40.9
+Maize,Punjab,Whole Year,22.63,1365.5,244.6,2.34,0.735,16.62
+Maize,Madhya Pradesh,Rabi,9.25,1357.3,60.1,6.2,1.937,17.91
+Maize,Punjab,Kharif,10.77,858.1,211.5,7.2,6.41,69.01
+Maize,Punjab,Kharif,10.75,1228.6,152.7,5.38,3.245,34.88
+Maize,Karnataka,Rabi,24.92,1651.3,25.7,3.27,0.2,4.98
+Maize,Punjab,Zaid,24.12,749.2,237.0,7.53,3.716,89.63
+Maize,Telangana,Rabi,8.55,1330.7,146.1,2.69,2.1,17.95
+Maize,Tamil Nadu,Zaid,12.42,1105.9,89.5,2.48,3.138,38.98
+Maize,Telangana,Zaid,20.33,613.9,135.8,2.16,4.964,100.91
+Maize,Madhya Pradesh,Whole Year,21.41,1815.4,249.2,7.58,0.2,4.28
+Maize,Tamil Nadu,Kharif,15.4,658.2,215.5,4.62,5.906,90.96
+Maize,Maharashtra,Zaid,17.0,890.5,194.6,6.83,4.683,79.61
+Maize,Andhra Pradesh,Whole Year,23.62,1021.8,226.3,6.93,3.881,91.67
+Maize,Maharashtra,Rabi,24.17,1993.8,159.4,6.37,2.238,54.11
+Maize,Punjab,Whole Year,13.75,1201.9,226.4,4.31,3.566,49.02
+Maize,Andhra Pradesh,Whole Year,15.4,1181.6,122.6,1.85,1.447,22.28
+Maize,Karnataka,Rabi,15.03,1335.0,74.9,1.13,2.402,36.11
+Maize,Maharashtra,Whole Year,13.45,1051.6,49.8,3.61,4.319,58.09
+Maize,Karnataka,Zaid,8.64,1965.7,145.2,2.65,3.936,34.01
+Maize,Karnataka,Zaid,8.73,1540.8,53.9,1.67,0.546,4.77
+Maize,Tamil Nadu,Zaid,23.2,395.2,185.0,3.0,3.947,91.57
+Maize,Karnataka,Whole Year,24.66,870.2,156.0,6.3,4.485,110.6
+Maize,Tamil Nadu,Whole Year,4.87,1725.8,46.6,4.76,1.253,6.11
+Maize,Tamil Nadu,Rabi,12.06,811.1,79.9,6.07,3.454,41.64
+Maize,Punjab,Rabi,6.35,1366.1,30.4,6.42,1.021,6.48
+Maize,Uttar Pradesh,Whole Year,20.8,662.1,183.2,3.65,3.796,78.94
+Maize,Punjab,Rabi,7.14,1857.3,195.7,2.8,1.398,9.98
+Maize,Uttar Pradesh,Rabi,11.28,797.7,69.9,3.49,4.009,45.23
+Maize,Punjab,Zaid,6.98,440.3,155.5,4.04,3.241,22.61
+Maize,Uttar Pradesh,Rabi,24.68,503.2,82.7,5.62,3.814,94.14
+Maize,Maharashtra,Kharif,24.32,1092.1,176.0,4.19,2.064,50.19
+Maize,Tamil Nadu,Zaid,3.08,1760.4,55.1,1.23,2.504,7.72
+Maize,Andhra Pradesh,Whole Year,8.79,1720.0,197.8,4.19,1.018,8.95
+Maize,Karnataka,Zaid,2.6,1594.7,138.7,4.78,2.785,7.25
+Maize,Andhra Pradesh,Zaid,12.74,1144.6,192.5,3.7,6.457,82.27
+Maize,Karnataka,Kharif,15.5,1919.5,79.1,6.62,5.29,81.97
+Maize,Punjab,Whole Year,19.39,1803.8,22.2,1.9,0.871,16.89
+Maize,Tamil Nadu,Rabi,21.27,1725.3,62.6,1.57,2.593,55.15
+Maize,Tamil Nadu,Kharif,20.33,660.0,51.4,6.94,5.893,119.77
+Maize,Karnataka,Zaid,2.66,771.0,92.9,2.31,5.117,13.61
+Maize,Uttar Pradesh,Zaid,3.41,1175.7,249.9,7.62,1.335,4.56
+Maize,Karnataka,Zaid,6.37,1907.8,54.7,6.07,0.2,1.27
+Maize,Madhya Pradesh,Rabi,2.48,941.5,122.6,1.43,3.146,7.8
+Maize,Punjab,Whole Year,4.9,709.8,242.2,4.07,5.386,26.4
+Maize,Maharashtra,Zaid,12.82,877.7,96.1,0.93,4.311,55.26
+Maize,Punjab,Zaid,19.35,1359.7,111.1,4.87,0.781,15.11
+Maize,Punjab,Kharif,21.92,1379.3,20.3,2.95,2.842,62.31
+Maize,Punjab,Kharif,17.81,1490.8,126.8,7.63,1.803,32.1
+Maize,Andhra Pradesh,Whole Year,11.29,1811.7,77.3,6.52,0.2,2.26
+Maize,Karnataka,Zaid,6.6,1196.4,65.0,1.31,4.498,29.7
+Maize,Madhya Pradesh,Rabi,23.59,341.5,96.7,0.66,5.184,122.28
+Maize,Telangana,Whole Year,4.91,1677.6,248.4,7.0,3.668,18.02
+Maize,Karnataka,Zaid,10.85,1476.7,243.8,0.72,3.209,34.82
+Maize,Uttar Pradesh,Kharif,8.59,1004.2,164.2,4.35,3.662,31.44
+Maize,Punjab,Whole Year,12.87,1782.5,111.7,0.59,1.762,22.67
+Maize,Maharashtra,Rabi,3.82,725.4,103.3,5.57,5.34,20.42
+Maize,Maharashtra,Whole Year,3.85,587.1,235.0,3.91,2.116,8.16
+Maize,Maharashtra,Zaid,2.19,1546.6,179.8,3.32,1.112,2.43
+Maize,Telangana,Whole Year,18.58,1940.8,169.1,2.57,4.098,76.16
+Maize,Andhra Pradesh,Zaid,23.26,815.6,196.7,5.32,1.528,35.55
+Maize,Karnataka,Rabi,12.47,1979.9,65.0,4.53,2.594,32.36
+Maize,Tamil Nadu,Kharif,12.35,1161.8,172.1,6.61,4.554,56.24
+Maize,Telangana,Zaid,16.72,481.1,133.3,0.62,3.527,58.95
+Maize,Madhya Pradesh,Whole Year,1.83,1824.9,174.7,6.44,3.661,6.72
+Maize,Karnataka,Kharif,9.24,940.7,136.9,0.82,3.855,35.63
+Maize,Maharashtra,Kharif,9.3,1100.4,193.6,2.73,2.76,25.67
+Maize,Maharashtra,Rabi,0.63,1506.2,126.1,4.49,2.678,1.7
+Maize,Tamil Nadu,Whole Year,4.87,1490.0,68.4,6.35,3.848,18.73
+Maize,Uttar Pradesh,Rabi,12.89,1994.5,106.4,7.12,0.2,2.58
+Maize,Punjab,Whole Year,8.76,547.1,158.8,5.29,6.513,57.06
+Maize,Andhra Pradesh,Zaid,19.53,710.8,93.7,3.35,3.629,70.85
+Maize,Madhya Pradesh,Whole Year,9.35,704.7,249.0,6.37,0.979,9.15
+Maize,Maharashtra,Rabi,0.88,492.5,26.8,1.52,4.423,3.9
+Maize,Maharashtra,Whole Year,22.19,774.0,47.4,2.55,1.933,42.9
+Maize,Uttar Pradesh,Whole Year,3.71,1983.6,22.9,3.89,3.847,14.27
+Maize,Tamil Nadu,Whole Year,14.37,464.1,221.4,1.52,2.169,31.18
+Maize,Telangana,Whole Year,4.17,1962.3,22.8,3.14,1.978,8.24
+Maize,Andhra Pradesh,Kharif,16.61,395.8,206.4,4.0,0.752,12.48
+Maize,Telangana,Kharif,9.42,716.7,58.8,5.96,3.655,34.41
+Maize,Telangana,Kharif,4.62,1281.0,72.0,3.95,1.003,4.63
+Maize,Tamil Nadu,Kharif,5.65,1082.7,248.3,3.22,3.009,17.0
+Maize,Punjab,Kharif,16.08,1637.0,183.7,0.59,3.511,56.45
+Maize,Andhra Pradesh,Kharif,3.05,769.4,85.2,7.05,3.582,10.94
+Maize,Telangana,Rabi,15.4,924.0,33.9,1.06,1.881,28.98
+Maize,Punjab,Zaid,6.92,1561.5,36.8,3.86,2.264,15.68
+Maize,Maharashtra,Zaid,7.06,813.2,223.4,5.38,1.923,13.59
+Maize,Tamil Nadu,Rabi,3.95,1935.3,227.5,4.64,2.82,11.14
+Maize,Madhya Pradesh,Rabi,19.49,821.5,141.3,7.27,5.42,105.63
+Maize,Karnataka,Kharif,5.1,1872.9,48.5,5.23,3.153,16.08
+Maize,Andhra Pradesh,Zaid,6.17,1487.9,35.1,4.24,4.744,29.25
+Maize,Tamil Nadu,Zaid,3.57,1065.5,117.3,2.93,1.912,6.84
+Maize,Telangana,Zaid,22.08,1955.2,20.7,6.04,0.2,4.42
+Maize,Telangana,Kharif,8.0,1000.9,122.5,2.76,5.058,40.46
+Maize,Tamil Nadu,Zaid,0.68,805.0,128.6,1.8,4.386,2.98
+Maize,Andhra Pradesh,Rabi,3.64,1694.9,240.4,3.14,3.649,13.28
+Maize,Maharashtra,Whole Year,16.35,1381.1,45.9,7.45,5.683,92.9
+Maize,Telangana,Whole Year,6.91,489.2,83.1,7.95,3.857,26.65
+Maize,Telangana,Whole Year,20.17,1929.5,38.2,1.74,2.113,42.61
+Maize,Tamil Nadu,Rabi,10.98,1684.5,139.0,6.7,3.641,39.97
+Maize,Andhra Pradesh,Rabi,16.34,1199.0,104.0,1.96,3.042,49.71
+Maize,Madhya Pradesh,Rabi,16.37,1930.9,82.6,7.6,2.367,38.74
+Maize,Tamil Nadu,Kharif,20.35,604.2,135.0,4.77,1.848,37.62
+Maize,Karnataka,Rabi,2.58,561.8,93.7,7.4,3.171,8.19
+Maize,Telangana,Zaid,9.64,984.6,212.7,0.7,6.842,65.97
+Maize,Punjab,Kharif,18.41,622.5,80.3,2.33,2.703,49.76
+Maize,Andhra Pradesh,Zaid,6.49,1343.2,104.3,6.26,1.303,8.45
+Maize,Karnataka,Whole Year,15.04,1772.5,211.8,3.7,1.97,29.62
+Maize,Punjab,Whole Year,7.8,1376.1,229.9,5.18,3.833,29.88
+Maize,Madhya Pradesh,Kharif,3.86,1120.2,93.8,2.31,1.848,7.13
+Maize,Punjab,Kharif,10.15,657.7,112.8,5.25,5.534,56.19
+Maize,Punjab,Kharif,10.14,1233.7,160.7,6.28,1.235,12.52
+Maize,Madhya Pradesh,Kharif,13.21,428.7,148.3,4.08,2.1,27.73
+Maize,Punjab,Kharif,19.16,1046.4,238.9,2.16,1.163,22.28
+Maize,Andhra Pradesh,Whole Year,15.31,1823.6,174.5,5.55,2.75,42.09
+Maize,Andhra Pradesh,Rabi,21.72,313.4,223.7,2.11,4.271,92.76
+Maize,Punjab,Zaid,7.02,1073.9,234.8,1.32,1.578,11.08
+Maize,Telangana,Kharif,23.51,500.3,198.1,3.38,5.513,129.59
+Maize,Maharashtra,Rabi,18.88,1376.5,236.0,1.24,3.114,58.79
+Maize,Punjab,Zaid,13.88,1395.9,189.3,1.9,4.5,62.44
+Maize,Andhra Pradesh,Rabi,3.0,799.6,55.5,4.52,5.472,16.42
+Maize,Telangana,Whole Year,5.54,377.7,183.1,6.84,3.166,17.55
+Maize,Punjab,Rabi,16.27,723.8,133.8,5.94,3.94,64.12
+Maize,Andhra Pradesh,Zaid,13.5,1275.0,143.1,4.02,1.421,19.19
+Maize,Andhra Pradesh,Rabi,24.92,1358.3,193.1,1.94,2.549,63.53
+Maize,Karnataka,Kharif,8.4,1093.2,152.4,7.16,3.783,31.78
+Maize,Andhra Pradesh,Whole Year,7.85,1563.9,146.4,6.34,1.568,12.31
+Maize,Andhra Pradesh,Kharif,14.15,1921.1,57.3,5.42,1.747,24.72
+Maize,Maharashtra,Whole Year,9.78,1650.8,206.4,5.86,1.71,16.73
+Maize,Tamil Nadu,Zaid,8.92,1401.5,139.3,5.77,2.317,20.66
+Maize,Andhra Pradesh,Rabi,14.12,1168.6,103.8,3.85,4.29,60.56
+Maize,Madhya Pradesh,Rabi,14.44,1099.6,73.2,3.38,4.526,65.38
+Maize,Punjab,Whole Year,4.07,1222.6,219.3,3.9,4.485,18.26
+Maize,Tamil Nadu,Rabi,18.42,890.4,188.6,0.81,4.083,75.21
+Maize,Andhra Pradesh,Whole Year,16.11,1063.2,210.5,3.06,2.229,35.92
+Maize,Madhya Pradesh,Zaid,10.75,692.5,201.5,7.61,3.927,42.22
+Maize,Madhya Pradesh,Kharif,6.33,1442.4,145.8,5.94,0.2,1.27
+Maize,Maharashtra,Whole Year,21.85,1638.9,182.1,5.59,0.355,7.76
+Maize,Karnataka,Kharif,18.86,1384.8,89.6,6.65,5.528,104.27
+Maize,Tamil Nadu,Kharif,8.26,1654.3,248.2,5.39,0.2,1.65
+Maize,Maharashtra,Zaid,13.14,560.2,60.4,5.99,4.294,56.42
+Maize,Karnataka,Whole Year,20.58,1080.7,234.8,4.1,0.673,13.85
+Maize,Uttar Pradesh,Whole Year,15.03,1418.6,136.7,6.0,2.216,33.31
+Maize,Maharashtra,Whole Year,9.09,1721.7,44.4,4.58,3.184,28.96
+Maize,Tamil Nadu,Zaid,18.29,300.7,83.8,5.59,6.081,111.25
+Maize,Madhya Pradesh,Rabi,13.51,632.8,167.0,1.49,4.181,56.49
+Maize,Uttar Pradesh,Whole Year,8.54,983.2,134.7,4.86,3.067,26.2
+Maize,Telangana,Whole Year,2.0,500.7,41.3,1.69,3.739,7.49
+Maize,Uttar Pradesh,Zaid,15.88,1161.5,188.4,7.71,0.471,7.48
+Maize,Karnataka,Kharif,19.4,1621.1,158.0,4.3,0.855,16.58
+Maize,Karnataka,Kharif,16.48,940.6,199.9,7.32,0.334,5.51
+Maize,Tamil Nadu,Kharif,4.96,1946.6,171.3,1.01,3.674,18.23
+Maize,Andhra Pradesh,Rabi,18.88,772.3,31.7,4.17,3.024,57.1
+Maize,Maharashtra,Zaid,10.49,401.4,89.9,2.85,5.018,52.64
+Maize,Punjab,Rabi,24.55,656.6,119.0,7.83,1.497,36.77
+Maize,Telangana,Zaid,18.96,1059.9,166.9,4.32,2.028,38.44
+Maize,Karnataka,Zaid,4.82,1897.6,224.6,5.08,0.2,0.96
+Maize,Maharashtra,Rabi,1.5,1413.4,92.2,4.7,5.681,8.53
+Maize,Madhya Pradesh,Rabi,11.3,552.2,139.4,7.5,2.394,27.05
+Maize,Madhya Pradesh,Zaid,5.93,929.4,118.6,3.05,4.264,25.3
+Maize,Punjab,Kharif,19.99,679.7,128.2,0.65,2.586,51.7
+Maize,Karnataka,Kharif,8.46,440.0,102.9,4.24,4.05,34.26
+Maize,Tamil Nadu,Rabi,7.37,801.3,165.7,5.89,4.406,32.48
+Maize,Telangana,Zaid,2.91,744.3,219.7,0.72,3.088,8.99
+Maize,Tamil Nadu,Kharif,23.89,1453.8,41.1,6.11,4.105,98.05
+Maize,Karnataka,Whole Year,12.09,1569.2,79.2,1.86,2.612,31.59
+Maize,Uttar Pradesh,Whole Year,12.46,1878.6,84.7,0.83,1.236,15.4
+Maize,Madhya Pradesh,Whole Year,9.85,1108.2,57.4,1.18,4.049,39.87
+Maize,Madhya Pradesh,Zaid,6.52,1660.7,194.4,1.99,1.628,10.61
+Maize,Andhra Pradesh,Kharif,23.48,1937.5,137.6,4.02,4.101,96.31
+Maize,Karnataka,Rabi,15.11,752.3,117.8,6.77,5.692,85.98
+Maize,Maharashtra,Zaid,18.28,1257.4,77.4,5.41,1.894,34.64
+Maize,Karnataka,Rabi,8.68,981.6,198.7,2.82,3.056,26.52
+Maize,Andhra Pradesh,Zaid,22.58,1142.2,182.8,3.97,3.432,77.48
+Maize,Karnataka,Zaid,4.54,1180.9,233.9,7.17,2.108,9.57
+Maize,Maharashtra,Rabi,17.39,1047.5,225.2,5.88,2.424,42.15
+Maize,Andhra Pradesh,Whole Year,2.24,598.1,118.5,7.82,5.886,13.19
+Maize,Madhya Pradesh,Zaid,6.97,583.3,145.7,4.64,1.736,12.1
+Maize,Tamil Nadu,Rabi,1.15,992.5,91.8,4.78,6.996,8.03
+Maize,Tamil Nadu,Whole Year,12.12,1822.4,68.5,2.13,1.841,22.3
+Cotton,Punjab,Rabi,16.68,903.0,139.5,2.21,1.637,27.3
+Cotton,Madhya Pradesh,Rabi,20.14,538.4,30.7,1.2,1.411,28.42
+Cotton,Tamil Nadu,Kharif,20.38,846.3,62.7,3.47,1.988,40.52
+Cotton,Punjab,Rabi,9.54,595.1,124.2,6.22,1.106,10.55
+Cotton,Punjab,Whole Year,2.24,840.8,115.5,2.12,1.39,3.11
+Cotton,Maharashtra,Kharif,14.03,1038.5,139.3,5.42,1.826,25.62
+Cotton,Tamil Nadu,Kharif,19.49,1218.6,197.2,4.06,0.462,9.0
+Cotton,Karnataka,Rabi,0.56,600.8,49.1,7.7,1.236,0.69
+Cotton,Punjab,Kharif,12.77,1863.5,159.7,4.21,0.37,4.73
+Cotton,Andhra Pradesh,Kharif,21.26,396.2,205.8,1.28,2.411,51.25
+Cotton,Maharashtra,Whole Year,12.19,1997.5,109.2,7.68,2.457,29.94
+Cotton,Karnataka,Whole Year,2.62,1563.7,68.0,3.41,0.852,2.23
+Cotton,Tamil Nadu,Rabi,23.64,1251.7,139.5,4.29,0.662,15.65
+Cotton,Karnataka,Whole Year,5.37,1755.5,248.2,5.73,2.081,11.18
+Cotton,Madhya Pradesh,Whole Year,9.07,1366.9,137.7,4.12,0.509,4.62
+Cotton,Madhya Pradesh,Kharif,16.99,1721.4,188.0,2.9,1.925,32.7
+Cotton,Maharashtra,Rabi,3.45,737.4,139.8,1.26,0.311,1.07
+Cotton,Telangana,Whole Year,11.14,777.9,35.4,2.7,3.011,33.56
+Cotton,Uttar Pradesh,Whole Year,9.2,923.0,118.8,1.19,2.981,27.42
+Cotton,Karnataka,Kharif,24.61,836.2,159.2,2.15,0.511,12.58
+Cotton,Andhra Pradesh,Whole Year,14.69,610.8,48.4,7.8,2.241,32.93
+Cotton,Madhya Pradesh,Kharif,2.84,1539.9,85.7,4.55,2.287,6.5
+Cotton,Madhya Pradesh,Zaid,1.32,1481.2,120.0,3.8,1.811,2.39
+Cotton,Andhra Pradesh,Kharif,3.39,1746.8,36.4,0.74,0.782,2.65
+Cotton,Andhra Pradesh,Rabi,7.93,403.5,167.5,3.78,0.754,5.99
+Cotton,Punjab,Rabi,10.06,952.2,70.3,1.21,1.832,18.43
+Cotton,Telangana,Zaid,16.85,424.0,107.9,4.36,2.867,48.31
+Cotton,Telangana,Rabi,9.26,933.0,150.1,6.57,2.122,19.66
+Cotton,Maharashtra,Rabi,1.46,1642.3,168.9,6.66,0.806,1.18
+Cotton,Punjab,Whole Year,0.84,317.9,69.9,3.32,0.97,0.82
+Cotton,Andhra Pradesh,Zaid,20.71,1472.5,212.7,3.38,1.433,29.68
+Cotton,Uttar Pradesh,Zaid,7.56,1505.7,140.5,1.09,3.734,28.22
+Cotton,Madhya Pradesh,Kharif,1.0,429.1,105.3,2.79,2.022,2.02
+Cotton,Punjab,Whole Year,4.44,726.0,126.3,5.31,0.988,4.38
+Cotton,Karnataka,Zaid,13.27,1553.4,214.6,7.99,1.157,15.36
+Cotton,Andhra Pradesh,Kharif,16.6,1387.5,229.5,7.61,1.08,17.93
+Cotton,Telangana,Rabi,12.59,1900.5,107.9,2.25,1.279,16.1
+Cotton,Punjab,Zaid,5.29,1445.2,226.9,2.33,0.315,1.67
+Cotton,Madhya Pradesh,Zaid,20.97,1858.0,69.4,5.91,0.2,4.19
+Cotton,Telangana,Whole Year,12.03,1490.6,89.3,6.62,2.14,25.73
+Cotton,Telangana,Zaid,9.44,965.5,67.5,7.06,2.187,20.64
+Cotton,Punjab,Rabi,14.73,855.7,199.7,4.24,0.645,9.5
+Cotton,Karnataka,Kharif,8.26,1306.3,171.5,4.61,2.123,17.55
+Cotton,Tamil Nadu,Whole Year,6.01,1907.4,92.4,3.02,0.2,1.2
+Cotton,Tamil Nadu,Rabi,4.0,1293.8,200.3,2.55,1.714,6.85
+Cotton,Maharashtra,Rabi,3.41,1949.2,163.6,4.38,1.4,4.77
+Cotton,Tamil Nadu,Rabi,10.82,1258.2,217.4,3.45,0.522,5.65
+Cotton,Maharashtra,Rabi,13.01,580.3,51.3,3.93,2.693,35.02
+Cotton,Uttar Pradesh,Kharif,15.28,1753.0,109.6,6.83,1.252,19.12
+Cotton,Karnataka,Kharif,23.02,1108.0,92.7,4.19,1.709,39.35
+Cotton,Maharashtra,Whole Year,21.23,1222.1,119.2,7.71,1.153,24.47
+Cotton,Punjab,Zaid,16.1,861.2,246.9,3.18,2.484,40.01
+Cotton,Uttar Pradesh,Rabi,20.43,547.3,89.1,1.99,2.592,52.95
+Cotton,Tamil Nadu,Whole Year,0.6,1019.7,178.0,5.17,2.176,1.31
+Cotton,Telangana,Zaid,7.9,1106.5,23.5,1.05,2.142,16.91
+Cotton,Maharashtra,Whole Year,10.87,1356.4,211.0,4.62,0.265,2.88
+Cotton,Tamil Nadu,Zaid,23.82,453.0,104.4,7.41,3.398,80.93
+Cotton,Andhra Pradesh,Kharif,2.42,921.8,112.5,2.53,2.947,7.14
+Cotton,Andhra Pradesh,Whole Year,9.21,1387.0,238.3,5.78,0.489,4.51
+Cotton,Maharashtra,Whole Year,7.64,984.5,178.7,7.55,2.536,19.38
+Cotton,Karnataka,Zaid,7.03,1694.5,114.7,1.82,3.424,24.06
+Cotton,Maharashtra,Zaid,9.07,549.5,41.7,1.34,0.703,6.38
+Cotton,Madhya Pradesh,Rabi,23.82,1946.9,89.6,1.94,1.164,27.74
+Cotton,Punjab,Whole Year,22.78,451.7,224.4,0.52,1.009,22.99
+Cotton,Andhra Pradesh,Whole Year,8.72,1026.5,119.8,5.4,1.36,11.86
+Cotton,Madhya Pradesh,Kharif,19.72,1499.6,81.6,0.86,1.864,36.76
+Cotton,Uttar Pradesh,Whole Year,4.12,1712.0,65.4,3.31,1.663,6.86
+Cotton,Andhra Pradesh,Kharif,6.89,1600.4,59.9,1.34,1.655,11.4
+Cotton,Maharashtra,Rabi,12.81,1605.1,241.2,2.51,0.731,9.36
+Cotton,Andhra Pradesh,Zaid,8.62,1393.2,58.7,5.24,0.951,8.2
+Cotton,Tamil Nadu,Whole Year,21.67,906.6,116.9,3.64,2.245,48.65
+Cotton,Uttar Pradesh,Zaid,23.88,1762.1,213.5,3.44,1.91,45.63
+Cotton,Telangana,Kharif,3.43,1894.4,236.9,2.41,0.2,0.69
+Cotton,Tamil Nadu,Rabi,7.91,962.3,91.1,3.09,2.626,20.77
+Cotton,Karnataka,Whole Year,7.85,1685.0,150.6,6.35,0.934,7.33
+Cotton,Madhya Pradesh,Rabi,6.32,1271.9,200.2,4.15,1.205,7.61
+Cotton,Tamil Nadu,Whole Year,4.24,345.6,175.9,0.73,1.722,7.3
+Cotton,Maharashtra,Kharif,1.53,1002.9,219.5,7.77,1.878,2.87
+Cotton,Tamil Nadu,Kharif,19.54,739.2,107.3,4.61,2.302,44.97
+Cotton,Uttar Pradesh,Kharif,16.38,890.9,244.7,7.96,0.4,6.55
+Cotton,Uttar Pradesh,Rabi,20.16,1593.4,79.3,1.63,2.083,41.99
+Cotton,Karnataka,Zaid,3.12,396.9,221.0,5.1,1.24,3.87
+Cotton,Uttar Pradesh,Rabi,14.26,676.8,237.8,6.7,1.429,20.38
+Cotton,Karnataka,Rabi,12.25,1905.5,179.0,3.2,1.887,23.12
+Cotton,Maharashtra,Kharif,8.97,1683.3,200.4,5.92,0.398,3.57
+Cotton,Maharashtra,Zaid,4.45,1313.4,77.3,1.77,2.146,9.54
+Cotton,Karnataka,Zaid,20.99,940.8,37.7,5.18,1.291,27.09
+Cotton,Maharashtra,Whole Year,2.36,914.4,129.1,6.36,2.863,6.75
+Cotton,Telangana,Zaid,11.62,1368.2,163.5,4.38,2.611,30.33
+Cotton,Madhya Pradesh,Whole Year,4.27,878.8,173.8,6.17,0.701,2.99
+Cotton,Karnataka,Whole Year,16.51,1113.1,168.5,1.51,1.882,31.06
+Cotton,Telangana,Rabi,16.4,1469.2,138.5,6.11,1.952,32.0
+Cotton,Maharashtra,Whole Year,6.78,1650.6,235.9,7.07,0.224,1.52
+Cotton,Telangana,Kharif,1.73,1387.8,123.5,4.8,2.206,3.82
+Cotton,Madhya Pradesh,Zaid,10.36,821.4,54.6,1.58,3.447,35.69
+Cotton,Andhra Pradesh,Rabi,21.9,837.0,156.9,5.46,1.972,43.19
+Cotton,Karnataka,Kharif,10.21,1304.6,24.8,7.15,1.703,17.39
+Cotton,Maharashtra,Whole Year,11.28,443.3,73.6,1.23,0.708,7.99
+Cotton,Punjab,Whole Year,17.73,1278.0,96.8,2.46,2.02,35.82
+Cotton,Telangana,Kharif,10.93,613.1,60.7,1.32,1.8,19.67
+Cotton,Maharashtra,Zaid,18.61,396.6,83.4,5.44,3.285,61.15
+Cotton,Andhra Pradesh,Whole Year,1.29,947.5,187.7,3.34,0.896,1.16
+Cotton,Andhra Pradesh,Kharif,8.74,1783.5,238.9,4.7,0.5,4.37
+Cotton,Andhra Pradesh,Zaid,4.62,1139.0,189.4,2.17,0.2,0.92
+Cotton,Uttar Pradesh,Whole Year,4.62,1249.3,198.6,2.1,1.182,5.46
+Cotton,Karnataka,Rabi,12.43,409.3,210.9,4.77,1.176,14.61
+Cotton,Tamil Nadu,Zaid,11.55,1038.5,53.6,3.65,2.822,32.58
+Cotton,Telangana,Whole Year,3.11,1861.7,119.7,1.82,0.242,0.75
+Cotton,Telangana,Zaid,21.36,659.1,184.1,5.11,2.312,49.4
+Cotton,Andhra Pradesh,Whole Year,23.93,1769.2,72.7,7.35,1.902,45.51
+Cotton,Andhra Pradesh,Rabi,18.3,1741.6,120.4,0.89,2.263,41.41
+Cotton,Uttar Pradesh,Kharif,21.04,645.8,246.8,7.37,0.2,4.21
+Cotton,Telangana,Rabi,16.67,1207.1,110.0,3.14,2.1,35.0
+Cotton,Maharashtra,Kharif,13.09,821.9,41.1,2.93,2.768,36.24
+Cotton,Uttar Pradesh,Zaid,17.94,1635.9,197.9,1.4,0.682,12.23
+Cotton,Punjab,Rabi,2.12,560.9,216.9,4.92,0.478,1.01
+Cotton,Karnataka,Zaid,13.4,744.2,154.3,1.06,1.693,22.68
+Cotton,Karnataka,Whole Year,16.67,1189.1,233.9,1.68,1.481,24.69
+Cotton,Madhya Pradesh,Rabi,8.39,1711.4,28.1,2.3,2.713,22.75
+Cotton,Maharashtra,Rabi,11.48,872.6,41.2,6.04,1.467,16.84
+Cotton,Tamil Nadu,Kharif,20.41,1481.0,33.3,4.25,3.435,70.1
+Cotton,Tamil Nadu,Zaid,17.71,1421.6,106.2,2.63,1.686,29.85
+Cotton,Andhra Pradesh,Kharif,3.61,1034.5,196.4,1.61,1.519,5.49
+Cotton,Telangana,Whole Year,10.89,1774.7,238.1,3.35,1.432,15.6
+Cotton,Madhya Pradesh,Kharif,8.23,925.6,26.5,6.39,2.981,24.53
+Cotton,Uttar Pradesh,Whole Year,13.84,1893.2,26.9,0.58,1.071,14.82
+Cotton,Uttar Pradesh,Kharif,1.92,1021.8,236.3,5.56,0.275,0.53
+Cotton,Madhya Pradesh,Kharif,7.95,1180.3,191.7,4.69,2.806,22.32
+Cotton,Maharashtra,Kharif,21.2,788.7,130.7,7.84,0.264,5.59
+Cotton,Tamil Nadu,Zaid,15.11,1058.7,188.6,0.7,1.901,28.71
+Cotton,Uttar Pradesh,Zaid,14.41,1462.9,159.1,7.92,1.555,22.4
+Cotton,Maharashtra,Whole Year,15.65,828.2,64.3,3.52,2.154,33.72
+Cotton,Tamil Nadu,Kharif,1.87,1174.3,113.9,4.46,2.581,4.83
+Cotton,Punjab,Whole Year,18.49,1143.8,130.6,4.12,2.908,53.76
+Cotton,Telangana,Rabi,23.64,1853.1,224.0,0.78,1.461,34.54
+Cotton,Tamil Nadu,Kharif,11.69,1614.5,67.9,5.0,1.349,15.77
+Cotton,Maharashtra,Rabi,14.55,1527.1,238.5,2.48,1.603,23.33
+Cotton,Uttar Pradesh,Kharif,11.01,1905.8,130.3,1.41,2.126,23.4
+Cotton,Madhya Pradesh,Whole Year,3.66,848.5,72.4,4.54,1.241,4.54
+Cotton,Madhya Pradesh,Rabi,11.98,1072.6,223.9,4.54,0.847,10.14
+Cotton,Karnataka,Whole Year,8.54,1254.2,187.1,2.72,2.038,17.4
+Cotton,Tamil Nadu,Whole Year,17.97,838.7,184.3,4.63,3.164,56.84
+Cotton,Uttar Pradesh,Whole Year,16.87,1804.1,91.3,6.59,2.139,36.09
+Cotton,Tamil Nadu,Zaid,0.68,492.5,221.0,4.5,0.772,0.52
+Cotton,Telangana,Rabi,21.13,386.1,109.0,5.32,1.584,33.48
+Cotton,Karnataka,Zaid,10.09,332.7,59.2,2.13,1.803,18.19
+Cotton,Madhya Pradesh,Whole Year,5.07,914.3,192.7,6.56,2.096,10.62
+Cotton,Madhya Pradesh,Zaid,13.99,1920.8,221.9,5.37,1.475,20.64
+Cotton,Tamil Nadu,Kharif,18.36,406.6,237.3,4.61,0.2,3.67
+Cotton,Andhra Pradesh,Kharif,2.0,747.1,144.6,1.13,1.965,3.93
+Cotton,Tamil Nadu,Rabi,10.57,837.7,140.8,0.99,1.852,19.57
+Cotton,Karnataka,Rabi,4.46,913.6,151.9,3.63,2.89,12.9
+Cotton,Telangana,Whole Year,17.78,1572.4,112.2,5.88,1.627,28.93
+Cotton,Maharashtra,Zaid,6.48,1291.4,190.3,1.21,0.451,2.92
+Cotton,Karnataka,Whole Year,24.8,874.0,85.3,1.14,2.164,53.68
+Cotton,Tamil Nadu,Whole Year,16.01,1193.8,149.9,7.96,3.446,55.15
+Cotton,Maharashtra,Whole Year,22.92,1731.2,115.5,7.11,2.044,46.85
+Cotton,Madhya Pradesh,Rabi,5.8,1279.6,61.2,1.56,2.131,12.35
+Cotton,Karnataka,Rabi,23.71,1300.4,203.0,1.76,2.378,56.4
+Cotton,Karnataka,Kharif,2.88,1628.7,121.2,3.54,2.216,6.38
+Cotton,Tamil Nadu,Zaid,24.8,1599.5,202.3,2.06,2.008,49.8
+Cotton,Andhra Pradesh,Whole Year,22.22,375.5,83.2,1.85,2.914,64.74
+Cotton,Andhra Pradesh,Rabi,18.03,1209.0,21.2,7.05,0.877,15.81
+Cotton,Maharashtra,Whole Year,1.96,769.1,190.7,5.13,1.103,2.17
+Cotton,Andhra Pradesh,Whole Year,17.85,1466.4,98.7,2.84,2.854,50.95
+Cotton,Punjab,Rabi,11.65,445.8,235.8,1.1,0.937,10.92
+Cotton,Uttar Pradesh,Kharif,21.76,1237.5,101.1,7.48,1.856,40.39
+Cotton,Madhya Pradesh,Whole Year,17.12,766.6,236.5,0.97,1.479,25.33
+Cotton,Madhya Pradesh,Rabi,10.21,1474.1,28.8,7.17,0.496,5.07
+Cotton,Tamil Nadu,Rabi,13.65,871.7,26.6,4.63,2.645,36.12
+Cotton,Uttar Pradesh,Rabi,20.35,450.5,118.6,3.76,1.497,30.47
+Cotton,Karnataka,Whole Year,5.39,1318.3,80.6,1.58,1.932,10.41
+Cotton,Punjab,Zaid,21.09,1951.6,181.8,3.6,0.773,16.3
+Cotton,Andhra Pradesh,Zaid,10.79,943.1,134.3,1.05,1.089,11.74
+Cotton,Telangana,Whole Year,2.07,640.0,84.0,1.77,1.448,2.99
+Cotton,Madhya Pradesh,Kharif,7.68,975.8,191.2,7.67,1.053,8.09
+Cotton,Uttar Pradesh,Whole Year,12.16,1084.3,48.9,7.79,2.461,29.92
+Cotton,Telangana,Zaid,10.33,474.5,236.4,2.64,1.591,16.43
+Cotton,Maharashtra,Rabi,4.23,1664.8,62.9,6.57,2.701,11.42
+Cotton,Tamil Nadu,Whole Year,22.13,1591.8,101.5,4.89,0.2,4.43
+Cotton,Punjab,Zaid,4.43,1207.3,167.3,4.68,3.051,13.52
+Cotton,Maharashtra,Kharif,10.0,1212.8,225.4,3.98,1.514,15.13
+Cotton,Madhya Pradesh,Zaid,19.28,1791.4,189.7,1.25,0.2,3.86
+Cotton,Punjab,Rabi,11.98,676.6,138.7,5.32,1.813,21.73
+Cotton,Andhra Pradesh,Rabi,5.68,828.0,113.3,2.18,2.728,15.5
+Cotton,Andhra Pradesh,Whole Year,11.37,828.6,37.7,1.22,1.67,18.99
+Cotton,Andhra Pradesh,Rabi,21.38,1560.4,144.0,6.29,1.866,39.9
+Cotton,Maharashtra,Kharif,18.88,687.2,211.5,4.76,0.884,16.69
+Cotton,Punjab,Zaid,13.22,827.5,33.2,3.85,1.078,14.26
+Cotton,Karnataka,Kharif,4.9,809.7,46.5,1.13,1.457,7.14
+Cotton,Uttar Pradesh,Whole Year,22.62,1707.6,73.0,5.94,0.918,20.77
+Cotton,Uttar Pradesh,Kharif,24.95,1504.8,73.2,4.66,1.78,44.41
+Cotton,Madhya Pradesh,Whole Year,7.82,1519.3,89.2,1.6,1.692,13.23
+Cotton,Karnataka,Whole Year,12.36,661.4,126.6,5.02,1.905,23.55
+Cotton,Telangana,Whole Year,11.59,594.0,63.2,7.25,2.696,31.25
+Cotton,Maharashtra,Kharif,18.15,433.2,67.7,3.57,1.193,21.66
+Cotton,Andhra Pradesh,Rabi,9.15,1275.0,94.8,5.59,3.515,32.15
+Cotton,Karnataka,Zaid,21.97,949.6,90.9,4.68,2.169,47.66
+Cotton,Andhra Pradesh,Kharif,13.19,1653.4,155.4,7.14,1.147,15.13
+Cotton,Karnataka,Whole Year,21.07,383.0,48.8,4.67,1.925,40.56
+Cotton,Karnataka,Kharif,10.57,1958.1,59.7,2.05,0.789,8.34
+Cotton,Maharashtra,Zaid,5.38,1203.6,77.2,5.44,2.05,11.02
+Cotton,Madhya Pradesh,Kharif,23.69,1057.5,221.2,4.82,1.018,24.12
+Cotton,Uttar Pradesh,Zaid,10.06,412.0,152.1,6.46,2.205,22.17
+Cotton,Maharashtra,Whole Year,7.34,748.5,74.7,7.85,0.695,5.1
+Cotton,Tamil Nadu,Zaid,3.34,633.2,137.0,6.49,1.198,4.0
+Cotton,Telangana,Kharif,21.72,1906.1,48.9,0.81,1.242,26.97
+Cotton,Uttar Pradesh,Kharif,16.94,930.9,110.1,4.59,1.318,22.33
+Cotton,Andhra Pradesh,Kharif,20.1,1868.9,109.1,6.05,0.2,4.02
+Cotton,Maharashtra,Kharif,6.52,1328.3,29.3,6.77,1.944,12.69
+Cotton,Maharashtra,Zaid,2.55,719.4,175.4,6.55,1.899,4.83
+Cotton,Maharashtra,Whole Year,9.92,438.6,248.8,1.85,0.2,1.98
+Cotton,Tamil Nadu,Whole Year,10.56,506.5,245.1,3.36,0.868,9.16
+Cotton,Madhya Pradesh,Zaid,16.41,1845.8,46.3,4.92,1.499,24.59
+Cotton,Telangana,Rabi,20.4,1845.8,164.6,5.66,0.554,11.3
+Cotton,Uttar Pradesh,Rabi,11.17,433.0,216.1,7.95,0.524,5.85
+Cotton,Uttar Pradesh,Zaid,13.04,433.5,108.1,3.29,2.041,26.61
+Cotton,Andhra Pradesh,Rabi,3.64,1008.8,64.1,6.95,2.226,8.11
+Cotton,Uttar Pradesh,Zaid,11.25,391.2,165.9,4.11,0.874,9.83
+Cotton,Telangana,Zaid,14.31,1936.8,27.6,7.42,0.945,13.53
+Cotton,Andhra Pradesh,Rabi,5.65,1431.4,138.9,2.2,1.261,7.12
+Cotton,Maharashtra,Rabi,17.38,1103.8,109.9,0.97,3.937,68.44
+Cotton,Madhya Pradesh,Whole Year,6.46,390.5,96.0,1.16,2.067,13.34
+Cotton,Tamil Nadu,Kharif,7.06,931.6,178.5,7.95,3.983,28.11
+Cotton,Karnataka,Kharif,13.26,1452.5,142.3,3.76,0.257,3.41
+Cotton,Tamil Nadu,Zaid,17.79,1782.4,86.2,5.8,2.547,45.31
+Cotton,Maharashtra,Zaid,7.9,1355.9,236.1,3.14,0.445,3.52
+Cotton,Uttar Pradesh,Whole Year,19.12,1601.6,249.5,1.55,1.872,35.79
+Cotton,Punjab,Whole Year,15.95,1303.8,199.5,0.85,2.209,35.25
+Cotton,Andhra Pradesh,Whole Year,13.7,716.5,204.4,0.87,2.175,29.8
+Cotton,Tamil Nadu,Zaid,3.06,410.9,158.0,7.01,0.495,1.51
+Cotton,Tamil Nadu,Rabi,9.33,1067.8,116.7,5.53,2.053,19.15
+Cotton,Punjab,Zaid,16.74,1229.5,31.2,7.4,1.616,27.06
+Cotton,Uttar Pradesh,Whole Year,6.56,337.7,132.7,2.18,0.737,4.84
+Cotton,Karnataka,Zaid,20.52,1169.1,168.4,5.5,2.155,44.23
+Cotton,Uttar Pradesh,Zaid,11.68,385.4,110.6,6.8,2.738,31.97
+Cotton,Punjab,Kharif,18.53,1210.6,227.2,5.98,1.838,34.05
+Cotton,Madhya Pradesh,Whole Year,9.93,1877.3,32.6,6.22,1.329,13.19
+Cotton,Madhya Pradesh,Kharif,12.44,1720.8,166.5,3.93,0.605,7.53
+Cotton,Karnataka,Rabi,10.45,1303.9,73.7,3.34,1.629,17.03
+Cotton,Madhya Pradesh,Zaid,23.45,1769.4,199.2,1.67,2.419,56.72
+Cotton,Karnataka,Zaid,1.31,1010.8,117.8,0.99,1.809,2.37
+Cotton,Uttar Pradesh,Zaid,22.97,725.5,150.9,4.16,2.229,51.2
+Cotton,Tamil Nadu,Whole Year,4.0,1247.7,30.7,3.45,2.534,10.14
+Cotton,Andhra Pradesh,Zaid,5.31,811.7,95.9,0.59,1.571,8.34
+Cotton,Uttar Pradesh,Zaid,18.64,1814.9,103.0,4.13,0.964,17.97
+Cotton,Uttar Pradesh,Rabi,11.76,1442.6,182.1,6.78,1.208,14.2
+Cotton,Tamil Nadu,Kharif,7.67,384.3,219.0,4.32,1.065,8.17
+Cotton,Uttar Pradesh,Whole Year,14.08,833.3,49.8,3.78,2.08,29.29
+Cotton,Telangana,Rabi,3.97,1201.4,204.2,7.81,1.038,4.12
+Sugarcane,Karnataka,Whole Year,3.67,1678.2,180.0,7.65,25.482,93.62
+Sugarcane,Uttar Pradesh,Whole Year,13.69,327.0,128.9,0.52,68.063,931.91
+Sugarcane,Tamil Nadu,Zaid,14.37,486.7,207.0,4.52,52.117,748.7
+Sugarcane,Punjab,Whole Year,2.2,714.6,195.9,5.31,87.005,191.66
+Sugarcane,Andhra Pradesh,Zaid,23.43,658.8,215.4,5.72,67.525,1582.3
+Sugarcane,Tamil Nadu,Zaid,15.66,1199.0,104.3,6.42,44.6,698.57
+Sugarcane,Punjab,Rabi,18.96,1532.9,64.3,6.75,61.65,1168.65
+Sugarcane,Tamil Nadu,Rabi,19.1,1809.7,85.0,2.18,33.898,647.37
+Sugarcane,Uttar Pradesh,Whole Year,5.59,1431.3,239.1,7.22,111.38,622.08
+Sugarcane,Madhya Pradesh,Whole Year,8.99,545.5,204.8,1.18,45.731,411.26
+Sugarcane,Tamil Nadu,Zaid,15.06,869.2,51.1,6.5,94.625,1425.25
+Sugarcane,Andhra Pradesh,Whole Year,2.33,598.9,46.2,1.94,49.717,115.61
+Sugarcane,Andhra Pradesh,Rabi,1.65,364.4,27.3,5.73,5.752,9.5
+Sugarcane,Telangana,Rabi,14.06,312.5,212.9,3.13,71.555,1006.29
+Sugarcane,Punjab,Kharif,19.67,618.1,22.3,7.32,8.956,176.13
+Sugarcane,Punjab,Rabi,1.14,643.9,55.7,6.03,58.755,67.23
+Sugarcane,Punjab,Kharif,19.44,370.5,159.9,2.89,69.05,1342.07
+Sugarcane,Karnataka,Rabi,14.5,356.2,202.1,2.65,49.991,725.11
+Sugarcane,Punjab,Whole Year,19.13,499.1,88.1,5.93,69.371,1327.18
+Sugarcane,Tamil Nadu,Whole Year,10.36,469.6,54.0,2.57,45.756,473.9
+Sugarcane,Andhra Pradesh,Kharif,5.23,995.2,107.4,1.99,59.604,311.69
+Sugarcane,Uttar Pradesh,Zaid,13.0,1909.6,52.2,2.05,49.511,643.51
+Sugarcane,Uttar Pradesh,Zaid,0.82,1903.7,122.4,4.11,53.08,43.45
+Sugarcane,Karnataka,Zaid,22.68,384.1,47.4,0.71,89.234,2024.17
+Sugarcane,Karnataka,Rabi,5.84,1736.4,127.2,6.78,95.622,558.4
+Sugarcane,Madhya Pradesh,Whole Year,23.66,1434.2,157.0,3.14,74.175,1755.13
+Sugarcane,Tamil Nadu,Zaid,8.77,1721.0,113.0,6.25,64.845,568.98
+Sugarcane,Uttar Pradesh,Rabi,8.59,393.0,170.1,1.4,77.587,666.74
+Sugarcane,Madhya Pradesh,Whole Year,9.06,556.7,173.3,1.81,47.839,433.55
+Sugarcane,Andhra Pradesh,Zaid,8.92,559.7,119.9,1.1,76.797,685.13
+Sugarcane,Punjab,Zaid,8.83,875.1,172.0,6.27,39.593,349.52
+Sugarcane,Uttar Pradesh,Kharif,19.8,1395.8,28.7,4.1,43.173,854.78
+Sugarcane,Karnataka,Kharif,9.15,1049.2,86.1,4.23,53.377,488.49
+Sugarcane,Madhya Pradesh,Whole Year,3.89,1874.4,90.8,4.81,50.791,197.48
+Sugarcane,Madhya Pradesh,Kharif,12.21,1836.5,35.8,6.92,98.917,1207.95
+Sugarcane,Uttar Pradesh,Kharif,19.15,517.2,241.9,6.49,76.138,1458.36
+Sugarcane,Madhya Pradesh,Kharif,23.14,587.4,248.1,5.88,65.032,1504.98
+Sugarcane,Andhra Pradesh,Whole Year,15.52,1020.7,77.1,2.29,43.617,676.89
+Sugarcane,Uttar Pradesh,Rabi,6.25,1936.1,68.4,3.38,56.253,351.65
+Sugarcane,Karnataka,Zaid,19.9,1730.6,230.2,7.33,53.594,1066.61
+Sugarcane,Telangana,Rabi,14.77,1254.6,23.0,5.92,70.795,1045.6
+Sugarcane,Karnataka,Zaid,24.69,657.5,186.4,4.61,53.852,1329.48
+Sugarcane,Telangana,Rabi,7.02,401.0,145.1,4.41,61.612,432.32
+Sugarcane,Telangana,Whole Year,0.55,1979.3,130.8,6.93,51.046,27.91
+Sugarcane,Karnataka,Rabi,20.4,1080.3,226.1,3.25,37.81,771.35
+Sugarcane,Madhya Pradesh,Kharif,24.67,1274.5,211.2,2.48,58.028,1431.51
+Sugarcane,Tamil Nadu,Rabi,0.82,1881.4,226.5,1.01,95.878,78.88
+Sugarcane,Karnataka,Kharif,2.75,1710.0,127.3,2.47,77.116,212.11
+Sugarcane,Maharashtra,Rabi,16.18,371.9,202.0,6.28,53.631,867.97
+Sugarcane,Andhra Pradesh,Whole Year,24.0,1184.3,249.2,2.94,28.15,675.55
+Sugarcane,Telangana,Whole Year,3.33,1245.9,143.4,6.87,53.037,176.75
+Sugarcane,Maharashtra,Zaid,5.39,555.2,137.7,7.04,37.178,200.47
+Sugarcane,Punjab,Zaid,21.88,1931.1,108.1,6.77,64.438,1409.92
+Sugarcane,Andhra Pradesh,Zaid,5.52,1045.3,122.1,6.56,52.181,287.98
+Sugarcane,Andhra Pradesh,Rabi,16.6,1376.8,45.3,4.81,41.765,693.1
+Sugarcane,Uttar Pradesh,Kharif,16.08,1292.5,70.7,2.47,42.025,675.72
+Sugarcane,Punjab,Rabi,19.93,1138.2,54.3,0.92,80.192,1597.98
+Sugarcane,Tamil Nadu,Kharif,18.09,1102.0,193.6,4.11,49.749,900.13
+Sugarcane,Punjab,Whole Year,2.46,1713.6,164.8,2.59,57.49,141.23
+Sugarcane,Andhra Pradesh,Rabi,24.74,555.0,52.6,4.01,63.72,1576.59
+Sugarcane,Karnataka,Whole Year,1.15,1149.4,39.1,2.31,80.105,92.15
+Sugarcane,Maharashtra,Zaid,2.1,1637.5,119.4,4.06,85.067,178.31
+Sugarcane,Maharashtra,Rabi,21.5,1455.9,135.0,6.76,55.86,1200.82
+Sugarcane,Tamil Nadu,Kharif,20.19,1904.9,75.7,0.66,62.254,1257.16
+Sugarcane,Telangana,Rabi,8.71,1450.8,133.9,3.49,80.489,701.09
+Sugarcane,Punjab,Whole Year,1.84,1259.8,93.0,5.84,54.498,100.33
+Sugarcane,Telangana,Rabi,24.17,617.7,102.1,4.11,66.895,1617.17
+Sugarcane,Tamil Nadu,Whole Year,11.25,1223.0,181.5,4.79,80.586,906.28
+Sugarcane,Maharashtra,Kharif,19.26,942.7,247.0,7.61,80.744,1554.8
+Sugarcane,Telangana,Zaid,14.75,763.5,223.7,4.03,73.021,1076.77
+Sugarcane,Punjab,Whole Year,21.68,1655.4,94.0,1.16,55.792,1209.67
+Sugarcane,Madhya Pradesh,Kharif,1.44,1034.5,44.3,2.16,39.779,57.23
+Sugarcane,Maharashtra,Zaid,12.62,934.0,62.7,7.0,61.472,776.05
+Sugarcane,Uttar Pradesh,Whole Year,11.89,482.3,23.9,1.46,70.908,842.91
+Sugarcane,Punjab,Rabi,8.36,1402.1,136.8,3.0,80.15,670.23
+Sugarcane,Telangana,Kharif,4.35,748.0,239.7,2.19,76.317,331.89
+Sugarcane,Tamil Nadu,Kharif,13.98,745.3,240.2,4.81,81.553,1139.81
+Sugarcane,Maharashtra,Whole Year,0.77,967.2,70.4,3.76,72.389,55.92
+Sugarcane,Andhra Pradesh,Kharif,3.63,339.8,51.8,6.93,67.744,246.04
+Sugarcane,Telangana,Zaid,6.28,363.5,128.6,3.37,70.875,445.41
+Sugarcane,Madhya Pradesh,Whole Year,17.21,545.3,247.0,6.28,44.171,759.99
+Sugarcane,Tamil Nadu,Zaid,12.11,806.0,170.6,2.09,80.003,968.92
+Sugarcane,Karnataka,Whole Year,21.43,1090.3,63.9,4.22,52.405,1123.1
+Sugarcane,Madhya Pradesh,Kharif,1.02,1601.7,65.3,7.0,48.721,49.59
+Sugarcane,Karnataka,Whole Year,13.54,1620.3,74.7,5.81,81.243,1099.8
+Sugarcane,Punjab,Whole Year,19.73,1368.3,155.8,6.64,96.635,1907.01
+Sugarcane,Andhra Pradesh,Whole Year,6.2,957.0,36.8,3.03,55.54,344.12
+Sugarcane,Tamil Nadu,Rabi,22.72,784.6,215.9,3.84,13.318,302.56
+Sugarcane,Karnataka,Zaid,3.22,1225.9,241.0,5.5,57.739,185.75
+Sugarcane,Tamil Nadu,Kharif,9.11,1124.6,63.2,4.14,77.39,704.69
+Sugarcane,Punjab,Kharif,15.75,1776.7,90.1,7.88,58.304,918.11
+Sugarcane,Uttar Pradesh,Whole Year,2.25,698.4,223.4,2.69,87.428,196.86
+Sugarcane,Karnataka,Kharif,1.06,806.1,69.7,1.27,43.85,46.28
+Sugarcane,Andhra Pradesh,Whole Year,3.14,1305.5,34.2,4.76,62.818,197.39
+Sugarcane,Madhya Pradesh,Kharif,4.12,1130.3,241.7,6.77,71.696,295.08
+Sugarcane,Karnataka,Rabi,11.56,1599.8,147.5,6.23,104.842,1211.99
+Sugarcane,Uttar Pradesh,Rabi,16.19,1325.3,113.4,1.98,74.014,1198.48
+Sugarcane,Madhya Pradesh,Rabi,12.16,1765.7,244.6,6.92,22.166,269.48
+Sugarcane,Tamil Nadu,Kharif,4.3,968.6,71.8,5.57,59.355,255.1
+Sugarcane,Uttar Pradesh,Zaid,15.09,1655.0,232.4,7.73,52.799,796.59
+Sugarcane,Punjab,Kharif,21.47,1306.3,179.2,6.88,28.597,613.92
+Sugarcane,Telangana,Kharif,18.9,1453.7,187.8,2.4,81.426,1538.92
+Sugarcane,Maharashtra,Rabi,18.19,807.4,71.2,2.11,55.42,1007.84
+Sugarcane,Telangana,Zaid,22.4,1471.5,191.1,3.53,46.774,1047.73
+Sugarcane,Telangana,Whole Year,12.77,584.7,31.0,5.63,87.587,1118.45
+Sugarcane,Punjab,Whole Year,21.9,638.7,246.7,6.22,55.865,1223.45
+Sugarcane,Karnataka,Kharif,21.1,1148.2,35.3,1.49,83.037,1751.88
+Sugarcane,Madhya Pradesh,Zaid,5.78,1106.0,72.0,4.69,11.139,64.44
+Sugarcane,Maharashtra,Zaid,14.41,1167.1,192.5,1.61,72.276,1041.5
+Sugarcane,Karnataka,Kharif,20.56,1379.6,167.5,5.97,86.614,1781.17
+Sugarcane,Telangana,Whole Year,9.86,1937.0,79.3,4.57,52.185,514.76
+Sugarcane,Andhra Pradesh,Rabi,16.26,1004.3,235.8,6.31,48.319,785.46
+Sugarcane,Andhra Pradesh,Whole Year,11.9,1792.7,25.2,4.86,66.949,796.92
+Sugarcane,Telangana,Whole Year,12.17,1533.8,142.8,6.88,60.336,734.05
+Sugarcane,Punjab,Zaid,11.08,1872.8,28.3,4.16,78.424,869.16
+Sugarcane,Uttar Pradesh,Whole Year,22.2,1024.7,92.9,7.8,73.242,1625.62
+Sugarcane,Andhra Pradesh,Rabi,10.93,1792.9,177.1,5.28,87.775,959.52
+Sugarcane,Telangana,Rabi,10.77,1845.8,134.4,2.12,85.17,917.54
+Sugarcane,Karnataka,Zaid,1.34,1529.6,49.2,1.34,31.519,42.34
+Sugarcane,Madhya Pradesh,Kharif,24.23,1164.2,153.4,2.32,57.964,1404.48
+Sugarcane,Andhra Pradesh,Zaid,10.31,1737.5,106.7,5.37,63.959,659.72
+Sugarcane,Maharashtra,Rabi,24.84,1657.3,179.5,6.52,58.901,1463.11
+Sugarcane,Karnataka,Rabi,22.04,1992.6,86.7,7.88,92.053,2029.02
+Sugarcane,Punjab,Zaid,4.08,1805.4,115.1,0.53,86.135,351.01
+Sugarcane,Madhya Pradesh,Zaid,5.3,1326.4,193.9,4.23,89.681,474.9
+Sugarcane,Madhya Pradesh,Rabi,6.68,335.2,134.1,5.64,45.378,303.14
+Sugarcane,Uttar Pradesh,Zaid,13.66,1015.3,181.9,6.95,79.918,1091.77
+Sugarcane,Uttar Pradesh,Whole Year,1.41,1645.1,133.8,7.59,61.896,87.31
+Sugarcane,Andhra Pradesh,Rabi,14.98,1925.4,82.4,4.04,79.864,1196.74
+Sugarcane,Tamil Nadu,Zaid,13.24,842.2,143.1,3.12,86.992,1151.34
+Sugarcane,Telangana,Kharif,14.1,382.2,28.4,0.98,32.413,456.92
+Sugarcane,Madhya Pradesh,Zaid,8.91,731.2,102.4,1.95,96.417,859.39
+Sugarcane,Andhra Pradesh,Whole Year,2.99,1178.7,129.7,2.76,73.101,218.76
+Sugarcane,Andhra Pradesh,Rabi,20.33,700.4,202.1,2.69,52.743,1072.37
+Sugarcane,Maharashtra,Rabi,3.81,675.8,177.0,2.33,34.293,130.5
+Sugarcane,Punjab,Whole Year,22.3,1150.6,158.1,1.92,80.723,1799.98
+Sugarcane,Maharashtra,Zaid,10.62,1754.2,75.4,5.16,66.484,706.25
+Sugarcane,Tamil Nadu,Rabi,12.18,658.2,121.7,5.93,82.043,999.14
+Sugarcane,Madhya Pradesh,Kharif,19.61,1110.1,137.5,7.52,94.319,1849.58
+Sugarcane,Maharashtra,Rabi,16.19,1853.0,102.0,3.71,79.599,1288.86
+Sugarcane,Karnataka,Kharif,19.25,1776.3,102.2,1.57,72.7,1399.28
+Sugarcane,Madhya Pradesh,Whole Year,11.57,761.4,232.2,4.63,65.627,759.57
+Sugarcane,Telangana,Whole Year,0.7,1409.7,90.5,4.35,114.552,80.46
+Sugarcane,Andhra Pradesh,Zaid,7.82,735.5,203.0,5.89,82.039,641.87
+Sugarcane,Madhya Pradesh,Whole Year,0.52,1432.1,56.2,7.68,84.143,43.8
+Sugarcane,Uttar Pradesh,Whole Year,14.17,1045.2,134.3,6.52,72.865,1032.21
+Sugarcane,Madhya Pradesh,Kharif,5.54,1335.9,113.1,0.96,39.513,218.9
+Sugarcane,Andhra Pradesh,Zaid,3.07,913.1,180.0,7.23,55.115,169.34
+Sugarcane,Andhra Pradesh,Rabi,15.36,935.2,66.7,2.94,89.269,1370.97
+Sugarcane,Telangana,Whole Year,4.24,537.2,206.9,5.4,80.53,341.21
+Sugarcane,Karnataka,Zaid,12.46,1077.4,68.6,1.76,71.209,887.42
+Sugarcane,Madhya Pradesh,Kharif,8.77,896.3,129.9,3.66,88.06,772.52
+Sugarcane,Punjab,Zaid,18.16,438.4,102.8,1.5,43.919,797.57
+Sugarcane,Karnataka,Rabi,12.74,418.6,138.6,1.48,20.6,262.51
+Sugarcane,Telangana,Zaid,6.53,545.1,86.2,1.25,72.348,472.34
+Sugarcane,Madhya Pradesh,Whole Year,12.02,1183.7,61.0,3.81,53.695,645.43
+Sugarcane,Karnataka,Kharif,2.47,1868.8,220.4,6.92,67.436,166.76
+Sugarcane,Madhya Pradesh,Whole Year,2.95,1246.6,213.2,7.52,40.543,119.55
+Sugarcane,Telangana,Rabi,7.57,760.2,55.3,3.73,72.656,550.3
+Sugarcane,Maharashtra,Rabi,9.22,1272.8,196.3,7.24,88.593,816.44
+Sugarcane,Tamil Nadu,Whole Year,11.91,1841.7,122.1,7.27,52.141,620.75
+Sugarcane,Tamil Nadu,Rabi,6.44,1844.3,161.5,5.51,82.246,529.7
+Sugarcane,Telangana,Kharif,2.11,1946.2,97.5,6.83,80.548,170.01
+Sugarcane,Karnataka,Rabi,2.69,1001.1,159.6,7.01,99.124,266.64
+Sugarcane,Karnataka,Zaid,6.69,1974.4,167.9,4.26,77.498,518.75
+Sugarcane,Madhya Pradesh,Rabi,15.62,604.0,145.0,2.62,89.708,1401.21
+Sugarcane,Telangana,Zaid,3.57,694.3,206.0,3.54,64.38,230.15
+Sugarcane,Madhya Pradesh,Kharif,12.63,1683.3,84.8,3.66,106.406,1344.1
+Sugarcane,Andhra Pradesh,Rabi,9.1,1804.7,200.7,3.3,64.543,587.6
+Sugarcane,Telangana,Whole Year,1.57,1567.1,176.4,0.98,48.153,75.75
+Sugarcane,Maharashtra,Rabi,7.82,601.4,108.5,2.04,71.653,560.11
+Sugarcane,Maharashtra,Whole Year,13.58,451.6,104.6,6.79,73.098,993.02
+Sugarcane,Madhya Pradesh,Zaid,11.66,1000.4,74.1,1.05,52.42,611.43
+Sugarcane,Madhya Pradesh,Kharif,14.53,1343.6,151.1,1.14,45.773,665.17
+Sugarcane,Andhra Pradesh,Whole Year,9.92,1792.9,140.9,1.13,35.373,350.97
+Sugarcane,Karnataka,Rabi,2.27,966.4,92.4,6.5,48.128,109.42
+Sugarcane,Telangana,Rabi,19.03,1150.7,38.8,7.77,41.23,784.59
+Sugarcane,Uttar Pradesh,Rabi,22.55,1882.4,188.2,5.96,86.593,1952.53
+Sugarcane,Andhra Pradesh,Zaid,24.75,713.9,40.6,7.83,58.047,1436.62
+Sugarcane,Karnataka,Zaid,21.28,974.3,135.5,0.83,41.318,879.29
+Sugarcane,Andhra Pradesh,Whole Year,20.91,1113.2,73.1,3.27,72.0,1505.41
+Sugarcane,Madhya Pradesh,Zaid,6.01,903.4,233.5,5.17,31.628,190.14
+Sugarcane,Telangana,Zaid,5.18,1248.4,233.7,4.75,28.266,146.28
+Sugarcane,Karnataka,Zaid,6.96,351.6,224.6,3.72,59.477,413.99
+Sugarcane,Punjab,Whole Year,24.3,1375.4,179.1,7.57,28.425,690.61
+Sugarcane,Karnataka,Whole Year,2.19,664.8,98.5,6.37,64.401,141.06
+Sugarcane,Maharashtra,Rabi,11.57,786.4,101.2,5.42,65.601,758.93
+Sugarcane,Telangana,Kharif,17.84,1326.6,42.3,5.67,36.071,643.59
+Sugarcane,Tamil Nadu,Kharif,10.06,1009.0,46.8,0.57,57.747,581.09
+Sugarcane,Uttar Pradesh,Rabi,2.19,735.9,141.6,6.07,48.342,105.87
+Sugarcane,Tamil Nadu,Zaid,15.52,1314.5,226.2,1.85,115.819,1797.76
+Sugarcane,Maharashtra,Rabi,11.53,1954.9,236.7,5.09,60.07,692.81
+Sugarcane,Tamil Nadu,Zaid,19.01,1172.0,249.0,5.64,65.774,1250.16
+Sugarcane,Punjab,Kharif,21.14,1682.7,244.8,4.17,55.701,1177.41
+Sugarcane,Madhya Pradesh,Rabi,16.48,420.3,243.9,6.19,60.08,990.12
+Sugarcane,Andhra Pradesh,Whole Year,13.27,506.0,176.3,4.23,64.608,857.45
+Sugarcane,Madhya Pradesh,Whole Year,7.63,1709.6,169.7,7.91,60.272,459.95
+Sugarcane,Punjab,Whole Year,23.18,1049.2,88.5,0.95,82.346,1908.7
+Sugarcane,Punjab,Kharif,16.55,757.6,185.1,4.09,61.963,1025.26
+Sugarcane,Tamil Nadu,Zaid,23.35,1560.4,113.4,2.23,70.304,1641.42
+Sugarcane,Karnataka,Kharif,16.24,542.9,212.8,7.71,56.132,911.47
+Sugarcane,Andhra Pradesh,Whole Year,12.03,1210.2,191.9,2.08,49.348,593.76
+Sugarcane,Tamil Nadu,Rabi,19.63,574.3,45.5,7.51,52.506,1030.78
+Sugarcane,Uttar Pradesh,Zaid,1.67,1955.9,134.5,3.97,67.466,112.79
+Sugarcane,Uttar Pradesh,Zaid,12.86,1180.2,246.3,1.34,26.589,342.03
+Sugarcane,Telangana,Zaid,12.39,339.1,71.0,3.73,46.982,582.33
+Sugarcane,Maharashtra,Rabi,14.27,1744.8,210.5,4.93,35.568,507.44
+Sugarcane,Maharashtra,Zaid,2.38,975.0,172.0,7.59,78.12,186.15
+Sugarcane,Telangana,Whole Year,22.45,478.2,142.3,2.87,55.014,1235.07
+Sugarcane,Andhra Pradesh,Kharif,2.09,1044.6,38.6,2.75,87.684,183.01
+Sugarcane,Karnataka,Whole Year,8.69,686.6,85.6,1.61,57.634,501.12
+Sugarcane,Tamil Nadu,Kharif,13.7,688.9,189.3,2.73,5.371,73.58
+Sugarcane,Punjab,Kharif,9.99,1173.2,135.9,7.67,69.975,698.73
+Sugarcane,Punjab,Kharif,16.58,1574.3,209.0,4.08,70.277,1165.28
+Sugarcane,Punjab,Rabi,15.56,992.0,208.8,1.94,78.593,1223.27
+Sugarcane,Telangana,Kharif,8.28,1379.7,197.2,2.13,54.765,453.6
+Sugarcane,Maharashtra,Kharif,20.7,999.1,151.5,1.09,76.137,1576.36
+Sugarcane,Tamil Nadu,Kharif,3.42,1422.7,151.8,7.4,79.107,270.67
+Sugarcane,Uttar Pradesh,Whole Year,1.29,733.1,118.4,1.67,52.436,67.75
+Sugarcane,Tamil Nadu,Whole Year,23.35,1203.6,90.2,2.16,104.025,2429.05
+Sugarcane,Uttar Pradesh,Kharif,24.67,728.1,186.0,4.29,84.409,2082.78
+Sugarcane,Tamil Nadu,Zaid,16.49,991.3,182.9,3.03,49.54,816.76
+Sugarcane,Andhra Pradesh,Kharif,17.87,372.6,95.5,4.6,60.491,1080.7
+Sugarcane,Telangana,Whole Year,4.5,1546.9,168.6,3.58,60.354,271.68
+Sugarcane,Tamil Nadu,Kharif,23.89,1088.8,62.2,5.89,86.139,2058.25
+Sugarcane,Karnataka,Whole Year,1.6,1556.8,247.5,4.54,78.123,124.94
+Sugarcane,Telangana,Whole Year,11.31,906.5,180.2,7.91,63.535,718.41
+Sugarcane,Karnataka,Zaid,3.26,1406.6,118.9,3.33,49.759,162.39
+Sugarcane,Madhya Pradesh,Zaid,4.82,1177.7,106.8,4.19,54.287,261.67
+Sugarcane,Punjab,Kharif,9.52,1001.6,24.6,3.36,34.507,328.42
+Sugarcane,Telangana,Kharif,13.13,1417.0,148.0,1.29,93.653,1229.86
+Sugarcane,Telangana,Zaid,17.04,912.3,64.5,6.72,38.81,661.19
+Sugarcane,Punjab,Rabi,16.55,948.1,233.3,7.94,90.871,1503.71
+Sugarcane,Karnataka,Zaid,13.15,1778.2,115.0,0.74,100.188,1317.24
+Sugarcane,Tamil Nadu,Zaid,18.18,1168.3,237.3,7.15,74.532,1354.81
+Sugarcane,Punjab,Zaid,19.52,811.3,21.9,1.89,38.323,748.21
+Sugarcane,Madhya Pradesh,Whole Year,7.64,929.7,182.5,1.06,59.302,453.05
+Sugarcane,Telangana,Whole Year,8.11,741.6,131.3,5.45,0.2,1.62
+Sugarcane,Uttar Pradesh,Rabi,7.69,1638.4,131.4,7.64,60.021,461.73
+Sugarcane,Andhra Pradesh,Zaid,7.22,598.0,222.6,3.13,81.48,588.33
+Sugarcane,Tamil Nadu,Zaid,24.14,352.7,104.4,0.79,4.57,110.34
+Sugarcane,Madhya Pradesh,Whole Year,23.87,1183.5,85.6,7.04,66.21,1580.69
+Sugarcane,Maharashtra,Kharif,14.06,620.6,29.3,3.96,32.446,456.2
+Sugarcane,Telangana,Whole Year,5.79,407.3,32.9,3.83,53.581,310.44
+Sugarcane,Uttar Pradesh,Zaid,16.77,1455.0,80.4,0.58,20.705,347.17
+Sugarcane,Andhra Pradesh,Kharif,2.26,1619.9,108.6,6.72,48.779,110.46
+Sugarcane,Andhra Pradesh,Kharif,20.6,1093.6,112.4,7.73,89.394,1841.72
+Sugarcane,Andhra Pradesh,Kharif,2.03,1044.8,154.7,5.06,56.889,115.76
+Sugarcane,Maharashtra,Zaid,17.57,520.9,239.7,3.0,44.305,778.45
+Sugarcane,Madhya Pradesh,Kharif,12.33,1039.0,150.2,7.48,46.24,570.12
+Pulses,Tamil Nadu,Whole Year,4.93,1312.3,133.1,0.96,1.712,8.44
+Pulses,Andhra Pradesh,Kharif,24.89,1016.7,137.3,1.06,1.022,25.44
+Pulses,Punjab,Whole Year,2.9,1887.5,100.2,3.03,0.513,1.49
+Pulses,Telangana,Kharif,24.34,1498.1,45.5,3.4,0.478,11.65
+Pulses,Andhra Pradesh,Rabi,17.86,1137.5,161.8,0.57,0.929,16.58
+Pulses,Andhra Pradesh,Zaid,1.0,1983.8,33.5,1.95,0.767,0.76
+Pulses,Karnataka,Rabi,15.81,1291.5,68.2,7.67,0.418,6.61
+Pulses,Telangana,Kharif,21.45,911.7,78.3,2.42,1.031,22.11
+Pulses,Maharashtra,Rabi,11.85,1516.1,169.6,2.8,0.2,2.37
+Pulses,Punjab,Kharif,2.49,735.6,184.1,1.66,0.498,1.24
+Pulses,Tamil Nadu,Kharif,6.51,1170.1,192.5,2.49,1.112,7.23
+Pulses,Maharashtra,Kharif,2.82,1588.9,83.8,3.39,0.2,0.56
+Pulses,Andhra Pradesh,Rabi,13.81,1503.2,204.7,7.42,0.628,8.67
+Pulses,Karnataka,Kharif,10.05,1808.4,153.3,3.91,0.233,2.34
+Pulses,Tamil Nadu,Rabi,18.08,431.5,86.6,7.71,0.553,9.99
+Pulses,Uttar Pradesh,Whole Year,8.77,858.7,169.0,1.49,0.2,1.75
+Pulses,Karnataka,Zaid,7.24,1635.7,86.2,2.57,1.732,12.53
+Pulses,Andhra Pradesh,Rabi,1.98,905.5,66.0,3.18,1.281,2.53
+Pulses,Maharashtra,Kharif,9.18,826.4,195.7,5.67,0.2,1.84
+Pulses,Uttar Pradesh,Whole Year,23.01,510.1,193.2,5.0,0.448,10.32
+Pulses,Punjab,Zaid,23.4,1925.1,76.1,6.56,0.2,4.68
+Pulses,Andhra Pradesh,Whole Year,23.92,1178.7,236.2,5.32,1.335,31.92
+Pulses,Madhya Pradesh,Kharif,16.28,1324.3,117.0,4.72,0.757,12.33
+Pulses,Telangana,Rabi,0.86,1237.1,132.5,0.91,0.657,0.56
+Pulses,Andhra Pradesh,Kharif,23.56,983.8,225.7,6.6,0.785,18.51
+Pulses,Punjab,Whole Year,23.01,622.0,48.8,2.31,0.816,18.78
+Pulses,Telangana,Kharif,8.34,781.1,115.7,3.97,0.805,6.72
+Pulses,Karnataka,Rabi,3.49,1505.0,25.2,3.26,0.2,0.7
+Pulses,Andhra Pradesh,Zaid,22.13,1701.6,33.9,4.63,0.2,4.43
+Pulses,Maharashtra,Kharif,20.49,398.4,169.1,7.35,0.336,6.89
+Pulses,Maharashtra,Whole Year,22.59,1841.6,160.2,3.92,0.512,11.57
+Pulses,Telangana,Zaid,5.64,1694.1,238.9,3.58,0.434,2.45
+Pulses,Karnataka,Whole Year,13.2,490.4,100.5,1.73,1.085,14.31
+Pulses,Punjab,Whole Year,2.01,743.3,191.3,1.45,1.542,3.1
+Pulses,Punjab,Kharif,22.74,1228.4,162.8,3.92,0.2,4.55
+Pulses,Tamil Nadu,Rabi,12.04,985.2,179.7,3.53,0.2,2.41
+Pulses,Uttar Pradesh,Whole Year,21.07,841.3,237.7,7.1,0.864,18.2
+Pulses,Punjab,Kharif,21.45,1337.7,233.7,4.39,0.433,9.29
+Pulses,Madhya Pradesh,Whole Year,22.97,1018.1,26.1,1.35,1.169,26.84
+Pulses,Tamil Nadu,Kharif,3.22,1322.4,107.9,3.05,0.324,1.04
+Pulses,Uttar Pradesh,Kharif,4.18,1623.4,102.7,7.9,0.599,2.5
+Pulses,Madhya Pradesh,Whole Year,23.93,355.9,71.4,0.78,1.504,35.98
+Pulses,Andhra Pradesh,Zaid,21.85,1918.6,184.5,0.71,0.264,5.76
+Pulses,Punjab,Rabi,7.46,787.6,204.1,2.42,0.992,7.4
+Pulses,Tamil Nadu,Rabi,17.6,788.7,23.0,7.49,1.56,27.47
+Pulses,Madhya Pradesh,Kharif,3.78,1425.3,73.3,2.66,0.2,0.76
+Pulses,Tamil Nadu,Kharif,0.9,1173.2,33.3,2.07,1.264,1.14
+Pulses,Tamil Nadu,Rabi,1.63,615.2,109.2,3.21,0.2,0.33
+Pulses,Maharashtra,Rabi,6.44,756.7,50.7,1.72,0.255,1.64
+Pulses,Tamil Nadu,Kharif,10.59,486.6,208.5,7.67,1.064,11.28
+Pulses,Madhya Pradesh,Zaid,7.71,1478.4,38.5,7.3,0.732,5.65
+Pulses,Maharashtra,Whole Year,8.42,539.4,168.7,6.46,0.362,3.05
+Pulses,Punjab,Whole Year,8.62,1356.0,115.4,4.68,0.475,4.1
+Pulses,Maharashtra,Rabi,21.66,1121.8,74.2,6.78,0.2,4.33
+Pulses,Uttar Pradesh,Rabi,9.74,1871.4,246.2,3.47,0.645,6.28
+Pulses,Telangana,Whole Year,4.28,923.4,34.4,5.1,1.809,7.74
+Pulses,Andhra Pradesh,Rabi,14.23,419.6,234.0,1.5,0.831,11.82
+Pulses,Maharashtra,Zaid,14.88,523.0,135.2,1.98,0.981,14.6
+Pulses,Telangana,Zaid,11.46,1455.4,246.0,3.21,0.832,9.54
+Pulses,Madhya Pradesh,Zaid,20.11,707.0,144.3,7.94,0.807,16.23
+Pulses,Andhra Pradesh,Zaid,8.24,524.0,235.8,7.2,0.469,3.86
+Pulses,Uttar Pradesh,Kharif,4.44,1903.1,120.1,5.11,0.377,1.68
+Pulses,Karnataka,Kharif,12.14,1582.9,133.2,6.85,0.2,2.43
+Pulses,Madhya Pradesh,Zaid,15.51,947.5,94.2,0.97,0.712,11.05
+Pulses,Karnataka,Zaid,8.75,1916.8,175.1,3.95,0.729,6.38
+Pulses,Karnataka,Whole Year,2.36,1626.9,40.8,6.86,0.915,2.15
+Pulses,Punjab,Whole Year,16.14,1558.7,28.1,3.38,1.092,17.63
+Pulses,Karnataka,Kharif,22.46,440.6,36.5,5.85,1.253,28.13
+Pulses,Maharashtra,Whole Year,12.3,1327.3,246.8,1.0,0.31,3.82
+Pulses,Tamil Nadu,Zaid,5.28,617.9,91.4,1.63,0.54,2.86
+Pulses,Tamil Nadu,Kharif,5.4,685.7,152.2,7.76,0.2,1.08
+Pulses,Punjab,Rabi,10.04,1622.4,23.7,4.47,0.678,6.81
+Pulses,Uttar Pradesh,Kharif,6.6,1425.1,171.4,0.78,0.253,1.67
+Pulses,Tamil Nadu,Kharif,14.8,1409.4,240.9,6.67,0.579,8.56
+Pulses,Andhra Pradesh,Rabi,0.63,824.6,132.4,5.99,0.2,0.13
+Pulses,Tamil Nadu,Kharif,16.45,1173.4,178.5,4.14,1.007,16.56
+Pulses,Telangana,Kharif,23.55,961.6,193.8,3.01,0.847,19.94
+Pulses,Telangana,Rabi,23.26,1990.8,20.0,7.87,0.413,9.6
+Pulses,Madhya Pradesh,Kharif,2.23,1605.3,100.5,7.38,0.2,0.45
+Pulses,Madhya Pradesh,Whole Year,11.88,772.4,37.6,5.53,1.495,17.76
+Pulses,Karnataka,Zaid,9.78,805.4,40.7,2.17,0.565,5.52
+Pulses,Uttar Pradesh,Whole Year,3.31,399.3,234.0,6.49,0.2,0.66
+Pulses,Telangana,Rabi,16.15,1307.2,190.9,6.94,1.05,16.95
+Pulses,Punjab,Kharif,17.63,1867.6,133.8,6.52,0.2,3.53
+Pulses,Tamil Nadu,Whole Year,14.15,329.4,208.1,6.85,0.2,2.83
+Pulses,Tamil Nadu,Zaid,14.01,1177.5,237.6,3.56,0.2,2.8
+Pulses,Uttar Pradesh,Zaid,17.67,1945.1,118.6,7.31,0.2,3.53
+Pulses,Karnataka,Zaid,14.04,1273.3,226.6,5.78,1.71,24.01
+Pulses,Madhya Pradesh,Zaid,19.34,770.3,67.3,2.44,0.786,15.21
+Pulses,Telangana,Whole Year,13.66,1454.7,101.9,2.04,0.2,2.73
+Pulses,Madhya Pradesh,Rabi,15.22,579.3,111.3,2.1,1.225,18.65
+Pulses,Telangana,Kharif,3.65,660.1,128.6,7.79,1.451,5.3
+Pulses,Tamil Nadu,Kharif,5.18,675.2,182.9,7.36,0.715,3.7
+Pulses,Uttar Pradesh,Rabi,20.72,1016.6,21.2,5.62,0.755,15.63
+Pulses,Maharashtra,Rabi,22.6,1267.4,48.1,3.27,0.612,13.83
+Pulses,Maharashtra,Zaid,0.61,424.1,176.7,2.68,1.418,0.87
+Pulses,Madhya Pradesh,Kharif,16.23,490.4,211.5,1.58,0.2,3.25
+Pulses,Andhra Pradesh,Rabi,20.62,1238.7,67.3,0.52,1.13,23.31
+Pulses,Tamil Nadu,Rabi,11.07,975.6,31.6,7.21,0.721,7.98
+Pulses,Punjab,Rabi,20.35,911.1,142.2,3.72,0.2,4.07
+Pulses,Tamil Nadu,Zaid,23.68,1654.7,60.1,4.66,0.707,16.75
+Pulses,Madhya Pradesh,Whole Year,2.27,480.3,76.4,4.35,1.602,3.63
+Pulses,Madhya Pradesh,Kharif,20.16,487.1,185.0,6.58,0.2,4.03
+Pulses,Madhya Pradesh,Zaid,13.22,750.9,111.4,4.58,0.2,2.64
+Pulses,Punjab,Rabi,13.53,1738.4,27.3,3.0,0.927,12.54
+Pulses,Maharashtra,Zaid,14.91,1384.9,182.1,1.9,0.969,14.44
+Pulses,Uttar Pradesh,Whole Year,7.85,1021.7,23.2,6.83,1.063,8.34
+Pulses,Telangana,Rabi,20.05,500.8,76.3,3.09,0.975,19.54
+Pulses,Tamil Nadu,Kharif,19.65,1805.6,132.0,5.88,0.578,11.36
+Pulses,Madhya Pradesh,Whole Year,4.38,397.8,89.9,1.16,1.576,6.9
+Pulses,Tamil Nadu,Rabi,10.77,640.9,201.7,4.85,0.2,2.15
+Pulses,Tamil Nadu,Rabi,11.13,394.7,173.0,4.25,0.2,2.23
+Pulses,Karnataka,Kharif,7.62,1069.7,210.3,3.67,0.38,2.89
+Pulses,Uttar Pradesh,Rabi,23.32,335.0,34.3,1.51,1.654,38.57
+Pulses,Uttar Pradesh,Rabi,11.63,1598.9,241.1,3.63,0.852,9.91
+Pulses,Madhya Pradesh,Whole Year,18.17,1306.3,194.8,1.95,1.073,19.5
+Pulses,Telangana,Rabi,16.94,512.2,197.2,1.5,0.2,3.39
+Pulses,Madhya Pradesh,Kharif,7.13,1849.6,26.2,0.63,0.2,1.43
+Pulses,Punjab,Kharif,9.49,690.6,137.0,2.5,1.428,13.55
+Pulses,Karnataka,Whole Year,24.01,372.3,205.5,5.93,0.252,6.05
+Pulses,Andhra Pradesh,Rabi,3.4,1749.0,176.3,2.68,0.2,0.68
+Pulses,Madhya Pradesh,Zaid,9.3,1087.5,180.7,6.65,0.321,2.98
+Pulses,Karnataka,Rabi,22.52,1885.3,79.6,4.23,0.421,9.48
+Pulses,Maharashtra,Kharif,15.65,1604.6,173.1,5.2,0.919,14.38
+Pulses,Karnataka,Whole Year,15.94,475.6,114.2,1.91,0.2,3.19
+Pulses,Punjab,Kharif,19.54,1037.8,70.3,2.17,0.918,17.94
+Pulses,Uttar Pradesh,Kharif,19.63,362.2,236.8,1.34,0.987,19.38
+Pulses,Madhya Pradesh,Zaid,7.73,1619.0,90.6,4.1,1.402,10.84
+Pulses,Karnataka,Zaid,2.25,1715.4,29.6,2.47,0.672,1.52
+Pulses,Punjab,Kharif,6.06,1975.7,115.1,3.32,0.413,2.5
+Pulses,Punjab,Whole Year,2.12,1245.3,242.1,1.25,0.2,0.42
+Pulses,Uttar Pradesh,Whole Year,14.9,698.8,90.6,4.37,0.796,11.86
+Pulses,Punjab,Kharif,12.44,621.8,182.9,1.39,0.444,5.53
+Pulses,Telangana,Kharif,8.95,1437.4,224.5,5.76,0.961,8.59
+Pulses,Madhya Pradesh,Rabi,19.06,1150.4,70.7,6.62,0.2,3.81
+Pulses,Tamil Nadu,Kharif,12.75,652.4,222.0,6.41,1.202,15.32
+Pulses,Andhra Pradesh,Whole Year,1.71,388.2,88.3,1.61,0.652,1.11
+Pulses,Tamil Nadu,Rabi,5.84,1730.0,202.3,3.38,0.849,4.95
+Pulses,Andhra Pradesh,Kharif,23.82,837.0,197.4,3.97,0.565,13.46
+Pulses,Tamil Nadu,Whole Year,20.11,742.5,119.0,1.25,1.409,28.34
+Pulses,Maharashtra,Whole Year,2.2,331.0,134.2,5.02,0.822,1.81
+Pulses,Karnataka,Zaid,15.84,1074.8,53.2,1.77,0.2,3.17
+Pulses,Uttar Pradesh,Kharif,11.85,1188.1,136.8,3.06,0.2,2.37
+Pulses,Punjab,Whole Year,5.26,1007.0,68.5,5.14,1.163,6.12
+Pulses,Uttar Pradesh,Whole Year,9.67,1107.7,116.9,6.91,0.628,6.07
+Pulses,Madhya Pradesh,Rabi,9.03,1862.5,60.7,2.83,0.344,3.11
+Pulses,Tamil Nadu,Whole Year,16.37,1908.9,156.5,6.92,0.292,4.77
+Pulses,Karnataka,Rabi,6.62,1322.7,47.6,5.26,1.016,6.73
+Pulses,Madhya Pradesh,Kharif,19.14,1403.6,212.8,5.97,1.286,24.61
+Pulses,Karnataka,Zaid,11.14,1188.2,128.1,6.32,1.784,19.88
+Pulses,Tamil Nadu,Zaid,19.98,1560.8,227.2,3.3,0.606,12.11
+Pulses,Madhya Pradesh,Whole Year,17.96,1994.5,64.7,3.58,0.2,3.59
+Pulses,Uttar Pradesh,Zaid,21.59,328.9,51.1,2.36,1.351,29.16
+Pulses,Tamil Nadu,Zaid,4.39,846.7,191.0,3.36,1.27,5.57
+Pulses,Telangana,Zaid,15.41,1851.9,77.5,3.86,0.278,4.29
+Pulses,Maharashtra,Rabi,12.31,1718.7,147.2,3.39,0.2,2.46
+Pulses,Punjab,Rabi,11.07,1176.4,248.8,6.4,0.589,6.52
+Pulses,Telangana,Whole Year,24.79,714.8,220.7,7.33,1.194,29.59
+Pulses,Uttar Pradesh,Zaid,3.3,1752.0,172.7,5.61,0.305,1.0
+Pulses,Madhya Pradesh,Zaid,14.59,484.7,175.2,4.12,1.418,20.68
+Pulses,Punjab,Whole Year,5.05,370.2,160.6,5.44,1.453,7.34
+Pulses,Maharashtra,Zaid,21.28,789.8,75.9,2.46,0.874,18.59
+Pulses,Tamil Nadu,Whole Year,22.57,1998.6,207.8,3.59,0.95,21.44
+Pulses,Andhra Pradesh,Kharif,23.52,775.3,94.5,7.99,0.333,7.83
+Pulses,Telangana,Whole Year,22.19,987.9,212.7,2.63,0.714,15.83
+Pulses,Uttar Pradesh,Whole Year,2.89,1261.0,160.2,4.85,0.2,0.58
+Pulses,Madhya Pradesh,Zaid,2.07,1821.5,152.1,6.26,0.2,0.41
+Pulses,Madhya Pradesh,Zaid,2.3,433.0,69.3,5.25,0.908,2.09
+Pulses,Madhya Pradesh,Kharif,20.62,1894.2,171.0,0.65,0.2,4.12
+Pulses,Punjab,Rabi,3.43,480.1,26.5,7.67,0.932,3.2
+Pulses,Uttar Pradesh,Zaid,8.67,939.9,33.7,1.68,0.484,4.19
+Pulses,Punjab,Kharif,9.08,1922.8,98.8,7.56,0.2,1.82
+Pulses,Uttar Pradesh,Rabi,22.55,1495.4,150.8,4.32,0.2,4.51
+Pulses,Maharashtra,Whole Year,9.95,515.9,109.1,6.75,0.2,1.99
+Pulses,Karnataka,Rabi,16.25,736.6,75.3,2.58,1.126,18.3
+Pulses,Madhya Pradesh,Whole Year,12.76,1459.8,76.5,7.77,0.458,5.85
+Pulses,Maharashtra,Zaid,23.34,1315.5,20.9,2.83,0.512,11.96
+Pulses,Maharashtra,Kharif,19.59,1354.2,143.9,3.29,0.212,4.15
+Pulses,Uttar Pradesh,Zaid,2.03,623.2,100.8,4.4,1.223,2.49
+Pulses,Karnataka,Zaid,13.5,582.1,235.7,7.85,1.065,14.37
+Pulses,Telangana,Zaid,21.86,431.9,216.6,7.65,1.421,31.05
+Pulses,Tamil Nadu,Whole Year,7.56,1298.8,224.6,4.22,0.502,3.79
+Pulses,Maharashtra,Whole Year,13.52,780.1,168.0,4.32,0.813,10.99
+Pulses,Madhya Pradesh,Whole Year,1.86,1358.0,115.5,4.44,0.207,0.38
+Pulses,Telangana,Rabi,12.12,849.8,47.0,2.77,0.823,9.98
+Pulses,Maharashtra,Whole Year,1.54,905.7,40.2,3.05,1.057,1.62
+Pulses,Madhya Pradesh,Rabi,15.53,1459.9,135.9,7.42,0.2,3.11
+Pulses,Maharashtra,Zaid,3.76,1998.6,120.1,1.05,0.38,1.43
+Pulses,Madhya Pradesh,Kharif,2.78,596.5,116.0,5.57,0.809,2.24
+Pulses,Andhra Pradesh,Rabi,3.53,1400.9,240.5,7.76,0.2,0.71
+Pulses,Uttar Pradesh,Zaid,19.11,1739.3,224.5,2.93,0.2,3.82
+Pulses,Uttar Pradesh,Kharif,4.0,1692.1,44.8,4.1,0.417,1.67
+Pulses,Maharashtra,Kharif,15.24,1181.9,157.7,0.51,0.468,7.12
+Pulses,Tamil Nadu,Zaid,2.37,670.1,199.4,4.56,0.2,0.47
+Pulses,Tamil Nadu,Zaid,0.89,907.9,102.2,6.01,0.482,0.43
+Pulses,Andhra Pradesh,Whole Year,16.06,1017.5,35.2,4.05,1.252,20.1
+Pulses,Andhra Pradesh,Rabi,13.98,513.2,186.6,6.41,0.2,2.8
+Pulses,Punjab,Kharif,23.92,1490.9,48.4,3.48,0.342,8.18
+Pulses,Karnataka,Rabi,16.04,550.2,186.7,3.15,0.2,3.21
+Pulses,Karnataka,Kharif,5.84,960.2,191.2,5.79,0.403,2.35
+Pulses,Karnataka,Zaid,9.09,324.4,141.9,2.61,0.615,5.59
+Pulses,Punjab,Zaid,23.12,932.6,123.3,2.32,0.469,10.83
+Pulses,Tamil Nadu,Kharif,17.5,1660.1,222.4,7.51,0.3,5.26
+Pulses,Andhra Pradesh,Zaid,11.3,1017.7,22.6,0.89,0.984,11.12
+Pulses,Uttar Pradesh,Zaid,23.47,681.5,41.6,2.1,0.734,17.24
+Pulses,Maharashtra,Zaid,6.27,1866.2,224.8,2.87,0.2,1.25
+Pulses,Karnataka,Kharif,7.81,1527.1,168.1,0.98,0.533,4.16
+Pulses,Uttar Pradesh,Kharif,4.78,1950.6,29.2,3.85,0.471,2.25
+Pulses,Karnataka,Zaid,23.62,1964.8,130.7,1.15,0.71,16.77
+Pulses,Maharashtra,Zaid,22.26,1849.7,177.1,1.34,0.826,18.39
+Pulses,Madhya Pradesh,Rabi,10.51,797.6,50.6,5.08,1.617,17.0
+Pulses,Uttar Pradesh,Zaid,7.99,638.4,158.3,4.75,1.2,9.59
+Pulses,Telangana,Zaid,7.75,703.0,224.8,0.87,0.332,2.58
+Pulses,Andhra Pradesh,Rabi,3.87,1894.3,207.6,5.59,0.2,0.77
+Pulses,Andhra Pradesh,Kharif,22.68,1197.5,105.4,4.89,0.2,4.54
+Pulses,Andhra Pradesh,Rabi,19.95,1173.0,115.8,6.56,0.2,3.99
+Pulses,Andhra Pradesh,Whole Year,10.67,1176.3,73.5,2.01,0.9,9.6
+Pulses,Maharashtra,Zaid,18.28,469.2,106.2,2.38,0.2,3.66
+Pulses,Telangana,Whole Year,18.84,381.2,227.0,7.46,1.245,23.47
+Pulses,Telangana,Kharif,18.37,1479.0,148.7,7.65,0.2,3.67
+Pulses,Tamil Nadu,Whole Year,3.22,436.7,24.2,3.71,1.324,4.26
+Pulses,Andhra Pradesh,Rabi,21.03,1774.4,88.4,3.7,0.234,4.92
+Pulses,Andhra Pradesh,Zaid,2.61,1870.9,161.7,1.49,0.209,0.54
+Pulses,Madhya Pradesh,Whole Year,7.16,1495.9,231.7,7.47,0.2,1.43
+Pulses,Punjab,Rabi,8.15,1865.3,200.9,4.9,0.252,2.05
+Pulses,Maharashtra,Rabi,23.49,1207.8,179.9,3.44,1.06,24.89
+Pulses,Uttar Pradesh,Kharif,7.16,374.2,40.1,2.04,1.155,8.27
+Pulses,Madhya Pradesh,Rabi,2.6,1732.0,143.4,5.45,0.34,0.89
+Pulses,Tamil Nadu,Zaid,10.19,1803.0,117.8,1.45,0.2,2.04
+Pulses,Uttar Pradesh,Rabi,22.82,1546.9,214.0,6.54,0.2,4.56
+Pulses,Tamil Nadu,Whole Year,3.55,1019.7,45.8,6.01,0.825,2.92
+Pulses,Maharashtra,Kharif,13.81,1369.9,237.8,2.53,0.2,2.76
+Pulses,Karnataka,Zaid,1.36,301.7,25.8,3.87,0.937,1.27
+Pulses,Uttar Pradesh,Rabi,1.5,1410.6,165.2,6.38,0.339,0.51
+Pulses,Telangana,Zaid,15.76,775.0,39.7,6.03,1.367,21.54
+Pulses,Maharashtra,Whole Year,21.26,1975.6,168.9,1.19,0.41,8.71
+Pulses,Tamil Nadu,Zaid,20.27,702.7,34.0,4.04,1.487,30.16
+Pulses,Punjab,Whole Year,17.2,1280.0,107.6,0.68,0.2,3.44
+Pulses,Maharashtra,Whole Year,8.51,1162.2,148.1,2.86,0.2,1.7
+Pulses,Telangana,Kharif,1.24,1928.5,156.9,1.31,0.2,0.25
+Pulses,Tamil Nadu,Kharif,6.19,828.2,204.3,7.14,0.821,5.08
+Pulses,Madhya Pradesh,Rabi,14.0,1843.3,145.3,1.28,0.424,5.94
+Pulses,Uttar Pradesh,Rabi,3.71,837.1,107.4,6.55,0.559,2.08
+Pulses,Maharashtra,Rabi,14.76,901.6,152.7,7.89,0.2,2.95
+Pulses,Telangana,Whole Year,21.93,824.7,127.1,6.06,0.343,7.53
+Pulses,Telangana,Whole Year,18.87,588.2,195.7,2.82,0.763,14.4
+Pulses,Punjab,Rabi,16.62,1403.3,24.3,1.64,1.564,25.99
+Pulses,Telangana,Whole Year,10.45,857.6,196.7,0.71,1.285,13.43
+Pulses,Uttar Pradesh,Zaid,11.3,1157.2,165.9,2.56,1.293,14.61
+Pulses,Telangana,Rabi,13.25,860.0,148.2,0.66,1.028,13.63
+Groundnut,Punjab,Zaid,4.63,1472.0,196.8,6.14,0.534,2.47
+Groundnut,Uttar Pradesh,Rabi,1.08,1118.0,82.2,6.05,2.473,2.68
+Groundnut,Karnataka,Zaid,20.65,804.7,83.1,5.58,1.92,39.65
+Groundnut,Madhya Pradesh,Rabi,14.99,1554.5,121.2,6.55,0.961,14.4
+Groundnut,Tamil Nadu,Whole Year,4.68,955.5,218.4,1.83,0.475,2.22
+Groundnut,Telangana,Zaid,6.34,947.4,133.0,2.73,1.07,6.78
+Groundnut,Andhra Pradesh,Whole Year,3.23,1795.7,130.7,4.8,0.267,0.86
+Groundnut,Madhya Pradesh,Zaid,23.68,1183.8,109.9,6.39,1.49,35.28
+Groundnut,Punjab,Kharif,16.45,1941.1,153.8,2.36,0.632,10.39
+Groundnut,Maharashtra,Whole Year,4.72,343.8,229.1,2.76,0.944,4.45
+Groundnut,Karnataka,Zaid,2.73,948.7,117.5,7.27,1.176,3.21
+Groundnut,Telangana,Rabi,18.42,796.1,110.7,7.89,1.754,32.3
+Groundnut,Punjab,Zaid,11.21,1207.9,163.9,4.24,0.2,2.24
+Groundnut,Maharashtra,Rabi,24.35,455.4,158.2,7.7,0.52,12.67
+Groundnut,Telangana,Zaid,6.68,1924.4,204.4,5.41,0.2,1.34
+Groundnut,Tamil Nadu,Kharif,18.26,353.9,47.1,2.86,2.925,53.42
+Groundnut,Madhya Pradesh,Whole Year,22.56,1463.7,105.9,6.57,1.585,35.76
+Groundnut,Karnataka,Kharif,4.05,962.2,96.9,6.27,2.139,8.67
+Groundnut,Madhya Pradesh,Rabi,13.42,1367.9,108.6,2.0,1.947,26.13
+Groundnut,Madhya Pradesh,Whole Year,18.4,1674.9,225.9,2.78,0.2,3.68
+Groundnut,Telangana,Zaid,17.36,1651.1,152.9,4.35,0.2,3.47
+Groundnut,Karnataka,Zaid,5.7,1802.8,168.0,5.0,1.695,9.66
+Groundnut,Uttar Pradesh,Rabi,4.29,1770.4,32.1,2.52,0.32,1.37
+Groundnut,Maharashtra,Kharif,15.87,1799.6,88.9,2.82,0.724,11.49
+Groundnut,Uttar Pradesh,Zaid,19.65,1027.7,147.1,3.31,0.979,19.24
+Groundnut,Tamil Nadu,Zaid,23.71,1114.2,240.5,0.71,1.627,38.57
+Groundnut,Maharashtra,Zaid,6.46,655.6,78.1,3.89,2.12,13.7
+Groundnut,Uttar Pradesh,Zaid,2.25,1580.5,170.3,6.45,0.318,0.72
+Groundnut,Tamil Nadu,Whole Year,14.85,1637.4,65.8,3.58,2.849,42.31
+Groundnut,Andhra Pradesh,Rabi,20.0,1433.6,30.9,3.13,2.76,55.2
+Groundnut,Tamil Nadu,Zaid,12.94,376.2,245.5,7.67,0.2,2.59
+Groundnut,Maharashtra,Whole Year,1.87,1020.2,194.3,7.99,0.239,0.45
+Groundnut,Telangana,Rabi,23.55,1997.5,120.0,5.52,0.583,13.73
+Groundnut,Punjab,Whole Year,1.21,1818.0,217.4,2.84,0.2,0.24
+Groundnut,Andhra Pradesh,Kharif,12.59,1185.2,51.0,6.31,1.776,22.36
+Groundnut,Uttar Pradesh,Kharif,20.83,1860.8,175.1,1.93,0.608,12.67
+Groundnut,Maharashtra,Zaid,22.84,896.0,239.3,1.23,0.889,20.31
+Groundnut,Punjab,Zaid,2.89,853.7,198.7,3.95,1.547,4.47
+Groundnut,Tamil Nadu,Kharif,10.34,1991.4,24.3,5.72,1.092,11.29
+Groundnut,Maharashtra,Zaid,17.85,1030.2,138.5,7.08,1.822,32.52
+Groundnut,Karnataka,Whole Year,14.12,822.2,75.0,4.08,1.625,22.95
+Groundnut,Uttar Pradesh,Whole Year,12.06,1389.5,40.7,6.22,0.502,6.05
+Groundnut,Tamil Nadu,Whole Year,9.34,1338.7,43.5,3.6,1.328,12.4
+Groundnut,Uttar Pradesh,Rabi,15.29,1219.3,111.9,6.06,1.85,28.28
+Groundnut,Maharashtra,Whole Year,20.02,863.9,181.5,7.58,0.97,19.42
+Groundnut,Uttar Pradesh,Kharif,4.17,817.3,42.1,1.84,2.109,8.79
+Groundnut,Tamil Nadu,Zaid,1.57,803.5,236.4,7.62,1.386,2.17
+Groundnut,Andhra Pradesh,Whole Year,6.64,997.3,209.6,6.19,1.24,8.23
+Groundnut,Telangana,Zaid,3.14,1224.3,43.5,6.69,1.374,4.32
+Groundnut,Andhra Pradesh,Kharif,1.61,1391.1,57.8,2.25,1.251,2.01
+Groundnut,Andhra Pradesh,Kharif,1.91,644.7,54.4,0.54,1.268,2.42
+Groundnut,Maharashtra,Rabi,12.79,1435.4,245.8,2.15,1.073,13.73
+Groundnut,Karnataka,Whole Year,20.92,1927.6,163.1,1.48,0.623,13.03
+Groundnut,Maharashtra,Whole Year,13.65,1284.8,160.4,2.99,1.015,13.85
+Groundnut,Telangana,Whole Year,23.88,1584.2,137.5,3.33,0.436,10.42
+Groundnut,Madhya Pradesh,Zaid,6.64,1057.1,74.3,1.89,1.946,12.93
+Groundnut,Tamil Nadu,Kharif,22.39,414.1,68.2,6.3,2.053,45.96
+Groundnut,Andhra Pradesh,Kharif,2.4,1744.2,211.5,5.7,1.582,3.8
+Groundnut,Telangana,Whole Year,1.67,692.6,103.4,1.69,2.09,3.48
+Groundnut,Maharashtra,Zaid,7.64,1596.6,48.3,1.3,1.777,13.57
+Groundnut,Andhra Pradesh,Kharif,1.69,1895.7,95.6,4.08,0.649,1.1
+Groundnut,Tamil Nadu,Rabi,9.02,897.9,127.6,7.59,2.132,19.24
+Groundnut,Telangana,Rabi,13.86,1075.1,205.9,5.61,1.463,20.28
+Groundnut,Telangana,Zaid,22.21,1753.9,110.1,3.4,1.177,26.14
+Groundnut,Madhya Pradesh,Kharif,2.55,847.8,234.4,3.88,1.184,3.02
+Groundnut,Punjab,Kharif,19.32,1746.0,200.0,1.62,0.2,3.86
+Groundnut,Maharashtra,Zaid,5.74,372.8,190.0,3.71,0.603,3.46
+Groundnut,Madhya Pradesh,Zaid,20.76,544.7,97.8,0.56,1.027,21.31
+Groundnut,Madhya Pradesh,Zaid,9.19,1522.5,184.5,0.79,0.534,4.91
+Groundnut,Karnataka,Whole Year,6.89,1418.6,237.5,5.12,1.846,12.71
+Groundnut,Telangana,Zaid,16.44,1906.1,102.5,7.5,0.2,3.29
+Groundnut,Andhra Pradesh,Whole Year,4.82,1488.7,155.6,3.92,1.286,6.2
+Groundnut,Maharashtra,Whole Year,22.73,663.4,85.2,0.91,2.23,50.68
+Groundnut,Tamil Nadu,Zaid,5.5,1320.0,150.4,1.82,0.929,5.1
+Groundnut,Karnataka,Whole Year,3.37,1763.8,170.5,7.65,0.56,1.88
+Groundnut,Karnataka,Zaid,5.73,1464.0,129.0,3.73,0.2,1.15
+Groundnut,Uttar Pradesh,Whole Year,11.96,1694.0,234.0,4.92,1.342,16.05
+Groundnut,Telangana,Rabi,2.83,1181.8,168.7,6.76,0.673,1.9
+Groundnut,Maharashtra,Kharif,21.9,1980.8,129.4,2.87,2.099,45.95
+Groundnut,Andhra Pradesh,Rabi,16.04,1807.4,58.1,1.4,0.692,11.1
+Groundnut,Andhra Pradesh,Rabi,24.55,400.4,246.9,7.76,1.679,41.23
+Groundnut,Tamil Nadu,Kharif,11.62,983.6,227.6,4.04,1.043,12.13
+Groundnut,Uttar Pradesh,Rabi,16.17,938.9,143.4,7.67,1.149,18.57
+Groundnut,Punjab,Rabi,21.13,456.4,41.8,7.12,1.16,24.51
+Groundnut,Telangana,Kharif,17.34,1758.3,106.1,2.46,1.076,18.65
+Groundnut,Punjab,Zaid,16.04,839.1,100.0,2.37,0.962,15.43
+Groundnut,Punjab,Rabi,4.47,843.5,198.9,2.12,1.299,5.81
+Groundnut,Uttar Pradesh,Kharif,23.6,1076.4,148.1,1.89,1.679,39.63
+Groundnut,Uttar Pradesh,Whole Year,17.74,510.7,151.2,5.7,1.626,28.84
+Groundnut,Tamil Nadu,Whole Year,14.75,583.0,173.8,7.64,2.018,29.77
+Groundnut,Punjab,Kharif,8.64,1102.8,73.4,6.06,1.442,12.46
+Groundnut,Karnataka,Zaid,9.54,688.2,215.1,0.91,1.56,14.88
+Groundnut,Telangana,Kharif,12.15,1269.2,65.4,7.03,1.838,22.32
+Groundnut,Uttar Pradesh,Zaid,21.98,1979.9,190.6,3.0,1.009,22.17
+Groundnut,Uttar Pradesh,Zaid,4.34,699.4,72.3,7.76,1.404,6.09
+Groundnut,Andhra Pradesh,Zaid,5.02,1330.2,98.5,1.97,1.728,8.68
+Groundnut,Uttar Pradesh,Rabi,17.04,993.7,138.0,6.66,0.921,15.69
+Groundnut,Tamil Nadu,Whole Year,5.76,791.3,229.6,6.9,2.726,15.69
+Groundnut,Tamil Nadu,Kharif,23.28,317.3,209.2,2.59,1.071,24.95
+Groundnut,Andhra Pradesh,Zaid,19.75,1944.0,144.4,4.33,0.2,3.95
+Groundnut,Madhya Pradesh,Zaid,4.92,1146.0,193.1,6.67,1.859,9.15
+Groundnut,Telangana,Rabi,9.68,1482.4,120.6,7.89,0.224,2.17
+Groundnut,Uttar Pradesh,Zaid,10.65,748.3,215.4,2.65,2.451,26.11
+Groundnut,Maharashtra,Zaid,10.55,372.3,25.3,7.68,2.184,23.06
+Groundnut,Madhya Pradesh,Kharif,20.72,1116.7,80.2,2.71,1.443,29.89
+Groundnut,Maharashtra,Zaid,11.4,1911.5,23.0,7.88,2.805,31.98
+Groundnut,Madhya Pradesh,Rabi,9.2,1312.1,218.9,4.11,3.014,27.71
+Groundnut,Telangana,Kharif,2.95,1621.6,120.0,7.99,1.491,4.4
+Groundnut,Telangana,Kharif,23.77,774.9,60.5,3.32,2.65,62.98
+Groundnut,Uttar Pradesh,Kharif,10.35,452.7,26.1,2.14,1.046,10.83
+Groundnut,Punjab,Whole Year,5.93,1848.7,169.9,6.97,0.765,4.54
+Groundnut,Maharashtra,Kharif,9.25,661.3,219.3,2.89,1.294,11.96
+Groundnut,Punjab,Zaid,7.33,605.1,93.5,5.1,3.122,22.87
+Groundnut,Madhya Pradesh,Whole Year,3.44,572.5,203.4,1.23,1.312,4.51
+Groundnut,Madhya Pradesh,Zaid,5.71,1453.3,163.3,1.24,0.516,2.95
+Groundnut,Uttar Pradesh,Kharif,20.97,367.1,169.0,1.29,2.578,54.05
+Groundnut,Punjab,Whole Year,0.81,858.7,59.0,4.67,3.149,2.55
+Groundnut,Tamil Nadu,Rabi,18.01,457.2,26.4,7.77,2.08,37.46
+Groundnut,Karnataka,Whole Year,10.18,359.5,47.3,7.55,1.541,15.68
+Groundnut,Madhya Pradesh,Kharif,14.95,1569.0,119.3,3.74,1.966,29.39
+Groundnut,Uttar Pradesh,Rabi,18.48,468.5,195.8,1.93,1.463,27.04
+Groundnut,Punjab,Rabi,3.57,1838.6,124.1,1.48,0.552,1.97
+Groundnut,Telangana,Whole Year,14.94,916.0,232.6,2.52,0.938,14.01
+Groundnut,Madhya Pradesh,Whole Year,11.58,1793.2,90.2,2.44,0.55,6.37
+Groundnut,Tamil Nadu,Rabi,8.0,1110.7,27.2,2.65,0.791,6.33
+Groundnut,Punjab,Kharif,13.03,1632.9,189.0,2.38,0.384,5.01
+Groundnut,Tamil Nadu,Zaid,18.43,1247.2,190.8,0.51,0.834,15.38
+Groundnut,Punjab,Kharif,7.89,1813.5,117.0,4.71,1.342,10.58
+Groundnut,Madhya Pradesh,Kharif,3.76,363.1,118.2,1.7,0.2,0.75
+Groundnut,Uttar Pradesh,Rabi,16.81,334.8,49.1,5.75,3.448,57.96
+Groundnut,Andhra Pradesh,Kharif,7.41,606.4,167.7,2.04,1.219,9.03
+Groundnut,Punjab,Zaid,3.41,1771.3,164.9,3.95,0.2,0.68
+Groundnut,Maharashtra,Zaid,23.09,939.3,115.8,2.67,1.187,27.41
+Groundnut,Telangana,Rabi,12.76,1628.5,105.4,5.39,1.454,18.55
+Groundnut,Karnataka,Rabi,18.13,1436.8,176.6,5.34,0.2,3.63
+Groundnut,Punjab,Zaid,19.7,1165.4,53.9,7.41,2.845,56.03
+Groundnut,Andhra Pradesh,Rabi,13.34,1338.0,249.8,1.56,0.716,9.55
+Groundnut,Andhra Pradesh,Rabi,23.58,1644.4,198.7,7.24,2.33,54.95
+Groundnut,Uttar Pradesh,Kharif,12.92,965.6,182.0,5.02,2.833,36.58
+Groundnut,Tamil Nadu,Zaid,24.23,1580.4,60.6,4.0,2.069,50.15
+Groundnut,Karnataka,Rabi,4.8,1885.6,37.7,5.08,1.793,8.61
+Groundnut,Tamil Nadu,Kharif,5.12,1669.8,243.1,5.09,1.535,7.87
+Groundnut,Punjab,Kharif,2.27,699.0,133.0,3.6,2.194,4.97
+Groundnut,Uttar Pradesh,Zaid,6.46,1883.0,79.7,7.03,0.704,4.55
+Groundnut,Karnataka,Zaid,15.72,1725.3,133.7,6.9,0.877,13.79
+Groundnut,Uttar Pradesh,Whole Year,9.66,1597.7,137.3,6.55,0.8,7.73
+Groundnut,Tamil Nadu,Rabi,15.61,1782.7,112.8,0.93,1.553,24.25
+Groundnut,Maharashtra,Whole Year,19.39,1386.6,46.8,4.55,2.161,41.9
+Groundnut,Punjab,Rabi,8.38,1666.8,43.2,3.95,1.562,13.09
+Groundnut,Telangana,Rabi,3.91,1947.1,129.9,3.27,0.76,2.97
+Groundnut,Karnataka,Kharif,23.37,1296.6,247.2,1.8,0.417,9.74
+Groundnut,Uttar Pradesh,Kharif,22.3,485.8,82.0,5.62,2.05,45.72
+Groundnut,Uttar Pradesh,Zaid,11.62,866.2,212.8,0.87,1.585,18.43
+Groundnut,Karnataka,Zaid,5.35,1915.3,147.4,3.09,1.167,6.24
+Groundnut,Telangana,Rabi,4.56,1316.9,138.0,6.18,0.826,3.77
+Groundnut,Madhya Pradesh,Rabi,19.89,1241.4,245.4,6.47,1.898,37.76
+Groundnut,Telangana,Rabi,11.0,700.5,137.8,5.83,0.242,2.66
+Groundnut,Karnataka,Kharif,3.07,542.3,113.0,5.77,2.251,6.92
+Groundnut,Telangana,Zaid,9.48,1484.2,33.9,2.68,0.844,8.0
+Groundnut,Punjab,Rabi,2.63,919.6,209.7,6.77,1.677,4.41
+Groundnut,Maharashtra,Zaid,1.4,1988.9,135.6,7.05,0.682,0.95
+Groundnut,Punjab,Zaid,15.14,868.0,67.6,1.87,2.737,41.44
+Groundnut,Madhya Pradesh,Kharif,3.06,1696.8,72.3,4.62,0.379,1.16
+Groundnut,Madhya Pradesh,Kharif,2.53,1612.8,132.8,1.4,1.202,3.04
+Groundnut,Uttar Pradesh,Whole Year,5.42,1443.7,183.0,6.21,1.149,6.23
+Groundnut,Madhya Pradesh,Rabi,21.43,1829.7,199.8,7.57,1.173,25.14
+Groundnut,Telangana,Rabi,6.66,612.3,123.2,7.98,1.488,9.9
+Groundnut,Andhra Pradesh,Whole Year,24.91,1353.5,107.4,1.75,0.931,23.2
+Groundnut,Andhra Pradesh,Kharif,23.14,1667.7,237.1,0.96,0.2,4.63
+Groundnut,Karnataka,Zaid,2.85,739.8,215.6,6.12,1.872,5.33
+Groundnut,Maharashtra,Rabi,16.28,815.2,146.0,7.58,1.872,30.47
+Groundnut,Tamil Nadu,Zaid,9.55,1890.0,29.0,4.39,1.284,12.27
+Groundnut,Punjab,Rabi,16.33,575.8,170.3,7.94,1.112,18.15
+Groundnut,Punjab,Whole Year,11.13,990.2,149.9,2.43,0.2,2.23
+Groundnut,Uttar Pradesh,Zaid,15.44,1844.4,74.1,5.58,0.394,6.08
+Groundnut,Maharashtra,Kharif,17.87,1317.0,44.0,6.91,1.807,32.29
+Groundnut,Telangana,Kharif,6.28,1346.7,70.1,1.26,2.895,18.19
+Groundnut,Uttar Pradesh,Rabi,17.61,1763.1,240.5,2.25,0.725,12.78
+Groundnut,Karnataka,Rabi,7.04,1780.6,224.8,2.92,1.213,8.54
+Groundnut,Telangana,Kharif,18.15,1661.5,220.5,4.36,0.905,16.42
+Groundnut,Karnataka,Whole Year,15.91,557.9,160.9,2.74,2.104,33.47
+Groundnut,Punjab,Rabi,21.81,853.9,124.3,7.88,0.974,21.24
+Groundnut,Karnataka,Kharif,24.44,1036.0,204.1,7.03,1.064,26.01
+Groundnut,Madhya Pradesh,Kharif,7.18,938.2,76.1,0.53,2.639,18.95
+Groundnut,Andhra Pradesh,Whole Year,22.12,428.6,115.0,3.92,0.911,20.15
+Groundnut,Punjab,Rabi,0.85,1834.8,177.7,2.47,1.212,1.03
+Groundnut,Madhya Pradesh,Kharif,2.62,926.3,149.6,4.29,0.399,1.05
+Groundnut,Punjab,Kharif,10.43,513.0,190.3,7.34,1.975,20.61
+Groundnut,Tamil Nadu,Whole Year,14.95,1469.3,211.3,1.98,2.007,30.0
+Groundnut,Madhya Pradesh,Zaid,12.08,1089.4,213.0,6.33,1.534,18.53
+Groundnut,Telangana,Kharif,6.21,1529.7,190.1,1.84,1.678,10.42
+Groundnut,Punjab,Rabi,9.66,1395.7,197.3,5.39,0.77,7.44
+Groundnut,Andhra Pradesh,Zaid,24.8,370.6,133.8,4.33,1.484,36.81
+Groundnut,Karnataka,Whole Year,11.36,1033.8,197.8,7.57,0.2,2.27
+Groundnut,Madhya Pradesh,Rabi,24.79,1898.5,45.9,7.34,1.786,44.28
+Groundnut,Telangana,Rabi,21.54,984.9,166.5,3.99,1.382,29.78
+Groundnut,Andhra Pradesh,Zaid,6.64,1050.6,205.4,6.83,2.144,14.24
+Groundnut,Punjab,Whole Year,9.49,881.8,246.8,7.69,2.001,18.99
+Groundnut,Uttar Pradesh,Rabi,12.08,748.9,230.7,2.51,0.209,2.53
+Groundnut,Karnataka,Rabi,1.52,596.4,196.0,1.64,1.408,2.14
+Groundnut,Madhya Pradesh,Whole Year,8.37,1861.7,172.3,5.26,0.679,5.68
+Groundnut,Punjab,Whole Year,5.83,545.7,202.1,1.46,1.889,11.01
+Groundnut,Telangana,Rabi,10.53,1429.6,84.1,6.79,1.876,19.75
+Groundnut,Tamil Nadu,Whole Year,5.23,1676.0,184.2,7.06,0.251,1.31
+Groundnut,Punjab,Kharif,6.23,1850.5,201.7,0.66,1.235,7.69
+Groundnut,Tamil Nadu,Kharif,14.97,1544.0,51.0,4.35,1.473,22.05
+Groundnut,Maharashtra,Whole Year,14.17,1051.6,80.9,6.9,2.929,41.52
+Groundnut,Telangana,Rabi,4.88,502.5,21.8,2.79,1.413,6.89
+Groundnut,Andhra Pradesh,Whole Year,19.43,1782.1,194.9,0.68,0.643,12.49
+Groundnut,Uttar Pradesh,Rabi,14.18,412.5,155.3,0.99,0.895,12.7
+Groundnut,Andhra Pradesh,Kharif,9.13,680.7,91.8,0.5,1.516,13.84
+Groundnut,Andhra Pradesh,Kharif,2.32,1920.3,133.0,4.35,0.503,1.17
+Groundnut,Andhra Pradesh,Whole Year,17.54,703.0,25.9,6.34,2.278,39.94
+Groundnut,Andhra Pradesh,Rabi,13.96,785.5,61.1,0.7,1.492,20.83
+Groundnut,Uttar Pradesh,Kharif,14.17,1084.9,64.6,2.27,1.742,24.69
+Groundnut,Karnataka,Zaid,23.36,554.3,158.2,3.1,1.23,28.73
+Groundnut,Punjab,Rabi,21.38,787.1,38.1,2.03,2.637,56.37
+Groundnut,Punjab,Whole Year,0.89,1588.0,36.7,1.08,0.2,0.18
+Groundnut,Maharashtra,Rabi,22.77,789.1,81.9,5.13,2.323,52.89
+Groundnut,Madhya Pradesh,Zaid,18.63,822.3,145.3,1.93,1.542,28.74
+Groundnut,Punjab,Whole Year,23.41,1230.2,21.1,6.45,1.013,23.73
+Groundnut,Tamil Nadu,Rabi,11.52,767.1,245.5,4.58,2.133,24.58
+Groundnut,Karnataka,Rabi,14.84,1473.3,26.8,4.34,1.036,15.38
+Groundnut,Tamil Nadu,Kharif,2.56,1671.9,244.9,5.2,0.933,2.39
+Groundnut,Karnataka,Zaid,14.88,1559.5,234.6,0.84,0.504,7.5
+Groundnut,Andhra Pradesh,Zaid,22.27,1764.1,170.2,4.26,0.899,20.01
+Groundnut,Tamil Nadu,Rabi,13.22,623.2,236.9,3.3,0.493,6.51
+Groundnut,Punjab,Rabi,14.0,1242.8,105.0,2.84,1.757,24.59
+Groundnut,Andhra Pradesh,Zaid,19.98,908.1,231.9,1.35,1.424,28.45
+Groundnut,Punjab,Rabi,0.67,1664.1,242.9,7.87,0.996,0.67
+Groundnut,Madhya Pradesh,Zaid,2.23,833.4,91.2,1.27,3.525,7.85
+Groundnut,Punjab,Rabi,1.75,768.2,101.7,7.19,2.113,3.7
+Groundnut,Maharashtra,Kharif,6.87,1128.5,117.7,4.45,1.051,7.22
+Groundnut,Karnataka,Zaid,17.88,928.6,144.8,5.03,0.2,3.58
+Groundnut,Madhya Pradesh,Rabi,2.5,1120.7,225.6,2.97,0.633,1.58
+Groundnut,Madhya Pradesh,Whole Year,2.58,1372.7,106.1,3.04,1.19,3.08
+Groundnut,Andhra Pradesh,Kharif,14.41,989.3,84.0,4.31,1.575,22.69
+Groundnut,Karnataka,Zaid,17.71,443.4,57.4,1.25,1.92,33.99
+Groundnut,Punjab,Whole Year,19.44,993.7,208.9,7.8,0.975,18.94
+Groundnut,Uttar Pradesh,Rabi,20.39,824.5,97.7,1.05,2.137,43.57
+Groundnut,Uttar Pradesh,Kharif,11.05,647.3,170.1,7.85,3.01,33.27
+Groundnut,Punjab,Zaid,4.44,1079.0,214.3,7.32,1.198,5.32
+Groundnut,Tamil Nadu,Whole Year,9.33,1575.1,87.1,2.15,1.637,15.27
+Groundnut,Madhya Pradesh,Zaid,14.62,1824.4,26.1,2.4,1.572,22.98
+Groundnut,Karnataka,Kharif,10.88,707.0,203.1,6.67,0.2,2.18
+Groundnut,Tamil Nadu,Whole Year,19.4,1773.2,168.5,1.89,0.2,3.88
+Groundnut,Uttar Pradesh,Whole Year,9.87,346.0,65.2,2.04,1.958,19.33
+Groundnut,Punjab,Whole Year,8.83,1001.0,146.4,1.4,0.696,6.14
+Groundnut,Madhya Pradesh,Zaid,17.89,1787.1,89.4,6.11,1.008,18.04
+Groundnut,Telangana,Whole Year,15.69,922.3,184.0,7.7,2.98,46.75
+Soybean,Maharashtra,Rabi,24.52,461.6,122.0,3.75,0.702,17.22
+Soybean,Tamil Nadu,Zaid,16.99,1330.2,122.8,3.41,1.152,19.58
+Soybean,Uttar Pradesh,Rabi,13.41,1333.0,43.0,4.04,1.051,14.09
+Soybean,Punjab,Kharif,15.33,1396.8,65.3,1.47,2.428,37.23
+Soybean,Karnataka,Kharif,23.18,394.8,136.9,1.99,1.713,39.69
+Soybean,Telangana,Rabi,15.6,1972.1,141.5,2.64,1.434,22.37
+Soybean,Tamil Nadu,Rabi,24.75,1258.5,106.2,2.11,1.757,43.47
+Soybean,Telangana,Rabi,1.96,1897.0,183.3,1.28,1.083,2.12
+Soybean,Tamil Nadu,Rabi,10.78,1640.8,83.0,3.37,1.17,12.61
+Soybean,Tamil Nadu,Rabi,1.1,378.5,212.2,6.53,0.635,0.7
+Soybean,Uttar Pradesh,Zaid,16.86,1567.6,31.8,1.16,0.202,3.4
+Soybean,Tamil Nadu,Rabi,14.16,352.7,177.2,2.03,1.783,25.25
+Soybean,Maharashtra,Whole Year,18.54,1611.1,99.5,1.17,1.786,33.11
+Soybean,Madhya Pradesh,Zaid,8.29,510.5,235.7,3.5,1.389,11.51
+Soybean,Telangana,Whole Year,12.72,623.9,101.7,2.9,3.942,50.14
+Soybean,Maharashtra,Rabi,21.88,548.2,157.9,2.92,0.2,4.38
+Soybean,Karnataka,Kharif,13.18,350.9,154.0,5.82,0.803,10.59
+Soybean,Madhya Pradesh,Whole Year,16.09,1096.9,219.0,2.64,0.985,15.85
+Soybean,Karnataka,Rabi,13.44,1082.0,146.0,2.84,1.473,19.79
+Soybean,Maharashtra,Kharif,9.56,448.6,189.4,3.24,0.809,7.73
+Soybean,Tamil Nadu,Rabi,2.36,637.6,201.0,6.49,1.096,2.59
+Soybean,Uttar Pradesh,Whole Year,17.9,1947.7,82.8,2.96,0.96,17.2
+Soybean,Maharashtra,Zaid,21.5,1282.6,244.0,5.2,0.769,16.53
+Soybean,Maharashtra,Kharif,15.89,1184.3,109.1,1.08,1.842,29.27
+Soybean,Tamil Nadu,Rabi,0.79,1997.8,200.8,6.48,0.571,0.45
+Soybean,Punjab,Zaid,2.27,1857.8,20.1,5.74,2.376,5.39
+Soybean,Maharashtra,Zaid,12.78,1957.4,65.6,6.39,1.713,21.89
+Soybean,Tamil Nadu,Whole Year,9.77,1364.1,149.5,5.3,0.782,7.64
+Soybean,Madhya Pradesh,Kharif,18.35,1553.8,248.1,3.17,0.908,16.67
+Soybean,Karnataka,Whole Year,2.54,1399.8,117.3,7.41,1.204,3.06
+Soybean,Madhya Pradesh,Rabi,19.74,467.5,25.7,1.52,1.011,19.95
+Soybean,Tamil Nadu,Zaid,4.01,1579.3,214.4,4.16,0.453,1.81
+Soybean,Andhra Pradesh,Rabi,3.45,479.9,66.1,7.86,2.41,8.31
+Soybean,Madhya Pradesh,Kharif,21.23,827.0,188.9,7.81,1.1,23.34
+Soybean,Tamil Nadu,Kharif,20.87,385.4,159.8,6.77,2.142,44.7
+Soybean,Telangana,Rabi,4.83,1394.3,120.5,2.14,0.98,4.74
+Soybean,Tamil Nadu,Zaid,15.66,1533.1,67.8,7.66,1.542,24.15
+Soybean,Telangana,Whole Year,14.26,1619.7,209.5,1.05,0.2,2.85
+Soybean,Uttar Pradesh,Zaid,10.28,1691.6,160.0,0.58,1.285,13.21
+Soybean,Punjab,Rabi,12.61,1364.0,65.0,5.38,1.963,24.75
+Soybean,Karnataka,Zaid,22.69,1596.5,236.4,3.64,0.913,20.72
+Soybean,Uttar Pradesh,Rabi,23.43,1801.2,156.6,5.97,0.661,15.48
+Soybean,Telangana,Zaid,21.34,1420.0,144.2,4.07,1.566,33.41
+Soybean,Madhya Pradesh,Zaid,12.11,1611.0,175.4,4.94,1.367,16.56
+Soybean,Telangana,Whole Year,15.43,1340.6,119.5,7.7,2.118,32.67
+Soybean,Tamil Nadu,Zaid,19.04,1323.2,90.9,1.52,2.029,38.63
+Soybean,Uttar Pradesh,Whole Year,11.31,539.3,174.1,2.8,1.528,17.29
+Soybean,Telangana,Kharif,9.32,1901.7,238.1,3.64,1.5,13.99
+Soybean,Madhya Pradesh,Rabi,24.51,1989.9,36.6,4.65,0.508,12.46
+Soybean,Madhya Pradesh,Kharif,11.98,1146.2,83.1,2.75,2.286,27.38
+Soybean,Uttar Pradesh,Zaid,23.32,949.2,57.3,1.57,3.177,74.09
+Soybean,Karnataka,Zaid,23.15,1380.7,116.8,3.66,0.653,15.11
+Soybean,Uttar Pradesh,Whole Year,13.68,1389.4,135.8,0.94,0.933,12.76
+Soybean,Tamil Nadu,Whole Year,9.99,1237.2,62.5,2.57,1.896,18.94
+Soybean,Uttar Pradesh,Kharif,5.33,1997.9,205.1,6.58,1.007,5.37
+Soybean,Telangana,Zaid,8.61,1337.9,145.1,4.85,1.154,9.93
+Soybean,Karnataka,Whole Year,12.98,1538.7,77.6,7.49,1.3,16.88
+Soybean,Uttar Pradesh,Whole Year,10.43,1630.1,52.1,2.4,3.087,32.18
+Soybean,Karnataka,Whole Year,10.95,958.3,169.2,7.97,0.299,3.27
+Soybean,Madhya Pradesh,Zaid,6.63,529.6,120.3,7.23,2.109,13.98
+Soybean,Karnataka,Kharif,24.63,631.2,135.1,6.45,0.2,4.93
+Soybean,Telangana,Whole Year,11.04,1852.0,81.7,7.22,0.878,9.7
+Soybean,Andhra Pradesh,Rabi,7.59,1015.0,138.6,3.64,1.524,11.57
+Soybean,Karnataka,Kharif,13.03,1032.8,32.9,6.11,2.17,28.27
+Soybean,Uttar Pradesh,Whole Year,23.39,976.2,163.1,6.64,1.308,30.6
+Soybean,Maharashtra,Whole Year,12.99,1285.0,58.9,4.86,0.975,12.66
+Soybean,Andhra Pradesh,Kharif,13.29,1838.4,131.3,4.07,2.5,33.22
+Soybean,Tamil Nadu,Rabi,20.13,786.3,88.9,4.92,1.532,30.84
+Soybean,Madhya Pradesh,Kharif,2.7,649.5,230.1,0.58,1.442,3.9
+Soybean,Karnataka,Zaid,17.36,1868.0,216.7,4.1,0.402,6.98
+Soybean,Tamil Nadu,Rabi,15.99,1207.0,25.9,7.68,2.485,39.74
+Soybean,Andhra Pradesh,Kharif,8.85,1832.0,201.8,3.72,0.93,8.23
+Soybean,Andhra Pradesh,Kharif,7.15,1440.2,46.4,6.99,1.255,8.98
+Soybean,Andhra Pradesh,Kharif,10.05,1448.0,85.1,7.8,2.012,20.22
+Soybean,Uttar Pradesh,Zaid,15.15,836.5,226.1,6.53,1.166,17.67
+Soybean,Andhra Pradesh,Zaid,11.62,1885.9,244.8,3.41,0.2,2.32
+Soybean,Maharashtra,Kharif,3.88,572.2,83.6,4.01,1.532,5.95
+Soybean,Punjab,Rabi,11.04,1706.7,156.9,6.58,0.2,2.21
+Soybean,Telangana,Whole Year,10.29,366.8,105.1,5.11,1.172,12.06
+Soybean,Punjab,Rabi,7.97,1611.4,24.7,5.12,1.56,12.44
+Soybean,Karnataka,Whole Year,23.64,1031.4,31.0,5.85,2.592,61.25
+Soybean,Andhra Pradesh,Rabi,17.47,1604.3,116.7,6.44,1.291,22.55
+Soybean,Maharashtra,Whole Year,19.26,1381.7,150.3,2.89,1.295,24.93
+Soybean,Tamil Nadu,Rabi,5.84,373.7,143.9,1.45,0.566,3.31
+Soybean,Punjab,Zaid,4.19,354.4,80.3,1.81,1.33,5.57
+Soybean,Karnataka,Kharif,24.87,555.1,39.5,2.79,2.528,62.87
+Soybean,Andhra Pradesh,Kharif,19.13,1924.3,195.6,5.95,0.639,12.22
+Soybean,Telangana,Kharif,7.97,579.3,183.7,2.58,0.403,3.21
+Soybean,Tamil Nadu,Whole Year,8.4,1160.6,97.5,3.59,2.166,18.2
+Soybean,Tamil Nadu,Rabi,15.45,1769.5,52.9,1.72,1.643,25.38
+Soybean,Madhya Pradesh,Rabi,8.07,1976.8,149.7,4.43,1.359,10.97
+Soybean,Karnataka,Kharif,13.02,760.6,199.5,6.33,1.341,17.45
+Soybean,Maharashtra,Whole Year,11.45,569.7,226.2,7.18,0.638,7.3
+Soybean,Andhra Pradesh,Whole Year,11.57,1709.4,53.2,5.75,0.857,9.91
+Soybean,Punjab,Rabi,5.29,875.3,142.7,7.41,2.153,11.4
+Soybean,Uttar Pradesh,Whole Year,2.46,520.1,42.0,4.82,2.983,7.32
+Soybean,Uttar Pradesh,Whole Year,0.62,896.8,49.3,7.91,0.387,0.24
+Soybean,Karnataka,Kharif,9.25,1516.4,228.1,4.24,0.2,1.85
+Soybean,Madhya Pradesh,Whole Year,13.29,1326.0,215.0,3.46,1.205,16.01
+Soybean,Telangana,Kharif,21.43,1589.0,60.6,6.11,1.282,27.47
+Soybean,Madhya Pradesh,Whole Year,12.6,930.5,228.2,1.7,0.476,6.0
+Soybean,Punjab,Kharif,16.96,825.1,74.2,5.29,2.683,45.49
+Soybean,Punjab,Rabi,5.08,1401.0,186.6,2.29,2.463,12.5
+Soybean,Telangana,Kharif,20.18,1015.4,214.2,3.81,1.493,30.14
+Soybean,Tamil Nadu,Kharif,8.86,1668.0,239.8,7.88,0.687,6.08
+Soybean,Andhra Pradesh,Rabi,3.01,1181.5,187.4,2.93,2.667,8.03
+Soybean,Karnataka,Whole Year,14.48,1899.3,68.2,4.93,0.2,2.9
+Soybean,Punjab,Kharif,7.72,1197.0,148.4,6.99,0.769,5.93
+Soybean,Punjab,Kharif,7.91,1883.3,219.7,5.19,0.6,4.75
+Soybean,Maharashtra,Zaid,10.5,660.2,225.3,7.17,2.167,22.76
+Soybean,Telangana,Kharif,3.87,910.0,49.6,2.78,1.475,5.7
+Soybean,Karnataka,Zaid,3.41,891.0,29.1,4.61,2.558,8.73
+Soybean,Andhra Pradesh,Kharif,21.86,967.3,148.3,7.82,1.199,26.22
+Soybean,Madhya Pradesh,Whole Year,20.61,1392.1,45.0,2.34,3.297,67.96
+Soybean,Andhra Pradesh,Zaid,1.6,1521.1,72.4,4.17,1.628,2.61
+Soybean,Punjab,Kharif,15.05,1847.7,205.7,2.31,0.2,3.01
+Soybean,Andhra Pradesh,Zaid,10.87,1941.3,203.7,1.31,1.062,11.54
+Soybean,Karnataka,Whole Year,23.79,1988.0,199.0,0.7,0.2,4.76
+Soybean,Punjab,Whole Year,10.45,1659.2,86.0,3.4,1.307,13.65
+Soybean,Karnataka,Whole Year,23.58,1575.4,228.7,2.08,0.512,12.07
+Soybean,Maharashtra,Whole Year,12.75,1018.6,94.7,7.0,3.062,39.03
+Soybean,Maharashtra,Whole Year,3.83,383.2,213.2,4.18,1.026,3.93
+Soybean,Karnataka,Rabi,7.78,1765.1,211.1,3.36,0.2,1.56
+Soybean,Karnataka,Zaid,17.35,763.6,223.3,7.23,0.484,8.39
+Soybean,Tamil Nadu,Whole Year,4.95,451.8,207.8,7.2,0.238,1.18
+Soybean,Karnataka,Rabi,20.78,1502.0,48.1,5.26,0.79,16.42
+Soybean,Andhra Pradesh,Zaid,17.9,1599.9,207.4,5.19,1.313,23.51
+Soybean,Maharashtra,Whole Year,16.03,767.7,61.3,2.24,1.618,25.94
+Soybean,Madhya Pradesh,Kharif,0.75,805.0,232.3,5.16,1.183,0.89
+Soybean,Karnataka,Kharif,18.14,387.1,217.6,4.48,1.286,23.34
+Soybean,Madhya Pradesh,Zaid,19.07,1617.2,203.2,6.2,1.902,36.26
+Soybean,Tamil Nadu,Rabi,17.42,472.3,168.5,1.77,1.902,33.12
+Soybean,Karnataka,Rabi,5.75,562.5,43.5,2.11,1.128,6.48
+Soybean,Karnataka,Zaid,21.32,1809.7,96.6,7.24,1.404,29.93
+Soybean,Madhya Pradesh,Zaid,6.05,1582.3,232.1,5.44,0.504,3.05
+Soybean,Telangana,Rabi,12.71,1158.8,128.4,3.08,0.637,8.1
+Soybean,Karnataka,Zaid,10.75,1975.8,170.4,3.8,0.62,6.67
+Soybean,Andhra Pradesh,Rabi,2.61,905.2,52.4,7.68,3.866,10.1
+Soybean,Andhra Pradesh,Rabi,24.36,1416.1,113.7,4.55,2.532,61.69
+Soybean,Uttar Pradesh,Whole Year,3.44,1198.6,36.4,2.69,0.582,2.0
+Soybean,Uttar Pradesh,Whole Year,21.97,1713.4,136.6,0.71,0.729,16.02
+Soybean,Telangana,Whole Year,21.44,1354.6,216.3,2.34,1.831,39.25
+Soybean,Andhra Pradesh,Zaid,14.69,1373.0,247.0,6.84,0.264,3.88
+Soybean,Punjab,Rabi,16.83,1211.9,205.2,2.9,1.644,27.67
+Soybean,Uttar Pradesh,Rabi,4.19,1408.8,183.0,1.54,0.621,2.6
+Soybean,Madhya Pradesh,Whole Year,5.62,558.8,36.1,6.73,1.56,8.77
+Soybean,Uttar Pradesh,Whole Year,1.23,409.3,104.4,4.97,0.992,1.22
+Soybean,Uttar Pradesh,Rabi,19.09,879.8,55.5,6.12,0.469,8.96
+Soybean,Tamil Nadu,Whole Year,24.08,1844.4,149.6,1.02,1.161,27.94
+Soybean,Andhra Pradesh,Rabi,13.72,1283.2,72.0,3.92,3.077,42.24
+Soybean,Karnataka,Rabi,16.88,864.9,171.0,7.45,0.2,3.38
+Soybean,Punjab,Kharif,6.67,1978.4,161.5,3.8,1.292,8.62
+Soybean,Karnataka,Whole Year,19.44,958.7,89.3,2.17,1.496,29.08
+Soybean,Andhra Pradesh,Zaid,6.38,403.0,102.6,4.89,1.117,7.12
+Soybean,Tamil Nadu,Zaid,11.59,388.9,196.7,7.04,2.089,24.21
+Soybean,Telangana,Rabi,20.27,1045.4,169.7,1.71,1.849,37.49
+Soybean,Karnataka,Whole Year,18.4,1662.2,208.1,3.8,0.967,17.8
+Soybean,Madhya Pradesh,Zaid,11.7,809.6,96.8,2.12,2.077,24.31
+Soybean,Telangana,Zaid,15.69,1888.6,109.0,2.74,0.811,12.72
+Soybean,Maharashtra,Whole Year,14.77,1069.2,150.7,7.2,0.675,9.96
+Soybean,Telangana,Rabi,24.16,1432.5,216.7,4.44,1.322,31.95
+Soybean,Madhya Pradesh,Rabi,21.38,1404.3,85.1,2.56,0.697,14.89
+Soybean,Punjab,Whole Year,21.1,1597.3,115.4,7.04,1.88,39.68
+Soybean,Telangana,Whole Year,6.12,1406.4,191.3,4.63,0.985,6.03
+Soybean,Tamil Nadu,Kharif,15.01,463.2,206.2,1.6,1.178,17.68
+Soybean,Andhra Pradesh,Whole Year,24.32,1034.3,125.7,6.69,2.202,53.54
+Soybean,Telangana,Rabi,1.18,1327.3,58.5,2.42,1.818,2.14
+Soybean,Uttar Pradesh,Zaid,20.68,1048.2,137.7,2.56,1.592,32.94
+Soybean,Madhya Pradesh,Kharif,3.13,1844.7,184.0,6.54,0.2,0.63
+Soybean,Andhra Pradesh,Zaid,8.57,317.2,161.5,6.9,1.142,9.79
+Soybean,Uttar Pradesh,Rabi,5.98,1692.5,91.2,2.14,1.342,8.02
+Soybean,Telangana,Rabi,4.59,1378.4,208.4,5.46,0.225,1.03
+Soybean,Punjab,Rabi,22.44,1868.7,84.6,4.65,2.65,59.46
+Soybean,Madhya Pradesh,Zaid,24.67,1165.5,41.1,3.01,1.769,43.64
+Soybean,Uttar Pradesh,Rabi,13.6,1932.6,80.4,4.53,1.471,20.01
+Soybean,Madhya Pradesh,Kharif,21.83,875.9,83.9,3.73,1.782,38.9
+Soybean,Uttar Pradesh,Rabi,0.73,1991.7,223.2,0.68,1.697,1.24
+Soybean,Maharashtra,Whole Year,4.0,1369.8,227.8,7.67,0.436,1.74
+Soybean,Andhra Pradesh,Rabi,21.92,1253.3,74.7,5.13,2.514,55.12
+Soybean,Karnataka,Whole Year,20.6,1409.3,213.5,2.23,0.342,7.05
+Soybean,Maharashtra,Zaid,11.49,525.6,227.3,5.79,0.806,9.26
+Soybean,Karnataka,Whole Year,24.1,1806.5,99.7,4.0,0.789,19.0
+Soybean,Telangana,Whole Year,18.69,574.1,97.9,5.05,2.008,37.54
+Soybean,Karnataka,Zaid,23.3,1521.1,84.1,5.62,2.235,52.09
+Soybean,Karnataka,Kharif,8.66,1588.4,215.6,3.63,0.2,1.73
+Soybean,Uttar Pradesh,Whole Year,13.06,1476.1,192.6,7.81,1.368,17.87
+Soybean,Punjab,Rabi,2.54,1469.9,134.6,6.81,1.466,3.72
+Soybean,Maharashtra,Kharif,10.77,1260.3,177.4,6.88,0.477,5.14
+Soybean,Maharashtra,Whole Year,7.68,1232.6,99.7,4.76,1.305,10.02
+Soybean,Madhya Pradesh,Kharif,24.81,1752.4,212.7,4.35,0.2,4.96
+Soybean,Telangana,Zaid,2.22,635.5,225.9,4.44,1.203,2.67
+Soybean,Uttar Pradesh,Whole Year,7.22,1861.2,105.3,1.6,1.265,9.13
+Soybean,Madhya Pradesh,Rabi,16.32,526.1,41.1,3.93,1.757,28.68
+Soybean,Tamil Nadu,Rabi,10.09,1129.2,62.6,3.82,1.433,14.46
+Soybean,Andhra Pradesh,Whole Year,19.99,1481.0,220.7,5.52,1.048,20.95
+Soybean,Andhra Pradesh,Zaid,21.12,608.2,71.4,6.97,1.23,25.97
+Soybean,Punjab,Kharif,11.58,1140.0,59.9,5.21,2.244,26.0
+Soybean,Telangana,Rabi,18.02,455.1,242.4,4.12,1.412,25.44
+Soybean,Madhya Pradesh,Kharif,15.74,1918.3,243.9,2.59,1.324,20.83
+Soybean,Telangana,Rabi,22.65,894.3,40.1,1.66,0.2,4.53
+Soybean,Madhya Pradesh,Whole Year,22.1,1368.0,69.4,2.73,2.074,45.84
+Soybean,Uttar Pradesh,Kharif,23.59,661.4,145.6,4.17,1.294,30.52
+Soybean,Tamil Nadu,Whole Year,7.05,1627.1,190.8,7.65,3.004,21.18
+Soybean,Maharashtra,Rabi,23.03,1404.2,208.7,4.29,1.371,31.57
+Soybean,Punjab,Kharif,21.67,1621.4,75.8,0.86,2.371,51.37
+Soybean,Telangana,Rabi,19.3,1003.8,97.2,1.8,1.986,38.32
+Soybean,Punjab,Rabi,6.03,774.6,96.2,2.63,1.551,9.35
+Soybean,Uttar Pradesh,Kharif,14.02,566.0,199.3,2.84,0.473,6.63
+Soybean,Karnataka,Zaid,8.57,1766.9,101.1,4.29,0.35,3.0
+Soybean,Maharashtra,Whole Year,17.48,1779.8,150.9,2.13,0.2,3.5
+Soybean,Madhya Pradesh,Rabi,17.25,937.1,242.7,7.69,1.263,21.79
+Soybean,Punjab,Kharif,18.24,1371.4,85.7,1.75,1.584,28.88
+Soybean,Madhya Pradesh,Rabi,22.87,712.2,58.6,3.32,1.067,24.39
+Soybean,Tamil Nadu,Rabi,22.67,1845.5,159.0,5.78,0.367,8.32
+Soybean,Madhya Pradesh,Rabi,4.09,1379.6,100.5,0.54,0.731,2.99
+Soybean,Uttar Pradesh,Zaid,23.38,575.7,26.8,0.53,2.055,48.04
+Soybean,Maharashtra,Rabi,4.22,1040.1,33.1,3.3,1.594,6.73
+Soybean,Andhra Pradesh,Zaid,17.38,1179.4,189.7,7.09,2.078,36.11
+Soybean,Telangana,Whole Year,17.45,1493.1,57.1,7.63,1.314,22.92
+Soybean,Tamil Nadu,Zaid,3.59,1309.1,62.0,7.43,1.076,3.86
+Soybean,Andhra Pradesh,Zaid,13.84,1064.1,43.6,6.67,1.006,13.92
+Soybean,Uttar Pradesh,Rabi,16.87,425.6,204.3,6.13,0.682,11.5
+Soybean,Uttar Pradesh,Rabi,3.53,1145.7,195.6,1.07,1.427,5.04
+Soybean,Karnataka,Zaid,22.67,1685.1,231.3,3.99,0.2,4.53
+Soybean,Maharashtra,Kharif,1.69,800.6,168.2,6.23,0.702,1.19
+Soybean,Andhra Pradesh,Zaid,4.77,1788.3,52.7,3.76,3.206,15.28
+Soybean,Andhra Pradesh,Zaid,4.12,516.8,179.3,2.99,2.516,10.36
+Soybean,Punjab,Rabi,20.1,1947.3,234.6,4.59,0.2,4.02
+Soybean,Tamil Nadu,Whole Year,11.13,861.3,121.6,0.6,2.322,25.83
+Soybean,Karnataka,Kharif,20.24,1428.1,66.2,3.86,1.348,27.29
+Soybean,Punjab,Kharif,8.6,628.6,144.2,2.55,0.2,1.72
+Soybean,Karnataka,Whole Year,8.93,1842.7,84.3,5.03,1.711,15.27
+Soybean,Madhya Pradesh,Zaid,19.57,640.4,218.7,3.89,1.01,19.77
+Soybean,Maharashtra,Rabi,2.37,1363.7,136.7,2.82,0.715,1.69
+Soybean,Telangana,Kharif,1.78,1146.0,136.6,1.15,1.132,2.02
+Soybean,Telangana,Rabi,1.8,320.0,64.3,4.16,1.096,1.98
+Soybean,Maharashtra,Rabi,18.46,558.3,197.7,2.04,0.966,17.83
+Soybean,Maharashtra,Rabi,1.08,1844.6,85.9,1.52,0.2,0.22
+Soybean,Uttar Pradesh,Zaid,24.38,509.2,99.7,1.01,2.176,53.05
+Soybean,Karnataka,Zaid,21.47,1274.7,239.8,5.17,2.159,46.34
+Soybean,Tamil Nadu,Kharif,1.4,1533.0,105.9,4.99,1.22,1.71
+Soybean,Karnataka,Zaid,14.77,1205.4,213.7,4.41,2.191,32.36
+Soybean,Uttar Pradesh,Zaid,13.84,1059.8,105.4,1.8,2.561,35.44
+Soybean,Madhya Pradesh,Whole Year,10.6,1016.6,57.7,4.98,3.531,37.44
+Soybean,Tamil Nadu,Kharif,6.57,315.4,179.0,0.74,2.261,14.86
+Soybean,Tamil Nadu,Whole Year,6.88,1658.8,89.2,1.85,0.524,3.61
+Soybean,Tamil Nadu,Whole Year,3.73,1473.7,183.3,0.61,0.295,1.1
+Soybean,Maharashtra,Zaid,17.81,772.2,62.6,6.7,2.716,48.37
+Soybean,Maharashtra,Rabi,21.01,1040.7,125.0,3.08,3.018,63.41
+Soybean,Madhya Pradesh,Rabi,4.99,989.2,126.1,4.16,1.495,7.46
+Tomato,Andhra Pradesh,Whole Year,20.14,1806.6,56.6,5.85,0.2,4.03
+Tomato,Uttar Pradesh,Zaid,2.07,1962.3,167.7,3.89,6.457,13.37
+Tomato,Telangana,Zaid,2.73,1332.7,171.9,3.89,10.911,29.82
+Tomato,Punjab,Zaid,14.57,1583.1,193.4,5.15,8.106,118.11
+Tomato,Karnataka,Whole Year,22.24,722.1,41.6,2.76,9.85,219.0
+Tomato,Punjab,Rabi,13.09,849.0,40.5,1.98,18.748,245.33
+Tomato,Telangana,Zaid,23.88,552.3,176.6,7.29,27.487,656.43
+Tomato,Punjab,Zaid,7.84,396.5,230.9,2.98,15.777,123.65
+Tomato,Punjab,Rabi,12.14,497.0,227.4,1.66,26.737,324.47
+Tomato,Uttar Pradesh,Rabi,22.58,1145.6,246.9,4.37,12.075,272.67
+Tomato,Telangana,Kharif,9.37,1900.2,177.6,1.08,6.983,65.4
+Tomato,Karnataka,Rabi,21.39,475.8,51.8,5.87,26.92,575.88
+Tomato,Maharashtra,Rabi,9.14,728.1,194.9,0.52,13.827,126.35
+Tomato,Punjab,Rabi,9.57,663.9,44.4,4.87,14.901,142.67
+Tomato,Punjab,Zaid,15.38,1586.9,243.6,1.65,25.72,395.46
+Tomato,Andhra Pradesh,Zaid,15.52,1360.5,213.7,6.74,6.753,104.82
+Tomato,Tamil Nadu,Whole Year,4.64,678.0,80.1,4.73,23.425,108.64
+Tomato,Andhra Pradesh,Zaid,6.54,1776.1,154.4,4.61,10.123,66.2
+Tomato,Tamil Nadu,Whole Year,6.68,1594.5,134.2,0.82,14.015,93.63
+Tomato,Madhya Pradesh,Kharif,19.45,1427.7,89.3,1.45,10.678,207.67
+Tomato,Maharashtra,Kharif,16.26,811.4,140.4,5.09,17.34,281.87
+Tomato,Andhra Pradesh,Zaid,20.71,793.3,57.3,5.65,21.832,452.25
+Tomato,Andhra Pradesh,Zaid,21.52,1116.2,229.3,5.32,15.786,339.74
+Tomato,Maharashtra,Zaid,20.47,1765.2,177.1,2.71,0.2,4.09
+Tomato,Uttar Pradesh,Whole Year,3.7,691.2,89.7,1.05,21.788,80.62
+Tomato,Punjab,Zaid,18.66,1591.6,116.2,6.75,24.059,448.83
+Tomato,Maharashtra,Kharif,11.39,1990.8,238.1,1.12,0.2,2.28
+Tomato,Tamil Nadu,Kharif,18.53,300.2,214.5,2.18,24.065,445.84
+Tomato,Punjab,Zaid,22.68,624.1,166.4,2.72,19.719,447.29
+Tomato,Andhra Pradesh,Whole Year,2.35,1236.0,151.6,6.22,8.959,21.02
+Tomato,Maharashtra,Whole Year,10.89,1564.3,229.4,7.15,27.094,295.1
+Tomato,Punjab,Zaid,20.57,1163.1,45.7,3.39,17.175,353.26
+Tomato,Karnataka,Zaid,15.78,1580.9,135.0,1.81,10.659,168.24
+Tomato,Madhya Pradesh,Zaid,24.57,637.9,150.4,0.51,15.038,369.42
+Tomato,Madhya Pradesh,Zaid,6.85,1554.6,134.0,0.59,21.655,148.31
+Tomato,Punjab,Zaid,1.82,1879.2,76.8,7.19,1.947,3.54
+Tomato,Telangana,Kharif,14.41,990.3,153.7,4.23,18.158,261.7
+Tomato,Tamil Nadu,Kharif,2.11,954.8,51.9,0.99,26.182,55.32
+Tomato,Telangana,Rabi,21.84,1969.7,222.2,7.77,5.264,114.94
+Tomato,Tamil Nadu,Whole Year,18.42,1172.9,147.6,4.9,21.806,401.76
+Tomato,Punjab,Zaid,7.62,1382.9,32.3,1.78,13.087,99.72
+Tomato,Andhra Pradesh,Whole Year,18.3,845.2,204.8,1.18,26.046,476.65
+Tomato,Madhya Pradesh,Rabi,17.17,1876.0,226.0,3.35,11.513,197.71
+Tomato,Andhra Pradesh,Rabi,20.82,1843.5,39.4,7.48,17.465,363.68
+Tomato,Andhra Pradesh,Kharif,1.13,1221.1,203.3,4.5,21.577,24.48
+Tomato,Madhya Pradesh,Rabi,4.88,1026.1,45.6,4.96,20.807,101.58
+Tomato,Andhra Pradesh,Kharif,4.96,986.2,239.4,6.13,17.621,87.32
+Tomato,Punjab,Rabi,11.6,1370.0,181.2,5.48,9.972,115.72
+Tomato,Punjab,Zaid,3.75,1504.3,234.7,7.56,9.891,37.13
+Tomato,Telangana,Kharif,3.04,1801.3,51.5,2.66,27.658,84.01
+Tomato,Maharashtra,Rabi,17.77,1457.7,190.6,4.56,12.032,213.76
+Tomato,Maharashtra,Rabi,10.14,1384.6,188.2,2.24,21.015,213.13
+Tomato,Maharashtra,Whole Year,16.19,1979.6,94.7,6.09,6.041,97.78
+Tomato,Andhra Pradesh,Rabi,16.41,1174.4,175.3,7.09,16.408,269.22
+Tomato,Madhya Pradesh,Zaid,21.52,793.0,204.1,3.2,14.523,312.49
+Tomato,Maharashtra,Zaid,15.75,1560.6,148.5,5.8,17.56,276.62
+Tomato,Maharashtra,Zaid,21.43,709.4,228.6,2.73,25.845,553.78
+Tomato,Maharashtra,Kharif,20.25,1876.5,242.4,3.58,12.244,247.95
+Tomato,Madhya Pradesh,Zaid,7.16,1085.7,195.0,7.78,16.307,116.7
+Tomato,Telangana,Kharif,14.42,1882.5,247.8,3.68,9.121,131.56
+Tomato,Karnataka,Whole Year,4.43,1147.2,236.2,1.74,20.565,91.07
+Tomato,Uttar Pradesh,Rabi,8.6,1681.7,45.1,6.94,7.866,67.62
+Tomato,Karnataka,Zaid,19.04,1181.3,76.6,5.31,14.535,276.81
+Tomato,Karnataka,Whole Year,10.05,1566.8,154.2,3.36,7.149,71.88
+Tomato,Punjab,Kharif,22.87,368.1,178.9,3.44,30.903,706.89
+Tomato,Maharashtra,Kharif,18.25,1439.2,134.1,4.02,5.601,102.21
+Tomato,Uttar Pradesh,Rabi,4.06,1251.2,92.6,5.14,21.691,88.14
+Tomato,Punjab,Rabi,16.78,1307.8,177.4,2.5,16.508,276.97
+Tomato,Punjab,Zaid,14.21,1743.4,185.6,4.17,16.513,234.68
+Tomato,Punjab,Zaid,5.72,1658.5,59.7,7.26,4.849,27.73
+Tomato,Telangana,Zaid,4.93,361.6,179.8,5.05,17.968,88.67
+Tomato,Telangana,Zaid,21.89,1918.4,99.2,4.16,27.206,595.64
+Tomato,Tamil Nadu,Rabi,10.58,1653.0,117.7,3.44,8.874,93.92
+Tomato,Tamil Nadu,Kharif,9.36,1797.1,229.0,5.46,12.399,116.05
+Tomato,Madhya Pradesh,Zaid,13.15,1286.7,239.4,7.77,16.884,221.94
+Tomato,Andhra Pradesh,Whole Year,6.14,1208.6,99.5,1.05,25.303,155.41
+Tomato,Telangana,Rabi,14.49,1339.2,37.0,4.12,16.217,235.02
+Tomato,Karnataka,Zaid,17.07,406.0,56.5,1.8,20.431,348.73
+Tomato,Maharashtra,Whole Year,20.87,1755.6,106.2,3.73,8.55,178.41
+Tomato,Karnataka,Rabi,4.78,569.4,198.4,1.38,11.417,54.63
+Tomato,Karnataka,Rabi,4.6,1724.3,83.1,0.84,12.62,58.09
+Tomato,Karnataka,Rabi,3.38,1725.5,201.2,3.97,19.416,65.61
+Tomato,Punjab,Zaid,18.84,1211.3,113.0,2.39,19.424,366.0
+Tomato,Telangana,Whole Year,18.78,1483.7,233.6,3.46,5.189,97.46
+Tomato,Madhya Pradesh,Whole Year,3.0,1923.5,155.5,6.58,0.2,0.6
+Tomato,Madhya Pradesh,Rabi,21.48,408.0,227.1,2.04,25.169,540.68
+Tomato,Punjab,Whole Year,3.05,1802.0,37.0,3.16,10.307,31.39
+Tomato,Karnataka,Whole Year,4.64,1803.3,123.9,2.55,11.002,51.03
+Tomato,Karnataka,Kharif,5.81,1795.4,163.6,1.52,13.693,79.54
+Tomato,Uttar Pradesh,Rabi,9.44,1106.1,154.8,6.0,38.02,358.98
+Tomato,Tamil Nadu,Rabi,1.59,1267.9,193.0,1.37,15.255,24.22
+Tomato,Punjab,Zaid,16.72,1251.2,219.9,7.77,18.245,305.04
+Tomato,Madhya Pradesh,Zaid,17.24,876.5,221.2,5.41,23.184,399.7
+Tomato,Maharashtra,Whole Year,11.59,1072.6,249.1,3.3,15.944,184.86
+Tomato,Karnataka,Whole Year,13.69,1804.3,154.4,6.45,12.031,164.76
+Tomato,Andhra Pradesh,Kharif,14.13,1146.2,237.5,1.49,14.266,201.59
+Tomato,Uttar Pradesh,Kharif,3.87,590.2,77.7,6.61,28.343,109.55
+Tomato,Andhra Pradesh,Rabi,21.58,313.8,234.9,6.1,16.017,345.7
+Tomato,Punjab,Whole Year,14.64,1886.1,154.0,2.21,18.019,263.88
+Tomato,Maharashtra,Zaid,14.81,564.6,197.5,7.98,22.547,333.93
+Tomato,Karnataka,Whole Year,9.9,1239.3,57.9,7.78,23.005,227.78
+Tomato,Karnataka,Zaid,2.56,1153.1,31.4,7.06,6.087,15.6
+Tomato,Telangana,Rabi,2.15,380.4,70.9,7.47,24.982,53.69
+Tomato,Karnataka,Kharif,5.39,736.2,93.1,5.04,28.961,156.02
+Tomato,Punjab,Rabi,5.61,1042.4,178.7,2.82,22.541,126.47
+Tomato,Tamil Nadu,Zaid,22.18,443.5,157.5,7.47,14.133,313.42
+Tomato,Andhra Pradesh,Zaid,9.89,857.5,99.2,5.0,20.155,199.25
+Tomato,Maharashtra,Zaid,1.18,380.8,193.8,3.84,12.948,15.31
+Tomato,Tamil Nadu,Rabi,7.98,1618.0,37.9,5.26,0.59,4.71
+Tomato,Uttar Pradesh,Kharif,1.77,1914.2,200.7,3.17,4.817,8.54
+Tomato,Madhya Pradesh,Rabi,5.46,984.1,223.5,7.98,24.475,133.66
+Tomato,Karnataka,Zaid,19.28,513.0,97.3,1.06,15.567,300.11
+Tomato,Madhya Pradesh,Rabi,17.69,943.6,161.4,4.77,19.957,352.98
+Tomato,Maharashtra,Whole Year,11.77,1078.9,26.6,4.35,4.247,49.97
+Tomato,Maharashtra,Rabi,11.58,1398.2,142.5,6.39,0.599,6.93
+Tomato,Punjab,Kharif,2.16,792.1,156.0,6.92,22.892,49.37
+Tomato,Punjab,Kharif,2.85,780.1,99.3,6.83,18.793,53.62
+Tomato,Karnataka,Zaid,7.41,858.6,97.3,5.15,15.098,111.81
+Tomato,Madhya Pradesh,Rabi,13.31,1759.5,214.5,2.13,20.387,271.37
+Tomato,Uttar Pradesh,Kharif,6.75,1140.0,140.8,5.75,20.414,137.83
+Tomato,Maharashtra,Rabi,7.69,1499.5,111.8,0.53,14.608,112.33
+Tomato,Andhra Pradesh,Zaid,8.54,1358.1,33.6,2.28,11.363,97.04
+Tomato,Punjab,Kharif,7.64,1778.9,229.1,2.82,8.034,61.39
+Tomato,Punjab,Zaid,20.75,1749.5,30.6,2.07,7.879,163.46
+Tomato,Uttar Pradesh,Rabi,20.8,1075.7,104.7,7.67,18.653,387.91
+Tomato,Uttar Pradesh,Kharif,4.69,490.5,176.5,4.66,26.622,124.85
+Tomato,Tamil Nadu,Kharif,2.91,1648.6,143.2,1.18,4.257,12.39
+Tomato,Madhya Pradesh,Zaid,1.13,1609.7,179.6,4.88,9.792,11.1
+Tomato,Andhra Pradesh,Kharif,24.98,983.1,182.3,3.33,26.718,667.49
+Tomato,Uttar Pradesh,Kharif,3.46,986.0,203.2,7.55,16.937,58.52
+Tomato,Punjab,Whole Year,10.16,728.4,117.1,4.74,29.994,304.68
+Tomato,Andhra Pradesh,Zaid,23.77,1266.5,82.0,6.59,24.577,584.29
+Tomato,Punjab,Rabi,6.36,1246.5,86.5,3.47,7.8,49.63
+Tomato,Maharashtra,Whole Year,9.37,332.8,126.9,5.45,26.521,248.46
+Tomato,Maharashtra,Kharif,21.7,1139.9,126.3,2.82,10.342,224.42
+Tomato,Telangana,Rabi,18.5,1732.1,126.4,7.19,12.604,233.23
+Tomato,Andhra Pradesh,Rabi,4.69,651.7,207.3,3.69,17.767,83.37
+Tomato,Telangana,Rabi,22.35,421.6,101.2,4.68,10.567,236.15
+Tomato,Karnataka,Zaid,19.65,338.1,209.8,5.29,21.824,428.8
+Tomato,Karnataka,Kharif,15.25,1998.5,136.6,5.55,4.378,66.77
+Tomato,Tamil Nadu,Zaid,20.42,1361.0,149.1,5.82,25.716,525.21
+Tomato,Punjab,Whole Year,13.24,529.5,128.5,4.54,24.123,319.42
+Tomato,Maharashtra,Kharif,11.67,549.3,54.6,5.91,11.897,138.83
+Tomato,Telangana,Rabi,8.02,607.7,95.0,2.47,27.123,217.54
+Tomato,Karnataka,Rabi,12.86,1066.5,184.4,5.15,19.0,244.33
+Tomato,Andhra Pradesh,Whole Year,22.98,1968.9,207.6,4.72,0.2,4.6
+Tomato,Maharashtra,Kharif,4.86,1484.0,125.9,1.59,12.67,61.63
+Tomato,Andhra Pradesh,Whole Year,6.64,844.4,185.2,1.73,15.591,103.49
+Tomato,Uttar Pradesh,Zaid,19.68,1310.6,76.9,0.89,23.21,456.68
+Tomato,Uttar Pradesh,Kharif,18.75,1095.4,226.7,3.17,15.926,298.58
+Tomato,Telangana,Rabi,18.63,637.9,56.4,1.2,23.393,435.89
+Tomato,Punjab,Kharif,8.05,542.0,41.3,2.74,32.091,258.46
+Tomato,Tamil Nadu,Kharif,6.87,1239.6,149.0,1.76,19.984,137.38
+Tomato,Maharashtra,Rabi,1.62,716.2,152.6,0.55,19.71,31.94
+Tomato,Karnataka,Whole Year,6.14,704.8,189.9,2.36,27.868,171.24
+Tomato,Andhra Pradesh,Kharif,21.01,1170.5,92.0,3.5,2.752,57.83
+Tomato,Telangana,Rabi,18.09,1217.2,230.2,3.98,13.384,242.12
+Tomato,Maharashtra,Whole Year,23.74,736.8,211.7,2.43,23.86,566.36
+Tomato,Andhra Pradesh,Rabi,18.45,1623.3,214.0,6.99,0.2,3.69
+Tomato,Tamil Nadu,Rabi,14.45,1941.0,106.4,0.82,8.008,115.72
+Tomato,Tamil Nadu,Zaid,9.16,882.5,149.8,7.41,16.261,148.95
+Tomato,Uttar Pradesh,Kharif,22.43,698.8,182.5,3.62,11.861,266.07
+Tomato,Telangana,Kharif,18.44,1140.4,208.0,7.98,3.71,68.42
+Tomato,Tamil Nadu,Zaid,17.24,1497.6,128.9,2.99,6.659,114.77
+Tomato,Punjab,Zaid,23.98,1768.8,176.9,3.2,5.316,127.46
+Tomato,Uttar Pradesh,Zaid,19.64,726.8,135.4,1.05,23.617,463.83
+Tomato,Maharashtra,Zaid,9.08,1289.8,107.1,4.98,10.853,98.55
+Tomato,Andhra Pradesh,Whole Year,19.97,1469.3,33.1,4.77,19.66,392.7
+Tomato,Madhya Pradesh,Zaid,17.87,328.3,96.0,1.15,20.824,372.02
+Tomato,Andhra Pradesh,Rabi,15.49,1136.5,211.8,6.32,19.811,306.9
+Tomato,Telangana,Zaid,22.4,1878.9,122.4,2.62,4.802,107.57
+Tomato,Maharashtra,Rabi,24.6,1409.6,191.6,2.93,14.273,351.19
+Tomato,Punjab,Zaid,22.56,430.7,50.2,2.46,13.524,305.07
+Tomato,Tamil Nadu,Kharif,9.86,1339.8,244.6,6.38,17.962,177.03
+Tomato,Tamil Nadu,Kharif,1.71,1178.6,66.9,2.75,12.156,20.79
+Tomato,Karnataka,Rabi,14.63,377.8,171.9,5.98,12.314,180.18
+Tomato,Maharashtra,Zaid,19.64,1944.6,98.2,5.14,6.659,130.78
+Tomato,Madhya Pradesh,Kharif,2.32,1655.8,52.2,5.74,0.2,0.46
+Tomato,Madhya Pradesh,Zaid,24.91,1482.5,49.6,5.2,17.639,439.34
+Tomato,Tamil Nadu,Zaid,13.2,1361.2,122.0,4.31,15.697,207.25
+Tomato,Tamil Nadu,Zaid,2.42,1346.1,40.3,6.91,15.394,37.25
+Tomato,Uttar Pradesh,Rabi,6.11,1117.7,21.7,7.74,17.053,104.13
+Tomato,Maharashtra,Whole Year,15.1,901.8,43.7,0.68,15.787,238.46
+Tomato,Maharashtra,Rabi,6.5,460.0,197.0,3.61,18.772,121.96
+Tomato,Andhra Pradesh,Rabi,21.04,1987.0,204.9,2.11,15.696,330.27
+Tomato,Andhra Pradesh,Rabi,7.77,657.2,184.9,1.26,38.569,299.75
+Tomato,Karnataka,Zaid,9.84,1564.7,219.8,4.55,2.957,29.1
+Tomato,Punjab,Zaid,23.06,312.2,173.7,6.44,19.373,446.81
+Tomato,Maharashtra,Whole Year,0.98,595.6,41.7,1.14,16.2,15.95
+Tomato,Andhra Pradesh,Zaid,9.34,499.0,185.2,5.2,32.257,301.23
+Tomato,Uttar Pradesh,Zaid,23.15,825.2,170.6,0.74,24.875,575.77
+Tomato,Madhya Pradesh,Zaid,5.92,1794.5,87.4,6.89,10.263,60.79
+Tomato,Uttar Pradesh,Whole Year,9.13,1848.3,131.6,2.88,12.608,115.05
+Tomato,Punjab,Rabi,9.07,732.1,68.7,2.33,19.964,181.12
+Tomato,Karnataka,Whole Year,12.38,369.8,22.6,5.14,18.74,231.93
+Tomato,Andhra Pradesh,Kharif,6.11,1810.0,130.7,2.86,4.446,27.19
+Tomato,Madhya Pradesh,Kharif,21.53,1506.4,86.8,3.43,5.631,121.22
+Tomato,Maharashtra,Rabi,18.57,1418.1,185.6,7.19,17.912,332.71
+Tomato,Telangana,Kharif,11.73,402.0,211.9,1.38,24.44,286.69
+Tomato,Telangana,Zaid,17.52,1045.4,231.2,6.74,10.287,180.22
+Tomato,Tamil Nadu,Rabi,11.31,1088.5,60.5,6.35,19.463,220.06
+Tomato,Karnataka,Rabi,21.03,1643.7,211.4,7.86,11.796,248.07
+Tomato,Karnataka,Zaid,7.13,1695.5,106.4,4.37,6.576,46.9
+Tomato,Karnataka,Zaid,18.09,1833.7,233.4,6.49,16.97,307.07
+Tomato,Madhya Pradesh,Zaid,20.61,351.2,100.4,3.02,24.928,513.68
+Tomato,Madhya Pradesh,Rabi,20.99,1322.3,155.8,3.38,11.905,249.87
+Tomato,Maharashtra,Whole Year,17.24,875.9,248.5,3.97,26.582,458.16
+Tomato,Andhra Pradesh,Kharif,20.85,1456.6,220.1,2.97,5.016,104.59
+Tomato,Uttar Pradesh,Zaid,12.77,400.6,64.7,2.13,15.192,194.05
+Tomato,Maharashtra,Kharif,16.49,1615.6,200.3,5.88,14.898,245.63
+Tomato,Uttar Pradesh,Kharif,13.81,793.3,198.3,6.11,25.409,351.02
+Tomato,Karnataka,Rabi,19.33,1626.3,99.8,6.55,2.347,45.37
+Tomato,Telangana,Kharif,5.16,896.5,80.0,3.31,24.175,124.65
+Tomato,Karnataka,Whole Year,1.85,1413.9,121.8,1.17,0.2,0.37
+Tomato,Maharashtra,Kharif,12.15,1380.5,47.2,7.96,27.251,331.09
+Tomato,Maharashtra,Zaid,1.28,1322.3,144.3,0.93,14.221,18.2
+Tomato,Maharashtra,Zaid,5.91,1493.2,103.4,6.28,2.085,12.32
+Tomato,Karnataka,Rabi,16.66,973.1,130.8,1.46,19.958,332.45
+Tomato,Punjab,Rabi,4.74,921.8,133.1,7.61,11.145,52.85
+Tomato,Karnataka,Kharif,18.81,1093.6,35.7,5.43,26.899,505.87
+Tomato,Andhra Pradesh,Rabi,10.4,1726.1,51.6,3.05,11.97,124.43
+Tomato,Karnataka,Whole Year,22.52,763.9,70.7,1.01,22.666,510.52
+Tomato,Uttar Pradesh,Kharif,12.66,1677.7,130.7,2.02,9.664,122.35
+Tomato,Maharashtra,Kharif,13.59,498.5,215.7,7.09,29.651,403.09
+Tomato,Andhra Pradesh,Whole Year,1.14,350.5,100.8,5.87,16.517,18.78
+Tomato,Uttar Pradesh,Kharif,20.08,1221.8,108.3,3.01,16.126,323.75
+Tomato,Punjab,Whole Year,8.82,1099.2,174.8,2.47,18.885,166.53
+Tomato,Punjab,Rabi,15.05,585.0,44.5,3.1,26.406,397.47
+Tomato,Tamil Nadu,Rabi,9.75,1441.5,206.8,4.85,19.268,187.88
+Tomato,Telangana,Kharif,8.34,1274.8,80.9,4.82,19.792,165.06
+Tomato,Maharashtra,Kharif,9.63,612.1,149.2,5.97,17.023,163.99
+Tomato,Uttar Pradesh,Rabi,0.63,1804.6,196.2,1.22,11.463,7.27
+Tomato,Andhra Pradesh,Zaid,9.05,1847.5,245.4,1.15,2.451,22.18
+Tomato,Karnataka,Kharif,24.54,1973.5,128.6,1.87,8.839,216.88
+Tomato,Punjab,Zaid,8.36,1879.0,208.2,2.82,5.561,46.47
+Tomato,Uttar Pradesh,Whole Year,0.61,561.7,21.4,4.98,30.891,18.79
+Tomato,Madhya Pradesh,Kharif,19.29,617.9,42.1,5.38,27.106,522.79
+Tomato,Maharashtra,Kharif,11.4,1129.6,199.9,0.64,18.306,208.66
+Tomato,Andhra Pradesh,Kharif,18.0,1805.0,240.7,2.2,6.628,119.29
+Tomato,Maharashtra,Kharif,1.66,1853.8,239.6,5.64,28.039,46.5
+Tomato,Madhya Pradesh,Rabi,19.79,1542.4,152.2,1.78,14.292,282.8
+Tomato,Madhya Pradesh,Rabi,18.24,661.4,229.4,7.25,11.253,205.22
+Tomato,Uttar Pradesh,Zaid,2.54,1339.4,123.1,1.58,17.292,43.97
+Tomato,Tamil Nadu,Rabi,6.97,1215.6,202.5,0.64,17.222,119.96
+Tomato,Maharashtra,Kharif,3.93,1712.2,179.2,3.92,14.657,57.56
+Tomato,Maharashtra,Zaid,7.61,1353.0,52.5,6.66,19.634,149.35
+Tomato,Uttar Pradesh,Rabi,20.71,659.0,50.0,5.67,23.83,493.52
+Tomato,Madhya Pradesh,Kharif,11.41,1637.0,229.1,6.02,9.09,103.72
+Tomato,Tamil Nadu,Kharif,1.34,469.8,189.7,6.15,31.237,41.92
+Tomato,Telangana,Whole Year,13.86,1910.5,179.7,4.04,15.488,214.72
+Potato,Telangana,Rabi,18.88,1371.8,208.0,6.36,16.931,319.63
+Potato,Maharashtra,Rabi,5.42,1351.4,66.4,4.69,11.458,62.11
+Potato,Maharashtra,Zaid,20.41,1406.4,200.2,4.04,19.68,401.6
+Potato,Karnataka,Kharif,9.1,1654.9,31.6,7.69,11.5,104.62
+Potato,Madhya Pradesh,Whole Year,15.93,1465.3,51.5,6.67,0.2,3.19
+Potato,Punjab,Whole Year,15.81,1635.8,248.2,1.48,17.142,271.09
+Potato,Madhya Pradesh,Whole Year,19.06,1787.0,113.9,7.02,7.246,138.12
+Potato,Andhra Pradesh,Zaid,12.3,1635.9,108.4,6.89,13.228,162.65
+Potato,Punjab,Rabi,1.14,1955.2,132.6,5.38,7.083,8.1
+Potato,Punjab,Zaid,21.48,473.3,199.5,4.85,16.402,352.26
+Potato,Karnataka,Zaid,21.98,500.8,247.9,6.91,18.376,403.85
+Potato,Andhra Pradesh,Whole Year,13.43,1231.1,233.1,3.41,0.2,2.69
+Potato,Karnataka,Rabi,18.65,1334.5,55.9,1.79,8.223,153.32
+Potato,Madhya Pradesh,Whole Year,18.62,403.6,208.7,2.47,19.6,364.99
+Potato,Telangana,Whole Year,14.04,561.8,86.1,2.72,32.564,457.29
+Potato,Andhra Pradesh,Kharif,2.85,1895.7,149.2,3.18,16.106,45.89
+Potato,Telangana,Kharif,5.62,1247.0,237.6,1.87,3.101,17.43
+Potato,Andhra Pradesh,Zaid,21.74,745.3,77.0,7.32,19.711,428.43
+Potato,Telangana,Whole Year,0.71,1526.0,138.9,6.31,0.2,0.14
+Potato,Telangana,Rabi,21.72,652.0,243.4,2.34,29.393,638.29
+Potato,Karnataka,Whole Year,19.82,1086.7,112.4,5.77,35.074,695.32
+Potato,Andhra Pradesh,Kharif,14.15,621.6,32.7,3.17,24.577,347.77
+Potato,Uttar Pradesh,Kharif,22.7,1003.7,119.8,5.56,22.475,510.14
+Potato,Madhya Pradesh,Kharif,23.3,761.2,127.1,6.34,20.703,482.48
+Potato,Punjab,Whole Year,16.7,777.2,95.5,4.31,19.672,328.53
+Potato,Andhra Pradesh,Whole Year,19.48,1884.5,154.9,3.65,9.96,194.07
+Potato,Andhra Pradesh,Rabi,21.34,1075.6,149.1,2.85,30.012,640.36
+Potato,Telangana,Rabi,24.73,1142.6,141.8,0.9,17.966,444.27
+Potato,Andhra Pradesh,Whole Year,23.09,895.8,196.2,7.83,18.609,429.72
+Potato,Andhra Pradesh,Rabi,6.32,321.1,127.8,4.52,16.487,104.13
+Potato,Telangana,Kharif,20.77,730.2,34.0,1.17,26.751,555.53
+Potato,Punjab,Whole Year,5.52,558.3,101.3,3.98,23.314,128.78
+Potato,Punjab,Zaid,19.48,1868.5,217.4,3.79,11.947,232.7
+Potato,Telangana,Zaid,3.72,667.2,79.7,7.0,41.355,154.01
+Potato,Tamil Nadu,Zaid,14.03,335.6,208.9,4.64,18.026,252.94
+Potato,Maharashtra,Whole Year,20.88,1801.7,141.5,3.46,13.326,278.3
+Potato,Karnataka,Rabi,5.25,683.5,34.4,1.66,21.625,113.53
+Potato,Uttar Pradesh,Whole Year,7.24,528.8,105.8,6.45,31.037,224.65
+Potato,Punjab,Rabi,5.51,338.1,163.5,3.77,24.17,133.21
+Potato,Punjab,Kharif,6.56,1334.9,79.8,7.9,0.2,1.31
+Potato,Tamil Nadu,Rabi,15.27,593.0,154.9,6.5,30.478,465.25
+Potato,Punjab,Whole Year,8.54,1216.1,84.1,1.35,20.075,171.49
+Potato,Andhra Pradesh,Whole Year,0.55,1593.3,192.4,4.64,17.181,9.4
+Potato,Uttar Pradesh,Whole Year,2.08,1798.2,168.1,5.08,22.493,46.88
+Potato,Karnataka,Kharif,1.19,1832.5,246.7,6.56,13.092,15.57
+Potato,Telangana,Rabi,14.06,1793.9,194.1,5.69,21.883,307.66
+Potato,Karnataka,Zaid,13.27,310.8,118.7,1.22,20.035,265.9
+Potato,Madhya Pradesh,Kharif,12.3,588.7,91.7,2.57,19.145,235.47
+Potato,Tamil Nadu,Whole Year,3.15,975.5,147.5,1.23,32.834,103.29
+Potato,Maharashtra,Whole Year,1.66,1093.0,220.7,7.98,18.639,31.02
+Potato,Uttar Pradesh,Kharif,0.95,688.9,127.5,4.79,8.175,7.76
+Potato,Karnataka,Whole Year,14.53,1526.3,130.8,2.78,18.767,272.67
+Potato,Karnataka,Rabi,14.17,1026.5,192.1,2.62,24.777,351.08
+Potato,Telangana,Whole Year,10.01,1228.5,113.3,1.34,14.429,144.37
+Potato,Uttar Pradesh,Kharif,21.58,1084.0,154.5,1.86,22.915,494.53
+Potato,Punjab,Zaid,6.64,395.0,42.4,4.89,19.448,129.11
+Potato,Andhra Pradesh,Rabi,16.22,1217.7,132.9,1.04,15.433,250.31
+Potato,Maharashtra,Rabi,3.83,1172.0,76.3,7.41,24.891,95.29
+Potato,Madhya Pradesh,Whole Year,24.47,1548.1,206.5,3.42,14.891,364.41
+Potato,Maharashtra,Zaid,23.75,629.2,164.1,7.0,17.904,425.18
+Potato,Andhra Pradesh,Rabi,23.86,430.2,155.0,6.33,21.905,522.76
+Potato,Uttar Pradesh,Rabi,5.99,1079.5,39.5,7.97,12.152,72.73
+Potato,Tamil Nadu,Kharif,1.24,1476.2,202.1,1.93,14.591,18.13
+Potato,Andhra Pradesh,Rabi,18.06,1497.9,56.4,2.87,19.39,350.16
+Potato,Tamil Nadu,Zaid,3.26,1113.4,122.4,2.24,12.66,41.24
+Potato,Maharashtra,Zaid,10.67,1003.7,61.8,6.41,12.653,134.96
+Potato,Maharashtra,Kharif,11.01,541.7,184.4,7.24,26.801,295.14
+Potato,Punjab,Kharif,2.65,1533.9,36.4,5.77,1.436,3.8
+Potato,Karnataka,Zaid,14.36,572.8,105.3,1.28,12.159,174.58
+Potato,Punjab,Rabi,3.13,1601.2,167.1,1.68,10.71,33.47
+Potato,Andhra Pradesh,Zaid,16.69,1792.7,33.7,3.22,9.579,159.88
+Potato,Karnataka,Zaid,18.75,904.8,39.4,5.2,19.283,361.56
+Potato,Madhya Pradesh,Kharif,17.69,1830.3,141.4,4.99,22.258,393.75
+Potato,Madhya Pradesh,Rabi,10.34,1821.6,186.4,2.9,12.401,128.2
+Potato,Uttar Pradesh,Rabi,6.35,1378.1,240.0,4.81,16.332,103.73
+Potato,Tamil Nadu,Rabi,24.23,337.9,26.4,4.96,26.159,633.96
+Potato,Karnataka,Rabi,12.4,1727.6,196.6,4.24,0.2,2.48
+Potato,Tamil Nadu,Whole Year,21.54,656.3,228.6,3.2,27.305,588.1
+Potato,Karnataka,Zaid,4.63,1809.3,49.5,6.04,10.821,50.05
+Potato,Andhra Pradesh,Whole Year,8.66,512.2,147.9,3.24,13.623,118.01
+Potato,Uttar Pradesh,Whole Year,1.45,531.4,182.7,2.69,35.648,51.51
+Potato,Tamil Nadu,Kharif,6.03,1234.7,204.3,5.0,11.888,71.66
+Potato,Punjab,Zaid,3.58,722.8,237.6,6.29,31.27,111.88
+Potato,Andhra Pradesh,Rabi,20.75,357.7,118.2,3.33,25.067,520.2
+Potato,Karnataka,Kharif,7.86,1008.8,194.5,7.11,17.623,138.54
+Potato,Uttar Pradesh,Whole Year,16.51,1746.9,233.0,2.25,18.739,309.4
+Potato,Madhya Pradesh,Rabi,14.9,1664.1,112.3,2.08,16.175,241.03
+Potato,Karnataka,Whole Year,16.55,328.6,242.3,4.95,33.37,552.21
+Potato,Telangana,Rabi,22.78,1428.5,130.2,1.3,15.026,342.25
+Potato,Karnataka,Whole Year,4.87,786.5,248.6,4.88,18.278,88.97
+Potato,Uttar Pradesh,Rabi,21.97,1115.5,90.8,1.73,21.492,472.13
+Potato,Punjab,Rabi,15.0,571.1,245.8,2.45,34.032,510.32
+Potato,Punjab,Rabi,16.57,1475.3,118.9,1.06,7.933,131.47
+Potato,Uttar Pradesh,Kharif,14.22,1002.9,240.4,6.86,21.834,310.42
+Potato,Karnataka,Rabi,16.2,672.2,139.3,6.24,34.314,555.78
+Potato,Madhya Pradesh,Rabi,21.27,448.8,106.7,4.27,29.549,628.52
+Potato,Punjab,Rabi,23.59,372.2,219.3,4.64,8.246,194.53
+Potato,Tamil Nadu,Kharif,16.34,621.8,175.7,2.5,28.256,461.62
+Potato,Tamil Nadu,Whole Year,15.49,1517.1,24.5,1.44,7.384,114.4
+Potato,Tamil Nadu,Zaid,2.04,1607.9,39.3,4.01,18.891,38.45
+Potato,Karnataka,Whole Year,2.4,896.1,139.2,7.25,29.583,71.09
+Potato,Telangana,Whole Year,8.02,879.4,63.9,5.7,15.894,127.52
+Potato,Punjab,Zaid,4.3,1354.1,134.7,1.19,16.847,72.38
+Potato,Madhya Pradesh,Rabi,20.67,779.2,27.7,4.05,12.58,259.99
+Potato,Maharashtra,Rabi,6.51,1388.2,133.9,3.33,32.743,213.15
+Potato,Madhya Pradesh,Rabi,17.78,1774.4,144.5,6.36,8.433,149.93
+Potato,Telangana,Whole Year,4.27,1085.4,231.8,4.49,32.678,139.46
+Potato,Karnataka,Rabi,16.52,459.8,152.7,5.86,13.615,224.86
+Potato,Telangana,Kharif,22.82,558.5,59.3,4.38,20.82,475.04
+Potato,Karnataka,Kharif,17.49,1630.3,235.7,4.79,16.512,288.8
+Potato,Telangana,Kharif,14.69,1634.3,82.9,6.41,17.148,251.83
+Potato,Madhya Pradesh,Kharif,19.48,525.1,241.3,1.11,34.688,675.6
+Potato,Karnataka,Kharif,9.33,1550.7,139.4,5.22,0.2,1.87
+Potato,Uttar Pradesh,Rabi,16.99,1541.6,23.8,7.87,13.71,232.87
+Potato,Maharashtra,Kharif,9.75,1270.1,61.0,2.35,19.132,186.53
+Potato,Maharashtra,Whole Year,4.08,483.8,217.9,1.4,16.587,67.62
+Potato,Tamil Nadu,Whole Year,0.73,922.9,236.8,7.31,13.954,10.18
+Potato,Tamil Nadu,Whole Year,5.78,1136.8,27.6,7.21,23.0,132.89
+Potato,Maharashtra,Zaid,7.72,1115.5,82.4,0.8,7.818,60.36
+Potato,Madhya Pradesh,Kharif,20.99,1467.8,171.5,6.51,2.495,52.37
+Potato,Punjab,Zaid,16.77,467.3,49.1,2.32,26.173,439.05
+Potato,Uttar Pradesh,Zaid,10.71,1173.2,183.8,5.1,18.683,200.05
+Potato,Andhra Pradesh,Whole Year,6.3,1348.8,24.3,4.7,6.887,43.39
+Potato,Karnataka,Whole Year,24.27,1733.9,89.5,2.06,14.926,362.26
+Potato,Karnataka,Kharif,11.07,1695.8,75.0,5.91,9.924,109.8
+Potato,Andhra Pradesh,Kharif,20.78,1504.3,54.3,4.98,15.938,331.14
+Potato,Maharashtra,Rabi,4.94,678.9,66.4,7.98,16.255,80.22
+Potato,Punjab,Rabi,24.59,719.5,186.8,0.7,16.573,407.54
+Potato,Maharashtra,Kharif,18.89,443.1,48.2,2.71,30.592,577.89
+Potato,Maharashtra,Zaid,16.43,688.5,108.0,0.52,18.434,302.89
+Potato,Andhra Pradesh,Zaid,4.7,1156.8,56.4,6.77,7.974,37.46
+Potato,Karnataka,Kharif,9.93,1948.8,98.1,6.05,2.949,29.29
+Potato,Maharashtra,Kharif,23.93,1565.7,89.8,1.98,15.573,372.72
+Potato,Punjab,Zaid,12.88,1856.7,51.0,4.21,16.512,212.7
+Potato,Maharashtra,Kharif,17.1,1377.9,148.8,2.6,15.382,263.01
+Potato,Karnataka,Rabi,4.64,428.8,191.5,3.08,19.461,90.35
+Potato,Uttar Pradesh,Whole Year,13.37,1447.9,69.4,7.96,1.962,26.22
+Potato,Tamil Nadu,Zaid,18.75,1784.5,94.5,1.39,2.994,56.15
+Potato,Punjab,Rabi,2.56,1371.6,190.4,3.72,5.616,14.41
+Potato,Andhra Pradesh,Rabi,12.84,1236.0,177.0,2.48,12.728,163.48
+Potato,Maharashtra,Whole Year,20.41,1700.0,229.7,7.77,8.249,168.4
+Potato,Karnataka,Kharif,23.38,324.7,109.1,1.35,14.841,347.03
+Potato,Tamil Nadu,Whole Year,18.8,1582.3,109.8,3.55,5.811,109.27
+Potato,Madhya Pradesh,Rabi,1.64,850.8,201.7,3.37,11.713,19.22
+Potato,Madhya Pradesh,Whole Year,8.64,1744.6,207.5,0.57,0.2,1.73
+Potato,Punjab,Rabi,11.84,1839.4,62.2,1.87,5.8,68.66
+Potato,Telangana,Whole Year,18.6,1860.4,104.8,0.96,0.2,3.72
+Potato,Andhra Pradesh,Rabi,4.48,1881.3,96.5,7.0,16.792,75.16
+Potato,Karnataka,Zaid,24.67,1666.1,43.4,0.92,14.316,353.11
+Potato,Tamil Nadu,Whole Year,23.56,1337.4,48.5,1.75,13.003,306.3
+Potato,Madhya Pradesh,Rabi,4.01,1544.6,70.3,4.71,15.446,61.92
+Potato,Telangana,Kharif,14.46,1851.8,87.8,2.03,13.861,200.4
+Potato,Karnataka,Rabi,2.33,622.5,114.6,3.21,19.429,45.19
+Potato,Karnataka,Whole Year,20.31,1461.7,165.3,2.3,14.058,285.52
+Potato,Punjab,Kharif,4.93,1165.2,154.4,5.23,27.269,134.37
+Potato,Karnataka,Kharif,1.03,621.8,214.5,4.37,10.109,10.43
+Potato,Telangana,Rabi,22.55,427.4,232.1,0.71,36.255,817.71
+Potato,Punjab,Rabi,1.23,1201.9,46.1,1.67,29.37,36.0
+Potato,Punjab,Kharif,15.52,963.2,39.6,2.67,19.997,310.41
+Potato,Tamil Nadu,Whole Year,10.49,1877.1,139.3,7.16,7.532,79.0
+Potato,Maharashtra,Kharif,9.73,1216.3,54.9,5.56,7.017,68.29
+Potato,Telangana,Whole Year,18.12,532.3,89.6,4.54,10.136,183.65
+Potato,Andhra Pradesh,Kharif,13.65,1040.3,183.6,2.03,15.756,215.02
+Potato,Karnataka,Zaid,2.52,496.6,200.0,2.46,10.371,26.11
+Potato,Uttar Pradesh,Whole Year,24.05,1466.1,184.9,5.38,11.956,287.6
+Potato,Uttar Pradesh,Kharif,19.48,1827.9,227.2,2.46,1.451,28.27
+Potato,Tamil Nadu,Whole Year,16.46,1805.9,62.2,6.05,0.2,3.29
+Potato,Maharashtra,Rabi,24.06,1448.8,155.9,2.38,1.573,37.83
+Potato,Punjab,Rabi,23.67,577.6,246.3,3.71,22.93,542.69
+Potato,Andhra Pradesh,Whole Year,9.67,793.9,97.0,5.35,23.327,225.66
+Potato,Maharashtra,Whole Year,24.21,1606.5,236.4,5.88,0.924,22.37
+Potato,Maharashtra,Kharif,17.94,1752.1,94.6,4.33,10.955,196.49
+Potato,Punjab,Kharif,14.92,389.0,131.2,6.57,23.59,351.97
+Potato,Madhya Pradesh,Zaid,20.74,1553.5,138.6,4.93,22.804,473.02
+Potato,Madhya Pradesh,Rabi,13.54,1194.2,66.6,7.63,11.548,156.41
+Potato,Maharashtra,Zaid,17.31,631.8,62.1,2.46,20.05,347.04
+Potato,Madhya Pradesh,Whole Year,6.53,1100.2,24.2,1.16,10.797,70.53
+Potato,Punjab,Rabi,0.76,807.0,208.9,3.05,34.319,25.94
+Potato,Punjab,Whole Year,10.05,1089.0,204.4,7.87,11.153,112.14
+Potato,Madhya Pradesh,Rabi,15.0,1931.1,115.2,1.18,9.514,142.69
+Potato,Karnataka,Zaid,1.02,1023.2,114.2,2.41,18.522,18.84
+Potato,Andhra Pradesh,Zaid,13.12,1694.9,123.8,7.94,15.322,201.02
+Potato,Andhra Pradesh,Whole Year,4.32,310.9,233.6,5.65,24.131,104.26
+Potato,Andhra Pradesh,Kharif,20.33,1336.9,48.4,1.03,7.221,146.78
+Potato,Punjab,Rabi,23.45,1259.9,194.6,4.02,22.732,533.15
+Potato,Karnataka,Kharif,3.97,766.7,149.1,3.52,19.861,78.8
+Potato,Punjab,Zaid,16.88,1381.7,92.2,3.2,13.345,225.33
+Potato,Madhya Pradesh,Rabi,7.65,751.0,52.5,3.33,22.169,169.61
+Potato,Uttar Pradesh,Rabi,13.67,1474.8,32.1,4.71,4.017,54.9
+Potato,Karnataka,Whole Year,4.26,859.5,166.7,5.32,16.036,68.32
+Potato,Andhra Pradesh,Rabi,2.28,1414.1,239.2,7.99,8.633,19.66
+Potato,Tamil Nadu,Whole Year,7.28,1280.6,104.8,2.24,11.308,82.35
+Potato,Andhra Pradesh,Zaid,8.42,901.2,157.6,1.39,43.526,366.28
+Potato,Uttar Pradesh,Rabi,23.94,526.0,207.1,5.38,20.205,483.7
+Potato,Uttar Pradesh,Whole Year,23.79,1143.5,86.3,6.35,19.887,473.05
+Potato,Uttar Pradesh,Whole Year,18.39,1927.7,151.3,3.35,18.643,342.91
+Potato,Andhra Pradesh,Whole Year,2.19,1147.3,197.9,1.77,3.852,8.45
+Potato,Maharashtra,Zaid,16.44,1145.7,203.4,0.93,8.141,133.85
+Potato,Punjab,Zaid,0.84,675.5,198.3,1.3,21.729,18.32
+Potato,Karnataka,Rabi,16.13,1629.0,31.4,4.73,3.698,59.65
+Potato,Maharashtra,Rabi,22.45,1553.5,117.6,4.65,0.2,4.49
+Potato,Karnataka,Whole Year,5.81,866.4,84.2,6.51,5.525,32.07
+Potato,Punjab,Whole Year,10.65,431.1,41.5,3.5,13.037,138.85
+Potato,Maharashtra,Rabi,12.75,485.4,42.7,3.84,18.948,241.65
+Potato,Maharashtra,Kharif,14.25,954.5,231.5,3.64,29.124,414.99
+Potato,Punjab,Whole Year,13.04,505.6,119.5,3.32,27.035,352.57
+Potato,Maharashtra,Zaid,3.13,977.3,220.2,7.53,13.693,42.88
+Potato,Karnataka,Zaid,3.33,886.7,177.6,2.69,13.79,45.94
+Potato,Uttar Pradesh,Zaid,18.41,1093.5,139.4,2.95,24.756,455.67
+Potato,Madhya Pradesh,Rabi,14.89,935.1,39.0,3.71,20.582,306.54
+Potato,Tamil Nadu,Rabi,17.17,1133.4,162.8,4.69,16.517,283.52
+Potato,Tamil Nadu,Whole Year,17.37,517.2,105.5,3.77,24.515,425.77
+Potato,Madhya Pradesh,Zaid,14.08,740.9,125.4,3.79,32.292,454.61
+Potato,Maharashtra,Rabi,21.89,1273.0,161.6,3.73,14.21,311.03
+Potato,Karnataka,Kharif,5.52,1107.8,184.3,6.33,12.276,67.76
+Potato,Andhra Pradesh,Zaid,23.04,519.5,239.2,7.96,18.476,425.76
+Potato,Telangana,Rabi,19.13,1920.6,86.8,1.47,8.394,160.58
+Potato,Madhya Pradesh,Whole Year,5.31,1044.4,133.9,0.97,22.096,117.41
+Potato,Tamil Nadu,Rabi,15.31,1884.1,72.3,2.08,12.593,192.74
+Potato,Madhya Pradesh,Whole Year,1.57,751.5,148.4,3.59,22.87,36.01
+Potato,Andhra Pradesh,Kharif,15.38,1251.1,94.3,4.64,4.865,74.81
+Potato,Maharashtra,Zaid,10.13,1561.9,60.9,5.42,14.288,144.69
+Potato,Karnataka,Rabi,4.39,1814.9,126.1,4.31,11.637,51.14
+Potato,Andhra Pradesh,Rabi,5.94,438.7,101.3,6.49,30.015,178.22
+Potato,Telangana,Whole Year,4.62,1226.7,80.7,7.6,16.425,75.88
+Potato,Madhya Pradesh,Kharif,0.78,1111.1,218.3,4.43,17.644,13.82
+Potato,Andhra Pradesh,Zaid,3.7,1488.9,171.8,4.59,25.158,93.06
+Potato,Madhya Pradesh,Rabi,7.18,477.8,108.9,4.34,14.911,107.05
+Potato,Punjab,Rabi,10.93,856.5,100.6,2.49,30.116,329.07
+Potato,Andhra Pradesh,Whole Year,24.85,451.0,69.3,5.98,24.236,602.19
+Potato,Punjab,Rabi,3.78,1372.7,113.5,7.68,10.516,39.75
+Potato,Maharashtra,Kharif,2.81,1885.4,202.3,5.55,5.499,15.47
+Potato,Maharashtra,Rabi,6.63,1533.5,161.6,6.86,19.284,127.79
+Potato,Punjab,Rabi,13.95,1003.4,238.2,1.77,12.968,180.91
+Potato,Andhra Pradesh,Zaid,4.89,1461.9,201.5,5.88,15.297,74.78
+Potato,Karnataka,Whole Year,24.54,1860.8,113.6,1.71,11.206,275.02
+Potato,Karnataka,Whole Year,13.52,1597.5,60.5,2.89,6.062,81.97
+Potato,Maharashtra,Rabi,17.07,947.2,200.8,5.77,37.31,636.91
+Potato,Madhya Pradesh,Kharif,4.16,1106.2,152.7,2.2,14.147,58.89
+Potato,Maharashtra,Kharif,10.63,530.1,22.7,3.59,22.989,244.28
+Potato,Punjab,Zaid,12.63,388.7,73.5,4.43,28.39,358.6
+Potato,Punjab,Zaid,16.33,1835.8,35.0,1.24,15.622,255.12
+Potato,Telangana,Whole Year,15.44,307.9,124.1,1.8,12.54,193.59
+Potato,Karnataka,Rabi,2.06,1675.7,110.2,6.93,18.057,37.28
+Potato,Telangana,Kharif,6.36,386.0,180.0,2.03,26.725,170.05
+Potato,Maharashtra,Whole Year,18.3,1716.9,45.5,6.21,0.2,3.66
+Potato,Maharashtra,Zaid,3.89,751.6,217.3,5.21,34.28,133.25
+Potato,Karnataka,Kharif,10.72,552.2,96.5,4.34,36.684,393.13
+Potato,Andhra Pradesh,Zaid,2.26,867.5,98.1,4.36,28.241,63.69
+Potato,Maharashtra,Rabi,7.64,1726.4,200.6,1.88,22.561,172.36
